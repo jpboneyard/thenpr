@@ -81,7 +81,7 @@
 	<script type="text/javascript" src="_js/libs/jquery.ui.core.interaction.js"></script>
 	
 	<!-- Masonry Jams -->
- 	 <script src="_js/jquery.masonry.min.js"></script>
+ 	 <script src="_js/jquery.masonry.js"></script>
  	 <script src="_js/libs/jquery.imagesloaded.min.js"></script>
 	
 	<!-- Do you want IE to work? -->

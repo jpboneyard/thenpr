@@ -71,12 +71,19 @@ h2, h3, h4, h5 {
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	color: #fff;
+	border: 5px solid;
+	border-color: #fff;
+	width: 50%;
+	margin: 0 auto;	
 }
 
 .alt-h2 {
-	font-size: 40px;
+	font-size: 52px;
+	line-height: 149%;
 	text-align: left;
 	text-indent: -0.35em;
+	border: 0px;
+	width: auto;
 }
 
 .attribution {
@@ -430,7 +437,7 @@ hdr-slide-img {
 .praise-topper {
 	background: url(../_img/topper-praise.jpg) 50% 50%;
 	height: 600px;
-	padding: 190px;
+	padding: 140px 190px;
 }
 
 .praise {
@@ -494,6 +501,44 @@ hdr-slide-img {
 	margin: 0 auto;
 }
 
+.hits-topper {
+	background: url(../_img/topper-posters.jpg) 50% 50%;
+	height: 600px;
+	padding: 190px;
+}
+
+.greatest-hits {
+	background-color: #f5f0e6;
+	padding-bottom: 60px;
+	position: relative;
+}
+
+.greatest-hits:after {
+	content: '\0020';
+	background: url(../_img/blk-border-2.png) 50% 50%;
+	display: block;
+	height: 12px;
+	width: 100%;
+	position: absolute;
+	bottom: -3px;	
+}
+
+.hits-mod {
+	margin-top: -110px;
+}
+
+.players-topper, .info-topper {
+	padding-bottom: 20px;
+
+	h2 {
+		margin-bottom: 30px;
+	}
+}
+
+.info-topper {
+	background-color: #b4b558;
+}
+
 /* ============================================= */
 
 /*	Page Objects		 			   			 */ 
@@ -505,12 +550,12 @@ hdr-slide-img {
 	margin-top: 15px;
 
 	img {
-		max-width: 22px;
+		max-width: 20px;
 		width: 100%;
 	}//img
 
 	a {
-		margin-right: 9px;
+		margin-right: 10px;
 
 		&:last-child {
 			margin-right: 0px;
@@ -1158,16 +1203,15 @@ hdr-slide-img {
 }
 
 .image-gallery {
-	background-color: #f5f0e6;
-	padding-bottom: 60px;
-	padding-top: 60px;
+/*	background-color: #f5f0e6;
+*/	padding-top: 25px;
 	position: relative;
 }
 
 .image-gallery:after {
 	content: '\0020';
-	background: url(../_img/blk-border-2.png) 50% 50%;
-	display: block;
+/*	background: url(../_img/blk-border-2.png) 50% 50%;
+*/	display: block;
 	height: 12px;
 	width: 100%;
 	position: absolute;
@@ -2029,101 +2073,6 @@ position: relative;
 @-ms-keyframes spin {
   from { -ms-transform: rotate(0deg); }
   to { -ms-transform: rotate(360deg); }
-}
-
-
-.hdr-compass {
-	display: none;
-	
-	@media (min-width: 850px) {
-		display: inline;
-		position: absolute;
-		float: left;
-		width: 100%;
-		max-height: 68px;
-		max-width: 20px !important;
-		height: 100%;
-		top: 143px;
-		left: 245px;
-		
-	  -webkit-animation-name: spin; 
-	  -webkit-animation-duration: 1000ms; /* 40 seconds */
-	  -webkit-animation-iteration-count: infinite; 
-	  -webkit-animation-timing-function: linear;
-	  
-	  /* mozilla ff */
-	  -moz-animation-name: spin; 
-	  -moz-animation-duration: 1000ms; /* 40 seconds */
-	  -moz-animation-iteration-count: infinite; 
-	  -moz-animation-timing-function: linear;
-	  
-	  /* microsoft ie */
-	  -ms-animation-name: spin; 
-	  -ms-animation-duration: 1000ms; /* 40 seconds */
-	  -ms-animation-iteration-count: infinite; 
-	  -ms-animation-timing-function: linear;	
-	}
-
-}
-
-/* Flip css */
-
-/* entire container, keeps perspective */
-.flip-container {
-	-webkit-perspective: 2000;
-	-moz-perspective: 2000;
-	perspective: 2000;
-	width: 100%;
-	@include pie-clearfix;
-	// height: 200px;
-}
-
-/* flip the pane when hovered */
-.flip-container:hover .flipper, .flip-container.hover .flipper {
--webkit-transform: rotateY(180deg);
--moz-transform: rotateY(180deg);
-transform: rotateY(180deg);
-}
-
-.flip-container, .front, .back {
-	width: 100%;
-}
-
-/* flip speed goes here */
-.flipper {
--webkit-transition: 0.6s;
--webkit-transform-style: preserve-3d;
--moz-transition: 0.6s;
--moz-transform-style: preserve-3d;
--o-transition: 0.6s;
--o-transform-style: preserve-3d;
-transition: 0.6s;
-transform-style: preserve-3d;
-// position: relative;
-@include pie-clearfix;
-}
-
-/* hide back of pane during swap */
-.front, .back {
-	-webkit-backface-visibility: hidden;
-	-moz-backface-visibility: hidden;
-	backface-visibility: hidden;
-	position: absolute;
-	top: 0;
-	left: 0;
-}
-
-/* front pane, placed above back */
-.front {
-  z-index: 2;
-}
-
-/* back, initially hidden pane */
-.back {
-	 background-color: #000;
-	-webkit-transform: rotateY(180deg);
-	-moz-transform: rotateY(180deg);
-	transform: rotateY(180deg);
 }
 
 

@@ -68,7 +68,7 @@
   };
 
   $.Mason.settings = {
-    isResizable: true,
+    isResizable: false,
     isAnimated: false,
     animationOptions: {
       queue: false,
@@ -76,7 +76,7 @@
     },
     gutterWidth: 0,
     isRTL: false,
-    isFitWidth: false,
+    isFitWidth: false, //changed 8/13
     containerStyle: {
       position: 'relative'
     }
@@ -233,7 +233,7 @@
       this.columnWidth += this.options.gutterWidth;
 
       this.cols = Math.floor( ( containerWidth + this.options.gutterWidth ) / this.columnWidth );
-      this.cols = Math.max( this.cols, 1 );
+      this.cols = Math.max( this.cols, 1); //sets column
 
     },
 
