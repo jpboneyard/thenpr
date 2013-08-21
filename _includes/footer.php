@@ -1,27 +1,5 @@
     <footer>
 		<div class="wrapper">
-
-			<div class="post-item-container">
-				<div class="post-item">
-					<div class="post-item-title">
-						<h2>Contact</h2>
-					</div>
-					<div class="post-item-wht-rule"></div>
-						<p class="post-item-content-wht">john at jpboneyard.com</p>
-				</div> <!-- /post-item -->
-				
-				<div class="post-item last">
-					<div class="post-item-title">
-						<h2>Press</h2>
-					</div>
-					<div class="post-item-wht-rule"></div>
-						<ul class="press-list">
-							<li class="press-list-item"><a href="http://digboston.com/boston-arts-theater/2013/05/preview-the-national-poster-retrospecticus/" target="_blank" alt="Dig Boston">Dig Boston</a></li>
-							<li class="press-list-item"><a href="http://articles.boston.com/2012-03-21/arts/31223614_1_posters-bands-fliers" target="_blank" alt="Boston Globe">Boston Globe</a></li>
-						</ul>
-				</div> <!-- /post-item-last -->
-			</div> <!-- /post-item-container -->
-
 			<ul class="logo-grid">
 				<li class="logo-grid-item"><a href="index.php" alt="The National Poster Retrospecticus"><img class="logo-icon" src="_img/npr-logo.png"></a></li>
 				<li class="logo-grid-item"><a href="http://jpboneyard.com" target="_blank" alt="JP Boneyard Design"><img class="logo-icon" src="_img/jpb-logo.png"></a></li>

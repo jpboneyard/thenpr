@@ -1,4 +1,3 @@
-		<section class="shows">
 			<div class="shows-topper">
     			<h2 class="topper-h2">The Shows</h2>
     		</div> <!-- /shows-topper -->
@@ -116,4 +115,3 @@
 
 				</div> <!-- /.image-container -->
 			</div> <!-- /.wrapper -->
-		</section> <!-- /.shows -->
