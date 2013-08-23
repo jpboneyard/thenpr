@@ -1,5 +1,5 @@
 <section class="image-gallery">
-	<div class="wrapper">
+	<div class="gallery-wrapper">
 		<ul class="photo-grid" id="poster-grid">
 			<li class="photo-grid-item"><a class="fancybox" rel="group" href="_img/npr12/npr-12-two-arms.jpg"><img class="photo-grid-img" src="_img/npr12/npr-2012-two-arms.jpg"><div class="photo-caption">Two Arms Inc.</div></a></li>
 			<li class="photo-grid-item"><a class="fancybox" rel="group" href="_img/npr12/npr-12-decoder-ring.jpg"><img class="photo-grid-img" src="_img/npr12/npr-2012-decoder-ring.jpg"></a><div class="photo-caption">Decoder Ring</div></li>

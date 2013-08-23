@@ -72,7 +72,7 @@ $(document).ready(function() {
 	}
 
   	initClassFixing();
-  	initTabs();
+  	// initTabs();
   	initDropDowns();
   	initToolTips();
   	initModals();
