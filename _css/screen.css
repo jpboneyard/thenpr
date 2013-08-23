@@ -1037,6 +1037,8 @@ header:after {
   transition: ease-in 0.2s all;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
   opacity: 0.5;
+  border-bottom: 3px solid;
+  padding-bottom: 3px;
 }
 @media (min-width: 600px) {
   .social-mod {

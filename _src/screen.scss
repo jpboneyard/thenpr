@@ -613,6 +613,8 @@ hdr-slide-img {
 		&:hover {
 			@include trans;
 			@include opacity (.5);
+			border-bottom: 3px solid;
+			padding-bottom: 3px;
 		}
 	}//a
 
