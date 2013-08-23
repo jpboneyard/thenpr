@@ -35,8 +35,10 @@
 			
 		<section class="praise">
 			<div class="praise-topper">
-    			<h2 class="topper-h2 alt-h2">“Those poster bros took good care of me! Good exposure, nice graphics, friendly vibes. There’s tons of value here. For poster designers. For empty walls. For America!”</h2>
-				<h3 class="attribution">—Aaron Draplin</h3> 
+				<div class="topper-txt-mod">
+    				<h2 class="topper-h2 alt-h2">“Those poster bros took good care of me! Good exposure, nice graphics, friendly vibes. There’s tons of value here. For poster designers. For empty walls. For America!”</h2>
+					<h3 class="attribution">—Aaron Draplin</h3> 
+				</div> <!-- /topper-txt-mod -->	
     		</div> <!-- /shows-topper -->
     		<div class="wrapper praise-mod">
     			<div class="praise-item-mod">
@@ -106,7 +108,5 @@
     			</div> <!-- /praise-item-mod -->
     		</div> <!-- /wrapper -->
     	</section> <!-- /praise -->
-
-
 
 <?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/footer.php"); ?>

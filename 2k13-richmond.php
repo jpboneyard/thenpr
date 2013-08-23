@@ -1,6 +1,7 @@
 <?php 
-    $title = "The National Poster Retrospecticus -- Richmond, VA -- April 20, 2013";
-    include($_SERVER["DOCUMENT_ROOT"]."/_includes/header.php"); ?>    
+    $title = "The National Poster Retrospecticus -- Boston, MA";
+    include($_SERVER["DOCUMENT_ROOT"]."/_includes/head.php"); ?>   
+	<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/header.php"); ?>   
     
     <div id="main" role="main">
 
@@ -37,6 +38,8 @@
 	    </section> <!-- /event-details -->		
 	</div> <!-- /.main --> <!-- End of Main --> 
 
-	<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/tour-slides.php"); ?>
-
+		<section class="shows">	
+	   		<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/tour-slides.php"); ?>
+	   	</section> <!-- /shows -->
+	   	
 <?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/footer.php"); ?>
