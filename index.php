@@ -24,10 +24,13 @@
     	</section> <!-- /.intro -->
 
     	<section class="about">
-    		<div class="wrapper">
+    		<div class="about-topper">
+    			<h2 class="topper-h2">About the NPR</h2>
+    		</div> <!-- /hits-topper -->
     			<h2 class="topper-h2 alt-h2">The National Poster Retrospecticus is a traveling show of more than 250 hand-printed event posters from over 80 of the most prominent poster designers in the country.</h2>
-    		</div> <!-- /wrapper -->
     	</section> <!-- /section -->	
+
+
     		
     	<section class="shows">	
 			<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/tour-slides.php"); ?>
@@ -67,7 +70,7 @@
 		<section class="greatest-hits">
 			<div class="hits-topper">
     			<h2 class="topper-h2">Select Works</h2>
-    		</div> <!-- /shows-topper -->
+    		</div> <!-- /hits-topper -->
     		<div class="hits-mod">
     			<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/select-works.php"); ?>
     		</div> <!-- /wrapper -->
