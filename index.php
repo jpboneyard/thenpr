@@ -37,7 +37,6 @@
     			</div><!-- /btn-txt -->
     	</section> <!-- /section -->	
 
-    		
     	<section class="shows" data-stellar-ratio="2">	
     		<div class="shows-topper">
     			<div class="title-mod">

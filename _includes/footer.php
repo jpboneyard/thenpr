@@ -1,4 +1,4 @@
-    <footer data-stellar-ratio="2">
+    <footer data-stellar-ratio="2.2">
 		<div class="wrapper">
 			<ul class="logo-grid">
 				<li class="logo-grid-item"><a href="index.php" alt="The National Poster Retrospecticus"><img class="logo-icon" src="_img/npr-logo.png"></a></li>
