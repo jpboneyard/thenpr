@@ -8,12 +8,12 @@
 	    	<div class="home-hdr">
 		    	<img class="home-hdr-img" src="_img/npr-hdr-logo-2.png" alt="The National Poster Retrospecticus"/>
 				<h1 class="hdr-logo">The National Poster Retrospecticus</h1>
-				<div class="social-mod">
-					<a href="https://www.facebook.com/nationalposterretrospecticus" target="_blank"><img src="/_img/social-facebook.png" /></a> 
-					<a href="https://twitter.com/thenpr" target="_blank"><img src="/_img/social-twitter.png" /></a> 
-					<a href="http://instagram.com/jpboneyard" target="_blank"><img src="/_img/social-instagram.png" /></a>
-					<a href="http://npr.supermarkethq.com" target="_blank"><img src="/_img/social-supermarket.png" /></a>
-				</div> <!-- /social-mod -->		
+				<ul class="social-mod">
+					<li><a href="https://www.facebook.com/nationalposterretrospecticus" target="_blank"><img src="/_img/social-facebook.png" /></a></li> 
+					<li><a href="https://twitter.com/thenpr" target="_blank"><img src="/_img/social-twitter.png" /></a></li> 
+					<li><a href="http://instagram.com/jpboneyard" target="_blank"><img src="/_img/social-instagram.png" /></a></li> 
+					<li><a href="http://npr.supermarkethq.com" target="_blank"><img src="/_img/social-supermarket.png" /></a></li> 
+				</ul> <!-- /social-mod -->		
 			</div> <!-- /home-hdr -->
 			<div class="intro-img-container"><img class="intro-img" src="_img/npr-hdr-btm-2k14.gif" alt="national poster retrospecticus btm"></div>   	
 			<div class="scroll-arrow-mod">
@@ -27,23 +27,33 @@
     		<div class="about-topper">
     			<h2 class="topper-h2">About the NPR</h2>
     		</div> <!-- /hits-topper -->
-    			<h2 class="topper-h2 alt-h2">The National Poster Retrospecticus is a traveling show of more than 250 hand-printed event posters from over 80 of the most prominent poster designers in the country.</h2>
+    			<div class="wrapper about-intro">
+    				<h3 class="topper-h3">The National Poster Retrospecticus is a traveling show of more than 250 hand-printed event posters from over 80 of the most prominent poster designers in the country.</h2>
+    				<p class="p-txt">The NPR is produced by <a href="http://www.jpboneyard.com" target="_blank">JP Boneyard</a> who is a poster designer and enthusiast. While some form of The NPR goes back as far as 2006, the current rendition of the show took shape in the Spring of 2012. Our mission is to celebrate posters, the made-by-hand aesthetic and help spread that enthusiasm around the world. We wanna travel everywhere!</p>
+    			</div>
+    			<div class="btn-txt">
+    				<btn class="btn-submit"><a href="mailto:john@jpboneyard.com" subject="We'd Like to Host The NPR">Host The NPR</a></btn>	
+    			</div><!-- /btn-txt -->
     	</section> <!-- /section -->	
-
 
     		
     	<section class="shows">	
 			<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/tour-slides.php"); ?>
 		</section> <!-- /shows -->	
-			
+
 		<section class="praise">
 			<div class="praise-topper">
-				<div class="topper-txt-mod">
-    				<h2 class="topper-h2 alt-h2">“Those poster bros took good care of me! Good exposure, nice graphics, friendly vibes. There’s tons of value here. For poster designers. For empty walls. For America!”</h2>
-					<h3 class="attribution">—Aaron Draplin</h3> 
-				</div> <!-- /topper-txt-mod -->	
+    			<h2 class="topper-h2">Kind Words</h2>
     		</div> <!-- /shows-topper -->
+
     		<div class="wrapper praise-mod">
+    			<div class="praise-item-feat">
+    				<img class="praise-hero-img" src="/_img/draplin-mug.png">
+    				<h2 class="alt-h2">“Those poster bros took good care of me! Good exposure, nice graphics, friendly vibes. There’s tons of value here. For poster designers. For empty walls. For America!”</h2>
+					<h3 class="attribution">—Aaron Draplin</h3> 
+    			</div>	
+
+<div class="wrapper praise-mod">
     			<div class="praise-item-mod">
     				<div class="praise-item media-block">
     					<img class="praise-img" src="/_img/doe-eyed-mug.png" />
@@ -65,7 +75,7 @@
     				</div> <!-- /praise-item -->
     			</div> <!-- /praise-item-mod -->
     		</div> <!-- /wrapper -->
-    	</section> <!-- /praise -->
+    	</section> <!-- /praise -->		
 
 		<section class="greatest-hits">
 			<div class="hits-topper">
@@ -85,31 +95,5 @@
     				<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/players.php"); ?>
     			</div> <! --/players-mod -->
     	</section> <!-- /players -->	
-
-
-		<section class="praise">
-			<div class="praise-topper">
-    			<h2 class="topper-h2">Press</h2>
-    		</div> <!-- /shows-topper -->
-    		<div class="wrapper praise-mod">
-    			<div class="praise-item-mod">
-    				<div class="praise-item media-block">
-    					<img class="praise-img" src="/_img/doe-eyed-mug.png" />
-    					<div class="praise-name">Dig Boston</div>
-    					<div class="praise-studio">Read More</div>
-    				</div> <!-- /praise-item -->
-    				<div class="praise-item media-block">
-    					<img class="praise-img" src="/_img/burlesque-mug.png" />
-    					<div class="praise-name">Printeresting</div>
-    					<div class="praise-studio">Read More</div>
-    				</div> <!-- /praise-item -->
-    				<div class="praise-item media-block">
-    					<img class="praise-img" src="/_img/aesthetic-mug.png" />
-    					<div class="praise-name">Boston Globe</div>
-    					<div class="praise-studio">Read More</div>
-    				</div> <!-- /praise-item -->
-    			</div> <!-- /praise-item-mod -->
-    		</div> <!-- /wrapper -->
-    	</section> <!-- /praise -->
 
 <?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/footer.php"); ?>
