@@ -67,7 +67,7 @@ h2, h3, h4, h5 {
 
 .p-txt {
 	text-align: left;
-	font: 18px/140% $sans;
+	font: 17px/145% $sans;
 	color: #ddd;
 
 	@media (min-width: 600px) {
@@ -82,23 +82,25 @@ h2, h3, h4, h5 {
 }
 
 .topper-h2 {
-	font: 55px/145% "league-gothic";
+	font: 36px/145% "league-gothic";
 	text-align: center;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	color: #fff;
-	border: 5px solid;
+	border: 6px solid;
 	border-color: #fff;
 	width: 100%;
 	margin: 0 auto;	
+	padding: 10px 30px;
 
 	@media (min-width: 600px) {
 		font-size: 75px;
+		border: 7px solid;
 	}//mq
 }
 
 .topper-h3 {
-	font: 30px/140% "league-gothic";
+	font: 24px/142% "league-gothic";
 	text-align: left;
 	text-transform: uppercase;
 	letter-spacing: 2px;
@@ -117,19 +119,23 @@ h2, h3, h4, h5 {
 	text-indent: -0.35em;
 	border: 0px;
 	width: auto;
-	font: 32px/140% "league-gothic";	
+	font: 28px/140% "league-gothic";	
 	color: #333;
 
 	@media (min-width: 600px) {
-		font: 50px/149% "league-gothic";	
+		font: 48px/130% "league-gothic";	
 	}//mq
 }
 
 .attribution {
-	font: 30px/140% "league-gothic";
+	font: 22px/140% "league-gothic";
 	text-align: left;
 	color: #555;
 	margin-top: 12px;
+
+	@media (min-width: 600px) {
+		font: 30px/140% "league-gothic";	
+	}//mq
 }
 
 // If fonts are active ...
@@ -147,7 +153,9 @@ h2, h3, h4, h5 {
 		
 }		
 
-
+.title-mod {
+	margin: 0 auto;
+}
 
 /* ============================================= */
 
@@ -459,8 +467,12 @@ hdr-slide-img {
 
 .about {
 	background-color: #000;
-	padding-bottom: 60px;
+	padding-bottom: 15px;
 	position: relative;
+
+	@media (min-width: 600px) {
+		padding-bottom: 60px;
+	}//mq
 }
 
 .about:after {
@@ -470,16 +482,16 @@ hdr-slide-img {
 	height: 12px;
 	width: 100%;
 	position: absolute;
-	bottom: -10px;	
+	bottom: -10px;
 	z-index: 4;	
 }	
 
 .about-intro {
-	padding-top: 45px;
+	padding: 45px 40px 0px 40px;
 }
 
 .shows-topper {
-	background: url(../_img/topper-shows.jpg) center center no-repeat;
+	background: url(../_img/topper-shows-2.jpg) center center no-repeat;
 	height: 300px;
 	padding: 0px 20px;
 	background-size: cover;
@@ -1436,11 +1448,15 @@ hdr-slide-img {
 	& .photo-grid {
 		margin: 0 auto;
 		padding: 0px;
-		width: 87%;
+		width: 100%;
 		text-align: center;
 		position: relative;
 		max-width: 1150px;
-	}
+
+		@media (min-width: 600px) {
+			width: 87%;
+		}//mq
+	}//photo-grid
 }
 
 .image-gallery:after {
@@ -1520,13 +1536,13 @@ hdr-slide-img {
 
 @media screen and (max-width: 600px) {
 	.photo-grid-item {
-		width: 47.8%;
+		width: 32%;
 	}
 }
 
 @media screen and (max-width: 400px) {
 	.photo-grid-item {
-		width: 32%;
+		width: 48.7%;
 	}
 }
 
@@ -2318,9 +2334,9 @@ position: relative;
 	    -webkit-border-radius: 8px;
 	    -moz-border-radius: 8px;
 	    border-radius: 8px;
-	    -webkit-box-shadow: 0px 7px 0px rgba(134,137,65,1), 0px 7px 20px rgba(0,0,0,.7);
-	    -moz-box-shadow: 0px 7px 0px rgba(134,137,65,1), 0px 7px 20px rgba(0,0,0,.7);
-	    box-shadow: 0px 7px 0px rgba(134,137,65,1), 0px 7px 20px rgba(0,0,0,.7);
+	    -webkit-box-shadow: 0px 4px 0px rgba(134,137,65,1), 0px 4px 20px rgba(0,0,0,.7);
+	    -moz-box-shadow: 0px 4px 0px rgba(134,137,65,1), 0px 74x 20px rgba(0,0,0,.7);
+	    box-shadow: 0px 4px 0px rgba(134,137,65,1), 0px 4px 20px rgba(0,0,0,.7);
 	    margin: 40px auto;
 		width: 160px;
 		text-align: center;
@@ -2342,7 +2358,7 @@ position: relative;
 	    -moz-box-shadow: 0px 3px 0px rgba(134,137,65,1), 0px 3px 6px rgba(0,0,0,.9);
 	    box-shadow: 0px 3px 0px rgba(134,137,65,1), 0px 3px 6px rgba(0,0,0,.9);
 	    position: relative;
-	    top: 6px;
+	    top: 4px;
 	}
 }//btn-submit
 

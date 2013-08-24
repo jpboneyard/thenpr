@@ -1,6 +1,3 @@
-			<div class="shows-topper">
-    			<h2 class="topper-h2">The Shows</h2>
-    		</div> <!-- /shows-topper -->
 			<div class="wrapper shows-mod">
 				<div class="image-container">
 				<div class="post-item-single">

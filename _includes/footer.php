@@ -1,4 +1,4 @@
-    <footer>
+    <footer data-stellar-ratio="2">
 		<div class="wrapper">
 			<ul class="logo-grid">
 				<li class="logo-grid-item"><a href="index.php" alt="The National Poster Retrospecticus"><img class="logo-icon" src="_img/npr-logo.png"></a></li>
@@ -73,8 +73,12 @@
 	<!-- Scrolling -->
 	<script type="text/javascript" src="_js/libs/jquery.localscroll.js"></script>
 	<script src="_js/project/responsive-carousel.js"></script>
-  <script src="_js/project/responsive-carousel.autoplay.js"></script>
-<!-- 	<script type="text/javascript" src="_js/libs/jquery.scrollto-min.js"></script> -->
+  	<script src="_js/project/responsive-carousel.autoplay.js"></script>
+	<!-- 	<script type="text/javascript" src="_js/libs/jquery.scrollto-min.js"></script> -->
+
+	<!-- Stellar.js -->
+	<script src="_js/project/jquery.stellar.js"></script>
+
   
   <script src="_js/plugins.js"></script>
   <script src="_js/script.js"></script>

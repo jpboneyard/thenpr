@@ -4,7 +4,7 @@
 
 
     <div id="main" role="main">
-         <section class="intro">
+         <section class="intro" data-stellar-ratio="2">
 	    	<div class="home-hdr">
 		    	<img class="home-hdr-img" src="_img/npr-hdr-logo-2.png" alt="The National Poster Retrospecticus"/>
 				<h1 class="hdr-logo">The National Poster Retrospecticus</h1>
@@ -23,13 +23,15 @@
 			</div><!-- /scroll-arrow-mod-->
     	</section> <!-- /.intro -->
 
-    	<section class="about">
+    	<section class="about" data-stellar-ratio="2">
     		<div class="about-topper">
-    			<h2 class="topper-h2">About the NPR</h2>
+    			<div class="title-mod">
+    				<h2 class="topper-h2">About the NPR</h2>
+    			</div> <!-- /title-mod -->	
     		</div> <!-- /hits-topper -->
     			<div class="wrapper about-intro">
     				<h3 class="topper-h3">The National Poster Retrospecticus is a traveling show of more than 250 hand-printed event posters from over 80 of the most prominent poster designers in the country.</h2>
-    				<p class="p-txt">The NPR is produced by <a href="http://www.jpboneyard.com" target="_blank">JP Boneyard</a> who is a poster designer and enthusiast. While some form of The NPR goes back as far as 2006, the current rendition of the show took shape in the Spring of 2012. Our mission is to celebrate posters, the made-by-hand aesthetic and help spread that enthusiasm around the world. We wanna travel everywhere!</p>
+    				<p class="p-txt">The NPR is produced by <a href="http://www.jpboneyard.com" target="_blank">JP Boneyard</a>; a poster designer and enthusiast who has been setting up art and music events since 1998. While some form of The NPR goes back as far as 2006, the current format took shape in the Spring of 2012. Our mission is to celebrate posters, the made-by-hand aesthetic and help spread that enthusiasm around the world. We wanna travel everywhere!</p>
     			</div>
     			<div class="btn-txt">
     				<btn class="btn-submit"><a href="mailto:john@jpboneyard.com" subject="We'd Like to Host The NPR">Host The NPR</a></btn>	
@@ -37,13 +39,20 @@
     	</section> <!-- /section -->	
 
     		
-    	<section class="shows">	
+    	<section class="shows" data-stellar-ratio="2">	
+    		<div class="shows-topper">
+    			<div class="title-mod">
+    				<h2 class="topper-h2">The Shows</h2>
+    			</div> <!--/title-mod -->	
+    		</div> <!-- /shows-topper -->
 			<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/tour-slides.php"); ?>
 		</section> <!-- /shows -->	
 
-		<section class="praise">
+		<section class="praise" data-stellar-ratio="2">
 			<div class="praise-topper">
-    			<h2 class="topper-h2">Kind Words</h2>
+				<div class="title-mod">
+    				<h2 class="topper-h2">Kind Words</h2>
+    			</div> <!-- /title-mod -->	
     		</div> <!-- /shows-topper -->
 
     		<div class="wrapper praise-mod">
@@ -53,7 +62,6 @@
 					<h3 class="attribution">—Aaron Draplin</h3> 
     			</div>	
 
-<div class="wrapper praise-mod">
     			<div class="praise-item-mod">
     				<div class="praise-item media-block">
     					<img class="praise-img" src="/_img/doe-eyed-mug.png" />
@@ -74,12 +82,13 @@
     					<p class="praise-txt">"We thought we had seen it all. After 15 years in the scene I can still find new and exciting art in this show and that's a testament to its expansiveness."</p>
     				</div> <!-- /praise-item -->
     			</div> <!-- /praise-item-mod -->
-    		</div> <!-- /wrapper -->
     	</section> <!-- /praise -->		
 
-		<section class="greatest-hits">
+		<section class="greatest-hits" data-stellar-ratio="2">
 			<div class="hits-topper">
-    			<h2 class="topper-h2">Select Works</h2>
+				<div class="title-mod">
+    				<h2 class="topper-h2">Select Works</h2>
+    			</div> <!-- /title-mod -->	
     		</div> <!-- /hits-topper -->
     		<div class="hits-mod">
     			<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/select-works.php"); ?>
@@ -87,9 +96,11 @@
     	</section> <!-- /greatest-hits -->    	
 
 
-		<section class="players">
+		<section class="players" data-stellar-ratio="2">
 			<div class="players-topper">
-				<h2 class="topper-h2">The Players</h2>
+				<div class="title-mod">
+					<h2 class="topper-h2">The Players</h2>
+				</div><!-- /title-mod -->
     		</div> <!-- /players-topper -->	
     			<div class="wrapper players-mod">
     				<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/players.php"); ?>

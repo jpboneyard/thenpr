@@ -33,4 +33,6 @@ $(document).ready(function(){
 
 	$(".sponsor-main-item img[title]").tooltip();
 
+	$(window).stellar();
+
 });
