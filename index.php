@@ -2,9 +2,8 @@
     $title = "The National Poster Retrospecticus";
     include($_SERVER["DOCUMENT_ROOT"]."/_includes/head.php"); ?>
 
-
     <div id="main" role="main">
-         <section class="intro" data-stellar-ratio="2">
+         <section class="intro slide" data-stellar-background-ratio="0.5">
 	    	<div class="home-hdr">
 		    	<img class="home-hdr-img" src="_img/npr-hdr-logo-2.png" alt="The National Poster Retrospecticus"/>
 				<h1 class="hdr-logo">The National Poster Retrospecticus</h1>
@@ -23,7 +22,7 @@
 			</div><!-- /scroll-arrow-mod-->
     	</section> <!-- /.intro -->
 
-    	<section class="about" data-stellar-ratio="2">
+    	<section class="about slide" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="1000"alt="">
     		<div class="about-topper">
     			<div class="title-mod">
     				<h2 class="topper-h2">About the NPR</h2>
@@ -107,4 +106,4 @@
     			</div> <! --/players-mod -->
     	</section> <!-- /players -->	
 
-<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/footer.php"); ?>
+		<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/footer.php"); ?>

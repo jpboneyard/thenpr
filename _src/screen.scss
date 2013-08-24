@@ -183,6 +183,7 @@ header:after{
 	padding: 0 20px;
 	text-align: center;
 	@include pie-clearfix;
+	position: relative; /*added*/
 	
 	@media (min-width: 401px) {
 		padding: 0 30px;
@@ -236,10 +237,6 @@ header:after{
 		margin-bottom: 15px;
 		margin-right: 0px;
 	}	
-}
-
-hdr-slide-img {
-
 }
 
 .hdr-logo {
@@ -469,6 +466,7 @@ hdr-slide-img {
 	background-color: #000;
 	padding-bottom: 15px;
 	position: relative;
+	z-index: 100;
 
 	@media (min-width: 600px) {
 		padding-bottom: 60px;
@@ -923,10 +921,17 @@ hdr-slide-img {
 		
 }
 
+.slide {
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
 .intro {
 	background-color: #b4b558;
-	position: relative;
 	padding: 40px 0px;
+	height: 100%;
 
 	@media (min-width: 600px) {
 		padding: 60px 0px;
