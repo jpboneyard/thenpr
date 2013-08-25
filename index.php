@@ -109,4 +109,15 @@
     			</div> <! --/players-mod -->
     	</section> <!-- /players -->	
 
+    	<section class="contact">
+    		<div class="contact-mod">
+	    		<h3 class="topper-h3">Hey, let's talk posters!</h3>
+	    		<div class="btn-txt">
+	    			<btn class="btn-submit"><a href="mailto:john@jpboneyard.com" subject="We'd Like to Host The NPR">john @ jpboneyard.com</a></btn>	
+	    		</div><!-- /btn-txt -->
+	    	</div> <!-- /contact-mod -->	
+    	</section> <!--/ contact -->	
+
 		<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/footer.php"); ?>
+
+

@@ -1220,6 +1220,17 @@ header:after {
   position: relative;
 }
 
+.players:after {
+  content: '\0020';
+  background: url(../_img/blk-border-1.png) 50% 50%;
+  display: block;
+  height: 11px;
+  width: 100%;
+  position: absolute;
+  bottom: -11px;
+  z-index: 1;
+}
+
 .players-topper {
   background: url(../_img/topper-players.jpg) center center no-repeat;
   height: 300px;
@@ -1252,6 +1263,40 @@ header:after {
 
 .info-topper {
   background-color: #b4b558;
+}
+
+.contact {
+  background-color: #1E1E1E;
+  padding: 60px;
+  position: relative;
+  text-align: center;
+  color: #fff;
+  margin: 0 auto;
+}
+.contact .btn-submit a {
+  max-width: 270px;
+  width: 100%;
+}
+
+.contact:after {
+  content: '\0020';
+  background: url(../_img/blk-border-2.png) 50% 50%;
+  display: block;
+  height: 11px;
+  width: 100%;
+  position: absolute;
+  bottom: -5px;
+  z-index: 1;
+}
+
+.contact-mod {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 800px;
+}
+.contact-mod h3 {
+  text-align: center;
+  font-size: 37px;
 }
 
 /* ============================================= */
