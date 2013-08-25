@@ -486,7 +486,7 @@ h2, h3, h4, h5 {
 
 .p-txt {
   text-align: left;
-  font: 17px/145% Arial, Helvetica, Verdana, sans-serif;
+  font: 17px/155% "chaparral-pro";
   color: #ddd;
 }
 @media (min-width: 600px) {
@@ -502,7 +502,7 @@ h2, h3, h4, h5 {
 }
 
 .topper-h2 {
-  font: 36px/145% "league-gothic";
+  font: 36px/145% "alternate-gothic-no-3-d", Arial, Helvetica, Verdana, sans-serif;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -521,10 +521,9 @@ h2, h3, h4, h5 {
 }
 
 .topper-h3 {
-  font: 24px/142% "league-gothic";
+  font: 24px/137% "alternate-gothic-no-3-d", Arial, Helvetica, Verdana, sans-serif;
   text-align: left;
-  text-transform: uppercase;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   color: #fff;
   width: 100%;
   margin: 0 auto;
@@ -532,7 +531,7 @@ h2, h3, h4, h5 {
 }
 @media (min-width: 600px) {
   .topper-h3 {
-    font-size: 40px;
+    font-size: 37px;
   }
 }
 
@@ -541,29 +540,29 @@ h2, h3, h4, h5 {
   text-indent: -0.35em;
   border: 0px;
   width: auto;
-  font: 28px/140% "league-gothic";
+  font: 28px/140% "alternate-gothic-no-3-d", Arial, Helvetica, Verdana, sans-serif;
   color: #333;
 }
 @media (min-width: 600px) {
   .alt-h2 {
-    font: 40px/130% "league-gothic";
+    font: 39px/130% "alternate-gothic-no-3-d", Arial, Helvetica, Verdana, sans-serif;
   }
 }
 @media (min-width: 900px) {
   .alt-h2 {
-    font: 44px/130% "league-gothic";
+    font: 43px/130% "alternate-gothic-no-3-d", Arial, Helvetica, Verdana, sans-serif;
   }
 }
 
 .attribution {
-  font: 22px/140% "league-gothic";
+  font: 22px/140% "alternate-gothic-no-3-d", Arial, Helvetica, Verdana, sans-serif;
   text-align: center;
   color: #555;
   margin-top: 12px;
 }
 @media (min-width: 600px) {
   .attribution {
-    font: 30px/140% "league-gothic";
+    font: 30px/140% "alternate-gothic-no-3-d", Arial, Helvetica, Verdana, sans-serif;
   }
 }
 
@@ -771,7 +770,7 @@ header:after {
 }
 .tour-cities li {
   display: inline;
-  font-family: "league-gothic" sans-serif;
+  font-family: "alternate-gothic-no-3-d", Arial, Helvetica, Verdana, sans-serif;
   color: #111;
   font-size: 25px;
   text-transform: uppercase;
@@ -953,7 +952,7 @@ header:after {
 .btn-txt {
   margin-top: 40px;
   text-align: center;
-  font: 22px/140% "league-gothic";
+  font: 22px/140% "alternate-gothic-no-3-d", Arial, Helvetica, Verdana, sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
 }
@@ -1148,13 +1147,13 @@ header:after {
 }
 
 .praise-name {
-  font: 25px/140% "league-gothic";
+  font: 25px/140% "alternate-gothic-no-3-d", Arial, Helvetica, Verdana, sans-serif;
   text-transform: uppercase;
   word-spacing: 2px;
 }
 
 .praise-studio {
-  font: 18px/140% "league-gothic";
+  font: 18px/140% "alternate-gothic-no-3-d", Arial, Helvetica, Verdana, sans-serif;
   color: #666;
   margin-bottom: 10px;
 }
@@ -1342,7 +1341,7 @@ header:after {
 }
 
 .scroll-down {
-  font-family: "league-gothic" sans-serif;
+  font-family: "alternate-gothic-no-3-d", Arial, Helvetica, Verdana, sans-serif;
   color: #111;
   font-size: 19px;
   text-transform: uppercase;
