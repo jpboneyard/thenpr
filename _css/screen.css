@@ -546,13 +546,18 @@ h2, h3, h4, h5 {
 }
 @media (min-width: 600px) {
   .alt-h2 {
-    font: 48px/130% "league-gothic";
+    font: 40px/130% "league-gothic";
+  }
+}
+@media (min-width: 900px) {
+  .alt-h2 {
+    font: 44px/130% "league-gothic";
   }
 }
 
 .attribution {
   font: 22px/140% "league-gothic";
-  text-align: left;
+  text-align: center;
   color: #555;
   margin-top: 12px;
 }
@@ -904,7 +909,7 @@ header:after {
 
 .about {
   background-color: #000;
-  padding-bottom: 15px;
+  padding-bottom: 25px;
   position: relative;
   z-index: 100;
 }
@@ -927,6 +932,7 @@ header:after {
 
 .about-intro {
   padding: 45px 40px 0px 40px;
+  max-width: 800px;
 }
 
 .shows-topper {
@@ -954,8 +960,13 @@ header:after {
 
 .shows {
   background-color: #FBF8EC;
-  padding-bottom: 60px;
+  padding-bottom: 25px;
   position: relative;
+}
+@media (min-width: 600px) {
+  .shows {
+    padding-bottom: 60px;
+  }
 }
 
 .shows:after {
@@ -995,8 +1006,13 @@ header:after {
 
 .praise {
   background-color: #FBF8EC;
-  padding-bottom: 60px;
+  padding-bottom: 25px;
   position: relative;
+}
+@media (min-width: 600px) {
+  .praise {
+    padding-bottom: 60px;
+  }
 }
 
 .praise:after {
@@ -1061,12 +1077,38 @@ header:after {
   position: relative;
   max-width: 900px;
   background-size: 500px;
+  overflow: hidden;
+  *zoom: 1;
+  height: auto;
 }
 @media (min-width: 600px) {
   .praise-item-feat {
     padding: 60px 80px 85px 80px;
     background-size: 900px;
     margin-top: -110px;
+  }
+}
+@media (min-width: 700px) {
+  .praise-item-feat {
+    *zoom: 1;
+  }
+  .praise-item-feat:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .praise-item-feat > .ui-block-1,
+  .praise-item-feat > .ui-block.first {
+    width: 26%;
+    display: inline;
+    float: left;
+  }
+  .praise-item-feat > .ui-block-2,
+  .praise-item-feat > .ui-block.second {
+    width: 67%;
+    display: inline;
+    float: right;
+    margin-right: 0;
   }
 }
 
@@ -1088,11 +1130,16 @@ header:after {
 }
 
 .praise-hero-img {
-  max-width: 210px;
+  max-width: 161px;
   width: 100%;
-  margin-top: -181px;
-  margin-bottom: 5px;
-  display: none;
+  /*	margin-top: -181px;
+  	margin-bottom: 5px
+  	max-width: 210px;*/
+}
+@media (min-width: 700px) {
+  .praise-hero-img {
+    max-width: 200px;
+  }
 }
 
 .praise-img {

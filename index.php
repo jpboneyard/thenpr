@@ -25,7 +25,7 @@
     	<section class="about" data-stellar-ratio="2">
     		<div class="about-topper">
     			<div class="title-mod">
-    				<h2 class="topper-h2">About the NPR</h2>
+    				<h2 class="topper-h2">Hello!</h2>
     			</div> <!-- /title-mod -->	
     		</div> <!-- /hits-topper -->
     			<div class="wrapper about-intro">
@@ -53,11 +53,15 @@
     			</div> <!-- /title-mod -->	
     		</div> <!-- /shows-topper -->
 
-    		<div class="wrapper praise-mod">
+    		<div class="wrapper praise-mod">	
     			<div class="praise-item-feat">
-    				<img class="praise-hero-img" src="/_img/draplin-mug.png">
-    				<h2 class="alt-h2">“Those poster bros took good care of me! Good exposure, nice graphics, friendly vibes. There’s tons of value here. For poster designers. For empty walls. For America!”</h2>
-					<h3 class="attribution">—Aaron Draplin</h3> 
+	    			<div class="praise-hero-mod ui-block-1">
+	    				<img class="praise-hero-img" src="/_img/draplin-mug.png">
+	    				<h3 class="attribution">Aaron Draplin</h3> 
+	    			</div> <!-- /praise-hero-mod -->
+	    			<div class="praise-hero-txt ui-block-2">
+    					<h2 class="alt-h2">“Those poster bros took good care of me! Good exposure, nice graphics, friendly vibes. There’s tons of value here. For poster designers. For empty walls. For America!”</h2>
+					</div> <!-- /praise-hero-txt -->	
     			</div>	
 
     			<div class="praise-item-mod">
