@@ -910,7 +910,6 @@ header:after {
   background-color: #000;
   padding-bottom: 25px;
   position: relative;
-  z-index: 100;
 }
 @media (min-width: 600px) {
   .about {
@@ -986,6 +985,13 @@ header:after {
   .shows-mod {
     margin-top: -110px;
   }
+}
+
+.shows-inside-mod {
+  padding-top: 40px;
+}
+.shows-inside-mod .shows-mod {
+  margin-top: 0px;
 }
 
 .praise-topper {
@@ -1138,6 +1144,7 @@ header:after {
 @media (min-width: 700px) {
   .praise-hero-img {
     max-width: 200px;
+    margin-bottom: 10px;
   }
 }
 
@@ -1149,7 +1156,8 @@ header:after {
 .praise-name {
   font: 25px/140% "alternate-gothic-no-3-d", Arial, Helvetica, Verdana, sans-serif;
   text-transform: uppercase;
-  word-spacing: 2px;
+  letter-spacing: 1px;
+  color: #31A3B3;
 }
 
 .praise-studio {
@@ -1266,12 +1274,14 @@ header:after {
 }
 
 .contact {
-  background-color: #1E1E1E;
   padding: 60px;
   position: relative;
   text-align: center;
   color: #fff;
   margin: 0 auto;
+  background: url(../_img/npr-bg-cover.png) no-repeat -700px;
+  background-color: #1E1E1E;
+  background-size: 1507px;
 }
 .contact .btn-submit a {
   max-width: 270px;
@@ -1569,8 +1579,8 @@ header:after {
   height: 12px;
   width: 100%;
   position: absolute;
-  bottom: -10px;
-  z-index: 10;
+  bottom: -0px;
+  z-index: 200;
 }
 
 .intro-img-container {
@@ -1581,7 +1591,7 @@ header:after {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=15);
   opacity: 0.15;
   position: relative;
-  margin-top: -10px;
+  margin-top: -11px;
 }
 
 .intro-img {
@@ -1684,6 +1694,27 @@ header:after {
 }
 .post-item.last {
   margin: 0px;
+}
+
+.post-item-single {
+  margin-left: -gallery-show-cont;
+  *zoom: 1;
+}
+.post-item-single:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.post-item-single .media-block {
+  float: left;
+  padding-left: gallery-show-cont;
+  width: 50%;
+}
+.post-item-single .media-block:nth-child(2n+3) {
+  clear: left;
+}
+.post-item-single .media-block.n2 {
+  clear: left;
 }
 
 .post-item-content-wht {

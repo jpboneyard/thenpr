@@ -468,7 +468,6 @@ header:after{
 	background-color: #000;
 	padding-bottom: 25px;
 	position: relative;
-	z-index: 100;
 
 	@media (min-width: 600px) {
 		padding-bottom: 60px;
@@ -540,6 +539,14 @@ header:after{
 	@media (min-width: 600px) {
 		margin-top: -110px;
 	}//mq
+}
+
+.shows-inside-mod {
+	padding-top: 40px;
+
+	.shows-mod {
+		margin-top: 0px;
+	}//shows-mod
 }
 
 .praise-topper {
@@ -654,6 +661,7 @@ header:after{
 
 	@media (min-width: 700px) {
 		max-width: 200px;
+		margin-bottom: 10px;
 	}//mq
 }
 
@@ -665,7 +673,8 @@ header:after{
 .praise-name {
 	font: 25px/140% $display;
 	text-transform: uppercase;
-	word-spacing: 2px;
+	letter-spacing: 1px;
+	color: #31A3B3;
 }
 
 .praise-studio {
@@ -780,12 +789,14 @@ header:after{
 }
 
 .contact {
-	background-color: #1E1E1E;
 	padding: 60px;
 	position: relative;
 	text-align: center;
 	color: #fff;
 	margin: 0 auto;
+	background: url(../_img/npr-bg-cover.png) no-repeat -700px;
+	background-color: #1E1E1E;
+	background-size: 1507px;
 
 	.btn-submit a {
 		max-width: 270px;
@@ -1052,8 +1063,8 @@ header:after{
 	height: 12px;
 	width: 100%;
 	position: absolute;
-	bottom: -10px;
-	z-index: 10;
+	bottom: -0px;
+	z-index: 200;
 }
 
 .intro-img-container {
@@ -1063,7 +1074,7 @@ header:after{
 	width: 100%;
 	@include opacity (.15);
 	position: relative;
-	margin-top: -10px;
+	margin-top: -11px;
 }
 
 .intro-img{
@@ -1149,6 +1160,10 @@ header:after{
 
 .post-item.last {
 	margin: 0px;
+}
+
+.post-item-single {
+	@include media-grid(2, gallery-show-cont);
 }
 
 .post-item-content-wht {
@@ -1352,7 +1367,7 @@ header:after{
 	
 	@media (min-width: 600px) {
 		margin-bottom: 25px;
-	}
+	}//mq
 }
 
 .sponsor-main-item {
@@ -1748,7 +1763,6 @@ a.gallery-show-wrap {
 	right: 8%;
 	@include transform(skew(35deg) rotate(4deg));
 }
-
 
 .gallery-show-img {
 	max-width: 900px;

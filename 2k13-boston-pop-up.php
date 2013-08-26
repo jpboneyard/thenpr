@@ -38,7 +38,9 @@
 	    </section> <!-- /event-details -->	
 	
 		<section class="shows">	
-	   		<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/tour-slides.php"); ?>
+			<div class="shows-inside-mod">
+	   			<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/tour-slides.php"); ?>
+	   		</div> <!-- /shows-inside-mod -->
 	   	</section> <!-- /shows -->	
 
 	</div> <!-- /.main --> <!-- End of Main --> 

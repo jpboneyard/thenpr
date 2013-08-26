@@ -57,7 +57,7 @@
     			<div class="praise-item-feat">
 	    			<div class="praise-hero-mod ui-block-1">
 	    				<img class="praise-hero-img" src="/_img/draplin-mug.png">
-	    				<h3 class="attribution">Aaron Draplin</h3> 
+	    				<h3 class="praise-name">Aaron Draplin</h3> 
 	    			</div> <!-- /praise-hero-mod -->
 	    			<div class="praise-hero-txt ui-block-2">
     					<h2 class="alt-h2">“Those poster bros took good care of me! Good exposure, nice graphics, friendly vibes. There’s tons of value here. For poster designers. For empty walls. For America!”</h2>
@@ -107,16 +107,7 @@
     			<div class="wrapper players-mod">
     				<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/players.php"); ?>
     			</div> <! --/players-mod -->
-    	</section> <!-- /players -->	
-
-    	<section class="contact">
-    		<div class="contact-mod">
-	    		<h3 class="topper-h3">Hey, let's talk posters!</h3>
-	    		<div class="btn-txt">
-	    			<btn class="btn-submit"><a href="mailto:john@jpboneyard.com" subject="We'd Like to Host The NPR">john @ jpboneyard.com</a></btn>	
-	    		</div><!-- /btn-txt -->
-	    	</div> <!-- /contact-mod -->	
-    	</section> <!--/ contact -->	
+    	</section> <!-- /players -->		
 
 		<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/footer.php"); ?>
 
