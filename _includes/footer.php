@@ -1,8 +1,20 @@
-    <footer>
+	<section class="contact">
+		<div class="contact-mod">
+    		<h3 class="topper-h3">Hey, let's talk posters!</h3>
+    		<div class="btn-txt">
+    			<btn class="btn-submit"><a href="mailto:john@jpboneyard.com" subject="We'd Like to Host The NPR">john @ jpboneyard.com</a></btn>	
+    		</div><!-- /btn-txt -->
+    	</div> <!-- /contact-mod -->	
+	</section> <!--/ contact -->
+
+    <footer data-stellar-ratio="2.2">
 		<div class="wrapper">
 			<ul class="logo-grid">
 				<li class="logo-grid-item"><a href="index.php" alt="The National Poster Retrospecticus"><img class="logo-icon" src="_img/npr-logo.png"></a></li>
 				<li class="logo-grid-item"><a href="http://jpboneyard.com" target="_blank" alt="JP Boneyard Design"><img class="logo-icon" src="_img/jpb-logo.png"></a></li>
+				<li class="logo-grid-item"><a href="http://www.frenchpaper.com/" alt="French Paper" target="_blank"><img class="logo-icon" src="_img/sponsor-french-paper-w.png"></a></li>
+				<li class="logo-grid-item"><a href="http://upstatement.com/" target="_blank" alt="Upstatement"><img class="logo-icon" src="_img/sponsor-upstatement-w.png"></a></li>			
+				<li class="logo-grid-item"><a href="https://www.thehalfandhalf.com/" target="_blank" alt="The Half and Half"><img class="logo-icon" src="_img/sponsor-the-half-and-half-w.png"></a></li>			
 			</ul><!-- /.logo-grid-->
 			<br>
 			<br>
@@ -73,8 +85,12 @@
 	<!-- Scrolling -->
 	<script type="text/javascript" src="_js/libs/jquery.localscroll.js"></script>
 	<script src="_js/project/responsive-carousel.js"></script>
-  <script src="_js/project/responsive-carousel.autoplay.js"></script>
-<!-- 	<script type="text/javascript" src="_js/libs/jquery.scrollto-min.js"></script> -->
+  	<script src="_js/project/responsive-carousel.autoplay.js"></script>
+	<!-- 	<script type="text/javascript" src="_js/libs/jquery.scrollto-min.js"></script> -->
+
+	<!-- Stellar.js -->
+	<script src="_js/project/jquery.stellar.js"></script>
+
   
   <script src="_js/plugins.js"></script>
   <script src="_js/script.js"></script>

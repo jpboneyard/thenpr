@@ -2,18 +2,17 @@
     $title = "The National Poster Retrospecticus";
     include($_SERVER["DOCUMENT_ROOT"]."/_includes/head.php"); ?>
 
-
     <div id="main" role="main">
          <section class="intro">
 	    	<div class="home-hdr">
 		    	<img class="home-hdr-img" src="_img/npr-hdr-logo-2.png" alt="The National Poster Retrospecticus"/>
 				<h1 class="hdr-logo">The National Poster Retrospecticus</h1>
-				<div class="social-mod">
-					<a href="https://www.facebook.com/nationalposterretrospecticus" target="_blank"><img src="/_img/social-facebook.png" /></a> 
-					<a href="https://twitter.com/thenpr" target="_blank"><img src="/_img/social-twitter.png" /></a> 
-					<a href="http://instagram.com/jpboneyard" target="_blank"><img src="/_img/social-instagram.png" /></a>
-					<a href="http://npr.supermarkethq.com" target="_blank"><img src="/_img/social-supermarket.png" /></a>
-				</div> <!-- /social-mod -->		
+				<ul class="social-mod">
+					<li><a href="https://www.facebook.com/nationalposterretrospecticus" target="_blank"><img src="/_img/social-facebook.png" /></a></li> 
+					<li><a href="https://twitter.com/thenpr" target="_blank"><img src="/_img/social-twitter.png" /></a></li> 
+					<li><a href="http://instagram.com/jpboneyard" target="_blank"><img src="/_img/social-instagram.png" /></a></li> 
+					<li><a href="http://npr.supermarkethq.com" target="_blank"><img src="/_img/social-supermarket.png" /></a></li> 
+				</ul> <!-- /social-mod -->		
 			</div> <!-- /home-hdr -->
 			<div class="intro-img-container"><img class="intro-img" src="_img/npr-hdr-btm-2k14.gif" alt="national poster retrospecticus btm"></div>   	
 			<div class="scroll-arrow-mod">
@@ -23,24 +22,48 @@
 			</div><!-- /scroll-arrow-mod-->
     	</section> <!-- /.intro -->
 
-    	<section class="about">
-    		<div class="wrapper">
-    			<h2 class="topper-h2 alt-h2">The National Poster Retrospecticus is a traveling show of more than 250 hand-printed event posters from over 80 of the most prominent poster designers in the country.</h2>
-    		</div> <!-- /wrapper -->
+    	<section class="about" data-stellar-ratio="2">
+    		<div class="about-topper">
+    			<div class="title-mod">
+    				<h2 class="topper-h2">Hello!</h2>
+    			</div> <!-- /title-mod -->	
+    		</div> <!-- /hits-topper -->
+    			<div class="wrapper about-intro">
+    				<h3 class="topper-h3">The National Poster Retrospecticus is a traveling show of more than 250 hand-printed event posters from over 80 of the most prominent poster designers in the country.</h2>
+    				<p class="p-txt">The NPR is produced by <a href="http://www.jpboneyard.com" target="_blank">JP Boneyard</a>; a poster designer and enthusiast who has been setting up art and music events since 1998. While some form of The NPR goes back as far as 2006, the current format took shape in the Spring of 2012. Our mission is to celebrate posters, the made-by-hand aesthetic and help spread that enthusiasm around the world. We wanna travel everywhere!</p>
+    			</div>
+    			<div class="btn-txt">
+    				<btn class="btn-submit"><a href="mailto:john@jpboneyard.com" subject="We'd Like to Host The NPR">Host The NPR</a></btn>	
+    			</div><!-- /btn-txt -->
     	</section> <!-- /section -->	
-    		
-    	<section class="shows">	
+
+    	<section class="shows" data-stellar-ratio="2">	
+    		<div class="shows-topper">
+    			<div class="title-mod">
+    				<h2 class="topper-h2">The Shows</h2>
+    			</div> <!--/title-mod -->	
+    		</div> <!-- /shows-topper -->
 			<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/tour-slides.php"); ?>
 		</section> <!-- /shows -->	
-			
-		<section class="praise">
+
+		<section class="praise" data-stellar-ratio="2">
 			<div class="praise-topper">
-				<div class="topper-txt-mod">
-    				<h2 class="topper-h2 alt-h2">“Those poster bros took good care of me! Good exposure, nice graphics, friendly vibes. There’s tons of value here. For poster designers. For empty walls. For America!”</h2>
-					<h3 class="attribution">—Aaron Draplin</h3> 
-				</div> <!-- /topper-txt-mod -->	
+				<div class="title-mod">
+    				<h2 class="topper-h2">Kind Words</h2>
+    			</div> <!-- /title-mod -->	
     		</div> <!-- /shows-topper -->
-    		<div class="wrapper praise-mod">
+
+    		<div class="wrapper praise-mod">	
+    			<div class="praise-item-feat">
+	    			<div class="praise-hero-mod ui-block-1">
+	    				<img class="praise-hero-img" src="/_img/draplin-mug.png">
+	    				<h3 class="praise-name">Aaron Draplin</h3> 
+	    			</div> <!-- /praise-hero-mod -->
+	    			<div class="praise-hero-txt ui-block-2">
+    					<h2 class="alt-h2">“Those poster bros took good care of me! Good exposure, nice graphics, friendly vibes. There’s tons of value here. For poster designers. For empty walls. For America!”</h2>
+					</div> <!-- /praise-hero-txt -->	
+    			</div>	
+
     			<div class="praise-item-mod">
     				<div class="praise-item media-block">
     					<img class="praise-img" src="/_img/doe-eyed-mug.png" />
@@ -61,52 +84,31 @@
     					<p class="praise-txt">"We thought we had seen it all. After 15 years in the scene I can still find new and exciting art in this show and that's a testament to its expansiveness."</p>
     				</div> <!-- /praise-item -->
     			</div> <!-- /praise-item-mod -->
-    		</div> <!-- /wrapper -->
-    	</section> <!-- /praise -->
+    	</section> <!-- /praise -->		
 
-		<section class="greatest-hits">
+		<section class="greatest-hits" data-stellar-ratio="2">
 			<div class="hits-topper">
-    			<h2 class="topper-h2">Select Works</h2>
-    		</div> <!-- /shows-topper -->
+				<div class="title-mod">
+    				<h2 class="topper-h2">Select Works</h2>
+    			</div> <!-- /title-mod -->	
+    		</div> <!-- /hits-topper -->
     		<div class="hits-mod">
     			<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/select-works.php"); ?>
     		</div> <!-- /wrapper -->
     	</section> <!-- /greatest-hits -->    	
 
 
-		<section class="players">
+		<section class="players" data-stellar-ratio="2">
 			<div class="players-topper">
-				<h2 class="topper-h2">The Players</h2>
+				<div class="title-mod">
+					<h2 class="topper-h2">The Players</h2>
+				</div><!-- /title-mod -->
     		</div> <!-- /players-topper -->	
     			<div class="wrapper players-mod">
     				<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/players.php"); ?>
     			</div> <! --/players-mod -->
-    	</section> <!-- /players -->	
+    	</section> <!-- /players -->		
+
+		<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/footer.php"); ?>
 
 
-		<section class="praise">
-			<div class="praise-topper">
-    			<h2 class="topper-h2">Press</h2>
-    		</div> <!-- /shows-topper -->
-    		<div class="wrapper praise-mod">
-    			<div class="praise-item-mod">
-    				<div class="praise-item media-block">
-    					<img class="praise-img" src="/_img/doe-eyed-mug.png" />
-    					<div class="praise-name">Dig Boston</div>
-    					<div class="praise-studio">Read More</div>
-    				</div> <!-- /praise-item -->
-    				<div class="praise-item media-block">
-    					<img class="praise-img" src="/_img/burlesque-mug.png" />
-    					<div class="praise-name">Printeresting</div>
-    					<div class="praise-studio">Read More</div>
-    				</div> <!-- /praise-item -->
-    				<div class="praise-item media-block">
-    					<img class="praise-img" src="/_img/aesthetic-mug.png" />
-    					<div class="praise-name">Boston Globe</div>
-    					<div class="praise-studio">Read More</div>
-    				</div> <!-- /praise-item -->
-    			</div> <!-- /praise-item-mod -->
-    		</div> <!-- /wrapper -->
-    	</section> <!-- /praise -->
-
-<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/footer.php"); ?>

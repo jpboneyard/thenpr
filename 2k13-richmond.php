@@ -39,7 +39,9 @@
 	</div> <!-- /.main --> <!-- End of Main --> 
 
 		<section class="shows">	
-	   		<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/tour-slides.php"); ?>
-	   	</section> <!-- /shows -->
+			<div class="shows-inside-mod">
+	   			<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/tour-slides.php"); ?>
+	   		</div> <!-- /shows-inside-mod -->
+	   	</section> <!-- /shows -->	
 	   	
 <?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/footer.php"); ?>

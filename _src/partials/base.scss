@@ -70,7 +70,8 @@ $highlight: #ea4c88;  //Pink
 $sans:Arial,Helvetica,Verdana,sans-serif;
 $serif:Georgia,Times,Times New Roman,serif;
 $mono:"Courier New",Courier,mono;
-
+$display: "alternate-gothic-no-3-d", $sans;
+$display-serif: "chaparral-pro", $serif;
 
 
 /* !============================================= */
@@ -100,17 +101,6 @@ $mono:"Courier New",Courier,mono;
 // Default framework (sans styles) for buttons, boxes, lists, etc.
 // Uncomment to include
 // @import "patterns-naked";
-
-
-
-
-
-
-
-
-
-
-
 
 	
 /* !============================================= */
