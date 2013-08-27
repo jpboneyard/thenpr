@@ -67,13 +67,18 @@ h2, h3, h4, h5 {
 	font-weight: normal;
 }
 
+h4 {
+	font: 24px/137% $display;
+	margin-bottom: 20px;
+}
+
 .p-txt {
 	text-align: left;
-	font: 17px/155% "chaparral-pro";
-	color: #ddd;
+	font: 300 17px/182% $serif;
+	color: #ccc;
 
 	@media (min-width: 600px) {
-		font-size: 22px;
+		font-size: 18px;
 	}//mq	
 }
 
@@ -607,7 +612,6 @@ header:after{
 	}//mq
 }
 
-
 .praise-item-feat {
 	margin-top: -80px;
 	margin-bottom: 50px;
@@ -827,6 +831,74 @@ header:after{
 		text-align: center;
 		font-size: 37px;
 	}
+}
+
+
+.show-mod {
+	max-width: 200px;
+}
+
+.show-grid-list {
+/*	background: url(../_img/bg-grid-paper.jpg) 50% 50%;
+*/
+	@media (min-width: 301px) and (max-width: 500px){		
+		@include media-grid(2, 20px);
+	}//mq	
+
+	@media (min-width: 501px) and (max-width: 700px){		
+		@include media-grid(3, 20px);
+	}//mq
+
+	@media (min-width: 701px) {
+		@include media-grid(4, 20px);
+	}//mq
+}
+
+.show-grid-mod {
+
+}
+
+.show-item {
+	max-width: 360px;
+	margin: 0 auto;
+	text-align: center;
+	margin-bottom: 20px;
+	@include box-shadow(rgba(0, 0, 0, 0.1) 0px 3px 9px);
+	border: 1px solid #EDEDED;
+	position: relative;
+	overflow: hidden;
+	@include trans;
+
+	&:hover {
+		@include box-shadow(rgba(0, 0, 0, .3) 0px 3px 20px);
+	}
+
+	&:hover .show-caption {
+		opacity: 1;
+		bottom: 0;
+	}
+
+}
+
+.show-img-sm {
+	width: 100%;
+}
+
+
+.show-caption {
+	position: absolute;
+	background: #000;
+	color: #fff;
+	width: 100%;
+	padding: 10% 2%;
+	opacity: 1;
+	-webkit-transition: all 0.6s ease;
+  	-moz-transition: all 0.6s ease;
+  	-o-transition: all 0.6s ease; 
+	bottom: -50%;
+	left: 0;
+	font: normal 18px/100% $display;	
+	letter-spacing: 1px;
 }
 
 /* ============================================= */
@@ -1869,7 +1941,7 @@ a.gallery-show-wrap {
 	}
 
 	>.city-name {
-		font-size: 55px;
+		font-size: 50px;
 	}
 }
 
@@ -1949,7 +2021,12 @@ a.gallery-show-wrap {
 }
 
 .city-name {
-	font: normal 30px/100% 'ONRAMPRegular', helvetica, sans-serif;		
+	font: normal 22px/100% $display;	
+	letter-spacing: 2px;	
+
+	@media (min-width: 700px) {
+		font: normal 27px/100% $display;	
+	}
 }
 
 .date-cont {
@@ -2136,6 +2213,10 @@ a.gallery-show-wrap {
 		max-width: 300px;	
 		margin-right:45px;
 		border-bottom: 0px;
+	}
+
+	.city-name {
+		letter-spacing: 0px;
 	}
 
 }
