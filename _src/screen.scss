@@ -20,7 +20,7 @@ a {
 		
 		}
 	}
-	
+
 body {
 	overflow: hidden;
 }
@@ -463,7 +463,7 @@ header:after{
 
 	@media (min-width: 600px) {
 		padding: 140px 70px;
-		height: 732px;	
+		height: 682px; /*orig 732px*/
 	}//mq
 }
 
@@ -503,7 +503,7 @@ header:after{
 
 	@media (min-width: 600px) {
 		padding: 140px 70px;
-		height: 732px;	
+		height: 682px; /*orig 732px*/
 	}//mq
 }
 
@@ -562,7 +562,7 @@ header:after{
 
 	@media (min-width: 600px) {
 		padding: 140px 70px;
-		height: 732px;	
+		height: 682px; /*orig 732px*/
 	}//mq
 }
 
@@ -704,7 +704,7 @@ header:after{
 
 	@media (min-width: 600px) {
 		padding: 140px 70px;
-		height: 732px;	
+		height: 682px; /*orig 732px*/
 	}//mq
 }
 
@@ -769,7 +769,7 @@ header:after{
 
 	@media (min-width: 600px) {
 		padding: 140px 70px;
-		height: 732px;	
+		height: 682px; /*orig 732px*/
 	}//mq
 }
 
@@ -798,7 +798,7 @@ header:after{
 	color: #fff;
 	margin: 0 auto;
 	background: url(../_img/npr-bg-cover.png) no-repeat -700px;
-	background-color: #1E1E1E;
+	background-color: #171717;
 	background-size: 1507px;
 
 	.btn-submit a {
