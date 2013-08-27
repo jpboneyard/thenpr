@@ -3,7 +3,7 @@
     include($_SERVER["DOCUMENT_ROOT"]."/_includes/head.php"); ?>
 
     <div id="main" role="main">
-         <section class="intro">
+         <section class="frame intro">
 	    	<div class="home-hdr">
 		    	<img class="home-hdr-img" src="_img/npr-hdr-logo-2.png" alt="The National Poster Retrospecticus"/>
 				<h1 class="hdr-logo">The National Poster Retrospecticus</h1>
@@ -22,7 +22,7 @@
 			</div><!-- /scroll-arrow-mod-->
     	</section> <!-- /.intro -->
 
-    	<section class="about" data-stellar-ratio="2">
+    	<section class="frame about parallax-layer">
     		<div class="about-topper">
     			<div class="title-mod">
     				<h2 class="topper-h2">Hello!</h2>
@@ -37,7 +37,7 @@
     			</div><!-- /btn-txt -->
     	</section> <!-- /section -->	
 
-    	<section class="shows" data-stellar-ratio="2">	
+    	<section class="frame shows parallax-layer">	
     		<div class="shows-topper">
     			<div class="title-mod">
     				<h2 class="topper-h2">The Shows</h2>
@@ -46,7 +46,7 @@
 			<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/tour-slides.php"); ?>
 		</section> <!-- /shows -->	
 
-		<section class="praise" data-stellar-ratio="2">
+		<section class="frame praise parallax-layer">
 			<div class="praise-topper">
 				<div class="title-mod">
     				<h2 class="topper-h2">Kind Words</h2>
@@ -86,7 +86,7 @@
     			</div> <!-- /praise-item-mod -->
     	</section> <!-- /praise -->		
 
-		<section class="greatest-hits" data-stellar-ratio="2">
+		<section class="frame greatest-hits parallax-layer">
 			<div class="hits-topper">
 				<div class="title-mod">
     				<h2 class="topper-h2">Select Works</h2>
@@ -98,7 +98,7 @@
     	</section> <!-- /greatest-hits -->    	
 
 
-		<section class="players" data-stellar-ratio="2">
+		<section class="frame players parallax-layer">
 			<div class="players-topper">
 				<div class="title-mod">
 					<h2 class="topper-h2">The Players</h2>

@@ -33,6 +33,15 @@ $(document).ready(function(){
 
 	$(".sponsor-main-item img[title]").tooltip();
 
-	// $(window).stellar();
+	// $(window).stellar({
+	// 	horizontalScrolling: false,
+	// 	verticalOffset: 0
+	// });
+
+	$($('section').get().reverse()).each(function(k,v) {
+		$(this).css('z-index', k*1000);
+	});
+
+	$( '.parallax-layer' ).parallax("50%", 0.5);
  
 });

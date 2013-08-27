@@ -89,7 +89,12 @@
 	<!-- 	<script type="text/javascript" src="_js/libs/jquery.scrollto-min.js"></script> -->
 
 	<!-- Stellar.js -->
-	<script src="_js/project/jquery.stellar.js"></script>
+	<!-- 
+		<script src="_js/project/jquery.stellar.js"></script>
+	-->
+
+	<!-- jquery.parallax -->
+	<script src="bower_components/jparallax/js/jquery.parallax.js"></script>
 
   
   <script src="_js/plugins.js"></script>

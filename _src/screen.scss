@@ -452,6 +452,11 @@ header:after{
 
 /* ============================================= */
 
+.frame {
+	height: 100% !important;
+	padding: 0;
+	margin: 0;
+}
 
 .about-topper {
 	background: url(../_img/topper-shows.jpg) center center no-repeat;
