@@ -515,6 +515,58 @@ h4 {
 }
 
 /* ============================================= */
+/*	Nav					   			             */
+/* ============================================= */
+.nav {
+  background-color: #000;
+  padding: 6px;
+  width: 500px;
+  position: fixed;
+  top: 0px;
+  z-index: 2000;
+  margin: 0 auto;
+  text-align: center;
+  left: 0px;
+  right: 0px;
+}
+
+.nav-mod {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.nav-item {
+  display: inline;
+  color: #b4b558;
+  margin-right: 10px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font: 15px/145% "alternate-gothic-no-3-d", Arial, Helvetica, Verdana, sans-serif;
+}
+.nav-item:last-child {
+  margin-right: 0px;
+}
+.nav-item img {
+  max-width: 15px;
+}
+
+.nav-side {
+  position: fixed;
+  top: 40px;
+  right: 20px;
+  z-index: 2000;
+}
+
+.nav-side-item {
+  margin-bottom: 10px;
+  border: 1px solid;
+  border-color: #000;
+  max-height: 9px;
+  max-width: 9px;
+}
+
+/* ============================================= */
 /*	Layout 							   			 */
 /* ============================================= */
 header {

@@ -3,6 +3,31 @@
     include($_SERVER["DOCUMENT_ROOT"]."/_includes/head.php"); ?>
 
     <div id="main" role="main">
+    	<section class="nav-side">
+    		<ul class="nav-side-mod">
+    			<li class="nav-side-item"><img src="_img/nav-btn.png" /></li>
+    			<li class="nav-side-item"><img src="_img/nav-btn.png" /></li>
+    			<li class="nav-side-item"><img src="_img/nav-btn.png" /></li>
+    			<li class="nav-side-item"><img src="_img/nav-btn.png" /></li>
+    			<li class="nav-side-item"><img src="_img/nav-btn.png" /></li>
+    		</ul> <!-- /nav-side-mod -->	
+    	</section> <!-- /nav-side -->	
+
+  <!--   	<section class="nav" style="width:45px">
+    		<ul class="nav-mod">
+    			<li class="nav-item"><img src="_img/nav-burger.png" /></li> -->
+<!--     			<li class="nav-item">About</li>
+    			<li class="nav-item">Shows</li>
+    			<li class="nav-item">Praise</li>
+    			<li class="nav-item">Posters</li>
+    			<li class="nav-item">Artists</li>
+    			<li class="nav-item">|</li>
+    			<li class="nav-item"><a href="https://www.facebook.com/nationalposterretrospecticus" target="_blank"><img src="/_img/social-facebook-wt.png" /></a></li> 
+				<li class="nav-item"><a href="https://twitter.com/thenpr" target="_blank"><img src="/_img/social-twitter-wt.png" /></a></li> 
+				<li class="nav-item"><a href="http://instagram.com/jpboneyard" target="_blank"><img src="/_img/social-instagram-wt.png" /></a></li> 
+				<li class="nav-item"><a href="http://npr.supermarkethq.com" target="_blank"><img src="/_img/social-supermarket-wt.png" /></a></li> --> 
+    		</ul> <!-- /nav-mod -->	
+    	</section> <!-- /nav -->	
          <section class="intro">
 	    	<div class="home-hdr">
 		    	<img class="home-hdr-img" src="_img/npr-hdr-logo-2.png" alt="The National Poster Retrospecticus"/>
