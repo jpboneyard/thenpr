@@ -74,7 +74,7 @@ h4 {
 
 .p-txt {
 	text-align: left;
-	font: 300 17px/182% $serif;
+	font: 300 14px/182% $serif;
 	color: #ccc;
 
 	@media (min-width: 600px) {
@@ -599,8 +599,12 @@ header:after{
 }	
 
 .about-intro {
-	padding: 45px 40px 0px 40px;
+	padding: 45px 20px 0px 20px;
 	max-width: 800px;
+
+	@media (min-width: 700px) {
+		padding: 45px 40px 0px 40px;
+	}//mq
 }
 
 .shows-topper {
@@ -699,6 +703,9 @@ header:after{
 
 .praise-mod {
 	margin-top: 50px;
+	padding: 10px;
+
+
 }
 
 .praise-item-mod {
@@ -725,7 +732,7 @@ header:after{
 	background: url(../_img/praise-paper.png) 0% 100%;
 	position: relative;
 	max-width: 900px;
-	background-size: 500px;
+	background-size: 571px;
 	@include clearfix;
 	height: auto;
 
