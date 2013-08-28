@@ -91,14 +91,13 @@
 	<!-- Scrolling -->
 	<script type="text/javascript" src="_js/libs/jquery.localscroll.js"></script>
 	<script src="_js/project/responsive-carousel.js"></script>
-  <script src="_js/project/responsive-carousel.autoplay.js"></script>
-<!-- 	<script type="text/javascript" src="_js/libs/jquery.scrollto-min.js"></script> -->
-  
-  <script src="_js/plugins.js"></script>
-  <script src="_js/script.js"></script>
-  <script src="_js/mylibs/up-base.js"></script>
-  <script type="text/javascript" src="_js/poster-fancybox.js"></script> 
-  <script type="text/javascript" src="_js/project/jquery.tools.min.js"></script>
+	<script src="_js/project/responsive-carousel.autoplay.js"></script>
+
+	<script src="_js/plugins.js"></script>
+	<script src="_js/script.js"></script>
+	<script src="_js/mylibs/up-base.js"></script>
+	<script type="text/javascript" src="_js/poster-fancybox.js"></script> 
+	<script type="text/javascript" src="_js/project/jquery.tools.min.js"></script>
   
 	<script 
 		 src="http://twitterjs.googlecode.com/svn/trunk/src/twitter.min.js" 

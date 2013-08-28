@@ -9,12 +9,6 @@
 	You can use and modify this script for any project you want, but please leave this comment as credit.
 	
 *****/
-		
-
-
-$(document).ready(function() {
-	$("a.anchorlink").anchorAnimate()
-});
 
 jQuery.fn.anchorAnimate = function(settings) {
 
