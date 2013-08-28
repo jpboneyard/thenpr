@@ -5,12 +5,12 @@
     <div id="main" role="main">
     	<section class="nav-side">
     		<ul id="nav-side-mod">
-    			<li class="nav-side-item"><a class="anchorlink" href="#intro">.</a></li>
-    			<li class="nav-side-item"><a class="anchorlink" href="#about">.</a></li>
-    			<li class="nav-side-item"><a class="anchorlink" href="#shows">.</a></li>
-    			<li class="nav-side-item"><a class="anchorlink" href="#praise">.</a></li>
-    			<li class="nav-side-item"><a class="anchorlink" href="#hits">.</a></li>
-    			<li class="nav-side-item"><a class="anchorlink" href="#players">.</a></li>
+    			<li class="nav-side-item nav-intro"><a class="anchorlink nav-hit-area" href="#intro"></a></li>
+    			<li class="nav-side-item nav-about"><a class="anchorlink nav-hit-area" href="#about"></a></li>
+    			<li class="nav-side-item nav-shows"><a class="anchorlink nav-hit-area" href="#shows"></a></li>
+    			<li class="nav-side-item nav-praise"><a class="anchorlink nav-hit-area" href="#praise"></a></li>
+    			<li class="nav-side-item nav-hits"><a class="anchorlink nav-hit-area" href="#hits"></a></li>
+    			<li class="nav-side-item nav-players"><a class="anchorlink nav-hit-area" href="#players"></a></li>
     		</ul> <!-- /nav-side-mod -->	
     	</section> <!-- /nav-side -->	
 

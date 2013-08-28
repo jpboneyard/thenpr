@@ -51,9 +51,11 @@ $(document).ready(function(){
 				var delta = $(this).offset().top - $(window).scrollTop();
 				if(delta < 100 && delta > -100) {
 					// put nav color changing code here
+					$('.nav-side-item').removeClass('active');
+					$('.nav-' + $(this).attr('id')).addClass('active');
 
 					// comment me out!
-					console.log($(this).attr('id'));
+					// console.log($(this).attr('id'));
 				}
 			}
 		});
