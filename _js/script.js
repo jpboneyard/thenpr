@@ -34,5 +34,11 @@ $(document).ready(function(){
 	$(".sponsor-main-item img[title]").tooltip();
 
 	// $(window).stellar();
+
+		$.localScroll.hash({
+		target: '#nav-side-mod', // Could be a selector or a jQuery object too.
+		queue:true,
+		duration:1500
+	});
  
 });

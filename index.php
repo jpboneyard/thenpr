@@ -4,12 +4,13 @@
 
     <div id="main" role="main">
     	<section class="nav-side">
-    		<ul class="nav-side-mod">
-    			<li class="nav-side-item"><img src="_img/nav-btn.png" /></li>
-    			<li class="nav-side-item"><img src="_img/nav-btn.png" /></li>
-    			<li class="nav-side-item"><img src="_img/nav-btn.png" /></li>
-    			<li class="nav-side-item"><img src="_img/nav-btn.png" /></li>
-    			<li class="nav-side-item"><img src="_img/nav-btn.png" /></li>
+    		<ul id="nav-side-mod">
+    			<li class="nav-side-item"><a class="anchorlink" href="#intro">.</a></li>
+    			<li class="nav-side-item"><a class="anchorlink" href="#about">.</a></li>
+    			<li class="nav-side-item"><a class="anchorlink" href="#shows">.</a></li>
+    			<li class="nav-side-item"><a class="anchorlink" href="#praise">.</a></li>
+    			<li class="nav-side-item"><a class="anchorlink" href="#hits">.</a></li>
+    			<li class="nav-side-item"><a class="anchorlink" href="#players">.</a></li>
     		</ul> <!-- /nav-side-mod -->	
     	</section> <!-- /nav-side -->	
 
@@ -28,8 +29,11 @@
 				<li class="nav-item"><a href="http://npr.supermarkethq.com" target="_blank"><img src="/_img/social-supermarket-wt.png" /></a></li> --> 
     		</ul> <!-- /nav-mod -->	
     	</section> <!-- /nav -->	
-         <section class="intro">
+         <section id="intro">
 	    	<div class="home-hdr">
+		    	<div class="show-alert">
+	         		<p class="alert-txt">Next Show: Philly Sept 14-15 2013</p>
+	         	</div><!-- /show-alert -->
 		    	<img class="home-hdr-img" src="_img/npr-hdr-logo-2.png" alt="The National Poster Retrospecticus"/>
 				<h1 class="hdr-logo">The National Poster Retrospecticus</h1>
 				<ul class="social-mod">
@@ -47,7 +51,7 @@
 			</div><!-- /scroll-arrow-mod-->
     	</section> <!-- /.intro -->
 
-    	<section class="about" data-stellar-ratio="2">
+    	<section id="about" data-stellar-ratio="2">
     		<div class="about-topper">
     			<div class="title-mod">
     				<h2 class="topper-h2">Hello!</h2>
@@ -62,7 +66,7 @@
     			</div><!-- /btn-txt -->
     	</section> <!-- /section -->	
 
-    	<section class="shows" data-stellar-ratio="2">	
+    	<section id="shows" data-stellar-ratio="2">	
     		<div class="shows-topper">
     			<div class="title-mod">
     				<h2 class="topper-h2">The Shows</h2>
@@ -71,7 +75,7 @@
 			<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/tour-slides.php"); ?>
 		</section> <!-- /shows -->	
 
-		<section class="praise" data-stellar-ratio="2">
+		<section id="praise" data-stellar-ratio="2">
 			<div class="praise-topper">
 				<div class="title-mod">
     				<h2 class="topper-h2">Kind Words</h2>
@@ -111,7 +115,7 @@
     			</div> <!-- /praise-item-mod -->
     	</section> <!-- /praise -->		
 
-		<section class="greatest-hits" data-stellar-ratio="2">
+		<section id="hits" data-stellar-ratio="2">
 			<div class="hits-topper">
 				<div class="title-mod">
     				<h2 class="topper-h2">Select Works</h2>
@@ -123,7 +127,7 @@
     	</section> <!-- /greatest-hits -->    	
 
 
-		<section class="players" data-stellar-ratio="2">
+		<section id="players" data-stellar-ratio="2">
 			<div class="players-topper">
 				<div class="title-mod">
 					<h2 class="topper-h2">The Players</h2>
