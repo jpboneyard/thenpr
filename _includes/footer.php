@@ -7,7 +7,7 @@
     	</div> <!-- /contact-mod -->	
 	</section> <!--/ contact -->
 
-    <footer data-stellar-ratio="2.2">
+    <footer>
 		<div class="wrapper">
 			<ul class="logo-grid">
 				<li class="logo-grid-item"><a href="index.php" alt="The National Poster Retrospecticus"><img class="logo-icon" src="_img/npr-logo.png"></a></li>
@@ -24,7 +24,6 @@
   </div> <!-- eo #container -->
 
  	<!-- fancybox jams -->	 
-
 	<!-- Add jQuery library -->
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 
@@ -43,7 +42,6 @@
 	<link rel="stylesheet" type="text/css" href="fancybox/source/helpers/jquery.fancybox-thumbs.css?v=2.0.3" />
 	<script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-thumbs.js?v=2.0.3"></script>
 
-	
 	<style type="text/css">
 		.fancybox-custom .fancybox-outer {
 			box-shadow: 0 0 50px #222;
@@ -53,9 +51,7 @@
    <!-- /.fancybox jams -->
 
 
-  <!--<script src="_js/libs/jquery.tools.min.js"></script>  -->
-
-  <!-- scripts concatenated and minified via ant build script-->
+<!-- scripts concatenated and minified via ant build script-->
   
 	<!-- LocalStorage & Cookie -->
 	<script type="text/javascript" src="_js/libs/jquery.total-storage.js"></script>
@@ -89,17 +85,12 @@
   	<script src="_js/project/responsive-carousel.autoplay.js"></script>
   	<script src="_js/project/jquery.anchor.js"></script>
 
-  	
-
-	<!-- Stellar.js -->
-	<script src="_js/project/jquery.stellar.js"></script>
-
   
-  <script src="_js/plugins.js"></script>
-  <script src="_js/script.js"></script>
-  <script src="_js/mylibs/up-base.js"></script>
-  <script type="text/javascript" src="_js/poster-fancybox.js"></script> 
-  <script type="text/javascript" src="_js/project/jquery.tools.min.js"></script>
+	<script src="_js/plugins.js"></script>
+	<script src="_js/script.js"></script>
+	<script src="_js/mylibs/up-base.js"></script>
+	<script type="text/javascript" src="_js/poster-fancybox.js"></script> 
+	<script type="text/javascript" src="_js/project/jquery.tools.min.js"></script>
   
 	<script 
 		 src="http://twitterjs.googlecode.com/svn/trunk/src/twitter.min.js" 

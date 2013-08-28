@@ -1,8 +1,5 @@
 @import "partials/base";
 
-/*	Primary Stylesheet						     
-	Author: Tito Bottitta + Upstatement			 */ 
-
 
 /* ============================================= */
 
@@ -10,9 +7,6 @@
 
 /* ============================================= */
 
-
-// Default link style, recommend keeping minimal 
-// (similar to this) or you'll just end up overwriting it like crazy 
 a {
 	text-decoration: none;
 	color: inherit;
@@ -24,6 +18,7 @@ a {
 body {
 	overflow: hidden;
 }
+
 
 /* ============================================= */
 
@@ -167,6 +162,15 @@ h4 {
 	margin: 0 auto;
 }
 
+.btn-txt {
+	margin-top: 40px;
+	text-align: center;
+	font: 22px/140% $display;
+	text-transform: uppercase;
+	letter-spacing: 2px;	
+}
+
+
 /* ============================================= */
 
 /*	Nav					   			             */ 
@@ -259,16 +263,18 @@ h4 {
 	margin-top: 10px;
 }
 
-
 .nav-side-item:active {
 	background-color: #FDD63D;
 }
+
+
 
 /* ============================================= */
 
 /*	Layout 							   			 */ 
 
 /* ============================================= */
+
 header {
 	background-color: #FBF8EC;
 	position: relative;
@@ -290,7 +296,7 @@ header:after{
 	padding: 0 20px;
 	text-align: center;
 	@include pie-clearfix;
-	position: relative; /*added*/
+	position: relative;
 	
 	@media (min-width: 401px) {
 		padding: 0 30px;
@@ -309,20 +315,15 @@ header:after{
 	img {
 		max-width: 787px;
 		width: 100%;
-	}
+	}//img
 }
 
 #banner-container {
-		max-width: 787px;
-		width: 100%;
-		max-height: 525px;
-		margin: 0 auto;
-		margin-bottom: 18px;
-}
-
-.hdr-rule-top {
-		max-width: 787px;
-		width: 100%;
+	max-width: 787px;
+	width: 100%;
+	max-height: 525px;
+	margin: 0 auto;
+	margin-bottom: 18px;
 }
 
 
@@ -344,14 +345,14 @@ header:after{
 		max-width: 600px;
 		margin-bottom: 15px;
 		margin-right: 30px;
-	}	
+	}//mq	
 
 	@media (min-width: 1002px) {
 		width: 100%;
 		max-width: 787px;
 		margin-bottom: 15px;
 		margin-right: 0px;
-	}	
+	}//mq	
 }
 
 .hdr-logo {
@@ -374,7 +375,7 @@ header:after{
 		width: 100%;
 		top: 0;
 		right: 2%;		
-	}
+	}//mq
 
 	@media (min-width: 1000px) {
 		position: absolute;
@@ -382,7 +383,7 @@ header:after{
 		width: 100%;
 		top: 0;
 		right: 2%;		
-	}
+	}//mq
 
 	@media (min-width: 1200px) {
 		position: absolute;
@@ -390,7 +391,7 @@ header:after{
 		width: 100%;
 		top: 0;
 		right: 10%;		
-	}
+	}//mq
 }
 
 .hdr-bg {
@@ -409,7 +410,6 @@ header:after{
 
 .hdr-pennant {
 	background-image:url('../_img/hdr-bg.png');
-
 }
 
 .hdr-sign-container {
@@ -431,7 +431,7 @@ header:after{
 	
 	@media (min-width: 850px) {
 		display: none;
-	}
+	}//mq
 }
 
 .map-alt {
@@ -440,7 +440,7 @@ header:after{
 
 	@media (min-width: 850px) {
 		display: inline;
-	}
+	}//mq
 }
 
 .hdr-rule {
@@ -513,7 +513,7 @@ header:after{
 
 	@media (min-width: 650px) {
 		display: block;
-	}
+	}//mq
 }
 
 .home-hdr {
@@ -531,12 +531,11 @@ header:after{
 	@media (min-width: 600px) {
 		width: 90%;
 		top: 36%;
-	}
+	}//mq
 }
 
 .home-hdr-img {
-/*	border: 6px solid;
-	border-color: #000;*/
+	border-color: #000;
 	max-width: 950px;
 	width: 100%;
 	animation: fadein 3.75s;	
@@ -558,10 +557,9 @@ header:after{
 
 /* ============================================= */
 
-/*	Sections			 			   			 */ 
+/*	About     			 			   			 */ 
 
 /* ============================================= */
-
 
 .about-topper {
 	background: url(../_img/topper-about.jpg) center center no-repeat;
@@ -607,6 +605,13 @@ header:after{
 	}//mq
 }
 
+
+/* ============================================= */
+
+/*	Shows    			 			   			 */ 
+
+/* ============================================= */
+
 .shows-topper {
 	background: url(../_img/topper-shows.jpg) center center no-repeat;
 	height: 300px;
@@ -619,14 +624,6 @@ header:after{
 		padding: 140px 70px;
 		height: 682px; /*orig 732px*/
 	}//mq
-}
-
-.btn-txt {
-	margin-top: 40px;
-	text-align: center;
-	font: 22px/140% $display;
-	text-transform: uppercase;
-	letter-spacing: 2px;	
 }
 
 #shows {
@@ -666,6 +663,73 @@ header:after{
 	}//shows-mod
 }
 
+.show-mod {
+	max-width: 200px;
+}
+
+.show-grid-list {
+	@media (min-width: 301px) and (max-width: 500px){		
+		@include media-grid(2, 20px);
+	}//mq	
+
+	@media (min-width: 501px) and (max-width: 700px){		
+		@include media-grid(3, 20px);
+	}//mq
+
+	@media (min-width: 701px) {
+		@include media-grid(4, 20px);
+	}//mq
+}
+
+.show-item {
+	max-width: 360px;
+	margin: 0 auto;
+	text-align: center;
+	margin-bottom: 20px;
+	@include box-shadow(rgba(0, 0, 0, 0.1) 0px 3px 9px);
+	border: 1px solid #EDEDED;
+	position: relative;
+	overflow: hidden;
+	@include trans;
+
+	&:hover {
+		@include box-shadow(rgba(0, 0, 0, .3) 0px 3px 20px);
+	}
+
+	&:hover .show-caption {
+		opacity: 1;
+		bottom: 0;
+	}
+
+}//show-item
+
+.show-img-sm {
+	width: 100%;
+}
+
+.show-caption {
+	position: absolute;
+	background: #000;
+	color: #fff;
+	width: 100%;
+	padding: 10% 2%;
+	opacity: 1;
+	-webkit-transition: all 0.6s ease;
+  	-moz-transition: all 0.6s ease;
+  	-o-transition: all 0.6s ease; 
+	bottom: -50%;
+	left: 0;
+	font: normal 18px/100% $display;	
+	letter-spacing: 1px;
+}
+
+
+/* ============================================= */
+
+/*	Kind-Words    			 			   	     */ 
+
+/* ============================================= */
+
 .praise-topper {
 	background: url(../_img/topper-praise.jpg) center center no-repeat;
 	height: 300px;
@@ -704,7 +768,6 @@ header:after{
 .praise-mod {
 	margin-top: 50px;
 	padding: 10px;
-
 
 }
 
@@ -762,21 +825,13 @@ header:after{
 	@media (min-width: 600px) {
 		margin-left: -80px;
 	}//mq
-
-}
-
-.praise-hero-mod {
-}
-
-.praise-hero-txt {
 }
 
 .praise-hero-img {
 	max-width: 161px;
 	width: 100%;
-/*	margin-top: -181px;
-	margin-bottom: 5px
-	max-width: 210px;*/
+	margin-bottom: 5px;
+	max-width: 210px;
 
 	@media (min-width: 700px) {
 		max-width: 200px;
@@ -809,6 +864,13 @@ header:after{
 	max-width: 240px;
 	margin: 0 auto;
 }
+
+
+/* ============================================= */
+
+/*	Select Works    			 			   	 */ 
+
+/* ============================================= */
 
 .hits-topper {
 	background: url(../_img/topper-posters.jpg) center center no-repeat;
@@ -849,13 +911,11 @@ header:after{
 	}//mq
 }
 
-/*.players-topper, .info-topper {
-	padding-bottom: 20px;
+/* ============================================= */
 
-	h2 {
-		margin-bottom: 30px;
-	}
-}*/
+/*	Players    			 			   			 */ 
+
+/* ============================================= */
 
 #players {
 	background-color: #000;
@@ -873,7 +933,6 @@ header:after{
 	bottom: -11px;	
 	z-index: 1;
 }
-
 
 .players-topper {
 	background: url(../_img/topper-players.jpg) center center no-repeat;
@@ -902,6 +961,13 @@ header:after{
 		margin-top: -110px;
 	}//mq
 }
+
+
+/* ============================================= */
+
+/*	Contact   			 			   			 */ 
+
+/* ============================================= */
 
 .info-topper {
 	background-color: #b4b558;
@@ -946,72 +1012,6 @@ header:after{
 }
 
 
-.show-mod {
-	max-width: 200px;
-}
-
-.show-grid-list {
-/*	background: url(../_img/bg-grid-paper.jpg) 50% 50%;
-*/
-	@media (min-width: 301px) and (max-width: 500px){		
-		@include media-grid(2, 20px);
-	}//mq	
-
-	@media (min-width: 501px) and (max-width: 700px){		
-		@include media-grid(3, 20px);
-	}//mq
-
-	@media (min-width: 701px) {
-		@include media-grid(4, 20px);
-	}//mq
-}
-
-.show-grid-mod {
-
-}
-
-.show-item {
-	max-width: 360px;
-	margin: 0 auto;
-	text-align: center;
-	margin-bottom: 20px;
-	@include box-shadow(rgba(0, 0, 0, 0.1) 0px 3px 9px);
-	border: 1px solid #EDEDED;
-	position: relative;
-	overflow: hidden;
-	@include trans;
-
-	&:hover {
-		@include box-shadow(rgba(0, 0, 0, .3) 0px 3px 20px);
-	}
-
-	&:hover .show-caption {
-		opacity: 1;
-		bottom: 0;
-	}
-
-}
-
-.show-img-sm {
-	width: 100%;
-}
-
-
-.show-caption {
-	position: absolute;
-	background: #000;
-	color: #fff;
-	width: 100%;
-	padding: 10% 2%;
-	opacity: 1;
-	-webkit-transition: all 0.6s ease;
-  	-moz-transition: all 0.6s ease;
-  	-o-transition: all 0.6s ease; 
-	bottom: -50%;
-	left: 0;
-	font: normal 18px/100% $display;	
-	letter-spacing: 1px;
-}
 
 /* ============================================= */
 
@@ -1172,8 +1172,8 @@ header:after{
 	@media (min-width: 500px) {
 		font-size: 17px;
 		line-height: 23px;
-	}
-}
+	}//mq
+}//tweet
 
 .twit-name {
 	display: none;
@@ -2516,6 +2516,7 @@ a.gallery-show-wrap {
 	left: 0px;	
 }
 
+
 /* ! ============================================= */
 
 /* ! CSS Animation				   				   */ 
@@ -2523,11 +2524,11 @@ a.gallery-show-wrap {
 /* ! ============================================= */
 
 .bounce {
-position: relative;
-  -webkit-animation: moveX 1s linear 0s infinite alternate, moveY 1s linear 0s infinite alternate;
-  -moz-animation: moveX 1s linear 0s infinite alternate, moveY 1s linear 0s infinite alternate;
-  -o-animation: moveX 1s linear 0s infinite alternate, moveY 1s linear 0s infinite alternate;
-  animation: moveX 1s linear 0s infinite alternate, moveY 1s linear 0s infinite alternate;
+	position: relative;
+	-webkit-animation: moveX 1s linear 0s infinite alternate, moveY 1s linear 0s infinite alternate;
+	-moz-animation: moveX 1s linear 0s infinite alternate, moveY 1s linear 0s infinite alternate;
+	-o-animation: moveX 1s linear 0s infinite alternate, moveY 1s linear 0s infinite alternate;
+	animation: moveX 1s linear 0s infinite alternate, moveY 1s linear 0s infinite alternate;
 }
 
 @-webkit-keyframes moveY {
@@ -2550,7 +2551,6 @@ position: relative;
 	-ms-animation-fill-mode: both;
 	-o-animation-fill-mode: both;
 	animation-fill-mode: both;
-/* 	-webkit-animation-iteration-count: infinite;  */
 
 	-webkit-animation-duration: 3s;
 	-moz-animation-duration: 3s;
@@ -2666,6 +2666,8 @@ position: relative;
 	}
 }//btn-submit
 
+
+
 /* ! ============================================= */
 
 /* ! Media Queries							      */
@@ -2692,8 +2694,6 @@ position: relative;
      j.mp/textsizeadjust 
   html { -webkit-text-size-adjust:none; -ms-text-size-adjust:none; } */
 }
-
-
 
 
 
