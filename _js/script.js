@@ -35,10 +35,28 @@ $(document).ready(function(){
 
 	// $(window).stellar();
 
-		$.localScroll.hash({
-		target: '#nav-side-mod', // Could be a selector or a jQuery object too.
-		queue:true,
-		duration:1500
+	// $.localScroll.hash({
+	// 	target: '#nav-side-mod', // Could be a selector or a jQuery object too.
+	// 	queue:true,
+	// 	duration:1500
+	// });
+
+	$("a.anchorlink").anchorAnimate();
+
+	$(window).on('scroll', function() {
+		$('#main > section').each(function() {
+			var $this = $(this);
+			if($this.attr('id')) { // only test if we have an ID
+
+				var delta = $(this).offset().top - $(window).scrollTop();
+				if(delta < 100 && delta > -100) {
+					// put nav color changing code here
+
+					// comment me out!
+					console.log($(this).attr('id'));
+				}
+			}
+		});
 	});
  
 });
