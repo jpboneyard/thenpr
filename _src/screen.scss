@@ -120,7 +120,7 @@ h4 {
 	text-indent: -0.35em;
 	border: 0px;
 	width: auto;
-	font: 28px/140% $display;	
+	font: 24px/140% $display;	
 	color: #333;
 
 	@media (min-width: 600px) {
@@ -241,6 +241,8 @@ h4 {
 
 #nav-side-mod {
 	position: relative;
+	animation: fadein-2 4.5s;	
+	-webkit-animation:fadein-2 4.5s;	
 }
 
 .nav-side-item {
@@ -286,8 +288,6 @@ h4 {
 .nav-side-item:last-child:after {
 	border-right: 0px;
 }
-
-
 
 .nav-side-item.active {
 	background-color: #FDD63D;
@@ -560,7 +560,7 @@ header:after{
 }
 
 .home-hdr {
-	max-width: 950px;
+	max-width: 960px;
 	width: 95%;
 	margin: 0 auto;
 	text-align: center;
@@ -571,10 +571,19 @@ header:after{
 	left: 0px;
 	right: 0px;
 
-	@media (min-width: 600px) {
-		width: 90%;
+	@media (min-width: 780px) {
+		width: 80%;
 		top: 36%;
 	}//mq
+
+	@media (min-width: 900px) {
+		width: 85%;
+		top: 36%;
+	}//mq	
+
+	@media (min-width: 1100px) {
+		width: 90%;
+	}//mq	
 }
 
 .home-hdr-img {
@@ -782,6 +791,7 @@ header:after{
 	left: 0;
 	font: normal 18px/100% $display;	
 	letter-spacing: 1px;
+	text-transform: uppercase;
 }
 
 
@@ -860,7 +870,7 @@ header:after{
 	margin-top: -80px;
 	margin-bottom: 50px;
 	background-color: #FFF;
-	padding: 30px 55px 45px 55px;
+	padding: 30px 40px 45px 40px;
 	background: url(../_img/praise-paper.png) 0% 100%;
 	position: relative;
 	max-width: 900px;
@@ -1064,7 +1074,7 @@ header:after{
 	text-align: center;
 	color: #fff;
 	margin: 0 auto;
-	background: url(../_img/npr-bg-cover.png) no-repeat -700px;
+	background: url(../_img/npr-bg-cover.png) no-repeat -700px -430px;
 	background-color: #171717;
 	background-size: 1507px;
 
@@ -1114,22 +1124,28 @@ header:after{
 .alert-txt {
 	max-width: 250px;
 	margin: 0 auto;
-	font-size: 12px;
 	color: #b4b558;
 	margin-top: 10px;
 	margin-bottom: 12px;
-	-webkit-animation:fadein-2 4.5s;			
+	animation: fadein-2 4.5s;	
+	-webkit-animation:fadein-2 4.5s;
 }
 
 .alert-txt a {
-	padding: 11px 14px;
+	padding: 6px 9px;
 	display: block;
 	background-color: #000;
+	font-size: 10px;
 
 	&:hover {
 		@include trans;
 		background-color: #514F23;
 	}//hover
+
+	@media (min-width: 401px) {
+		padding: 11px 14px;
+		font-size: 12px;
+	}//mq
 }
 
 .social-mod {
@@ -2349,7 +2365,7 @@ a.gallery-show-wrap {
 	}
 
 	@media (min-width: 760px) {
-		@include rotate(-2deg);	
+		@include rotate(-1deg);	
 	}
 }
 

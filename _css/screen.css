@@ -476,7 +476,7 @@ h4 {
   text-indent: -0.35em;
   border: 0px;
   width: auto;
-  font: 28px/140% "alternate-gothic-no-3-d", Arial, Helvetica, Verdana, sans-serif;
+  font: 24px/140% "alternate-gothic-no-3-d", Arial, Helvetica, Verdana, sans-serif;
   color: #333;
 }
 @media (min-width: 600px) {
@@ -607,6 +607,8 @@ h4 {
 
 #nav-side-mod {
   position: relative;
+  animation: fadein-2 4.5s;
+  -webkit-animation: fadein-2 4.5s;
 }
 
 .nav-side-item {
@@ -998,7 +1000,7 @@ header:after {
 }
 
 .home-hdr {
-  max-width: 950px;
+  max-width: 960px;
   width: 95%;
   margin: 0 auto;
   text-align: center;
@@ -1009,10 +1011,21 @@ header:after {
   left: 0px;
   right: 0px;
 }
-@media (min-width: 600px) {
+@media (min-width: 780px) {
+  .home-hdr {
+    width: 80%;
+    top: 36%;
+  }
+}
+@media (min-width: 900px) {
+  .home-hdr {
+    width: 85%;
+    top: 36%;
+  }
+}
+@media (min-width: 1100px) {
   .home-hdr {
     width: 90%;
-    top: 36%;
   }
 }
 
@@ -1300,6 +1313,7 @@ header:after {
   left: 0;
   font: normal 18px/100% "alternate-gothic-no-3-d", Arial, Helvetica, Verdana, sans-serif;
   letter-spacing: 1px;
+  text-transform: uppercase;
 }
 
 /* ============================================= */
@@ -1398,7 +1412,7 @@ header:after {
   margin-top: -80px;
   margin-bottom: 50px;
   background-color: #FFF;
-  padding: 30px 55px 45px 55px;
+  padding: 30px 40px 45px 40px;
   background: url(../_img/praise-paper.png) 0% 100%;
   position: relative;
   max-width: 900px;
@@ -1619,7 +1633,7 @@ header:after {
   text-align: center;
   color: #fff;
   margin: 0 auto;
-  background: url(../_img/npr-bg-cover.png) no-repeat -700px;
+  background: url(../_img/npr-bg-cover.png) no-repeat -700px -430px;
   background-color: #171717;
   background-size: 1507px;
 }
@@ -1662,17 +1676,18 @@ header:after {
 .alert-txt {
   max-width: 250px;
   margin: 0 auto;
-  font-size: 12px;
   color: #b4b558;
   margin-top: 10px;
   margin-bottom: 12px;
+  animation: fadein-2 4.5s;
   -webkit-animation: fadein-2 4.5s;
 }
 
 .alert-txt a {
-  padding: 11px 14px;
+  padding: 6px 9px;
   display: block;
   background-color: #000;
+  font-size: 10px;
 }
 .alert-txt a:hover {
   -webkit-transition: ease-in 0.2s all;
@@ -1680,6 +1695,12 @@ header:after {
   -o-transition: ease-in 0.2s all;
   transition: ease-in 0.2s all;
   background-color: #514F23;
+}
+@media (min-width: 401px) {
+  .alert-txt a {
+    padding: 11px 14px;
+    font-size: 12px;
+  }
 }
 
 .social-mod {
@@ -2993,11 +3014,11 @@ a.gallery-show-wrap {
 }
 @media (min-width: 760px) {
   .note-card-cont {
-    -webkit-transform: rotate(-2deg);
-    -moz-transform: rotate(-2deg);
-    -ms-transform: rotate(-2deg);
-    -o-transform: rotate(-2deg);
-    transform: rotate(-2deg);
+    -webkit-transform: rotate(-1deg);
+    -moz-transform: rotate(-1deg);
+    -ms-transform: rotate(-1deg);
+    -o-transform: rotate(-1deg);
+    transform: rotate(-1deg);
   }
 }
 
