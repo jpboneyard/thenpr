@@ -240,9 +240,24 @@ h4 {
 }
 
 #nav-side-mod {
-	position: relative;
-	animation: fadein-2 4.5s;	
-	-webkit-animation:fadein-2 4.5s;	
+  position: relative;
+  opacity: 0;
+}
+
+.fadein-nav {
+  animation: fadein-2 2.5s;
+  -webkit-animation: fadein-2 2.5s;
+  -webkit-animation-fill-mode: forwards;
+}
+
+.show-nav-immediately {
+  animation: fadein-fast 0.1s;
+  -webkit-animation: fadein-fast 0.1s;
+  -webkit-animation-fill-mode: forwards;
+}
+
+.nav-side-item {
+  position: relative;
 }
 
 .nav-side-item {
@@ -1151,7 +1166,8 @@ header:after{
 .social-mod {
 	margin-top: 15px;
 	animation: fadein-2 4.5s;	
-	-webkit-animation:fadein-2 4.5s;		
+	-webkit-animation:fadein-2 4.5s;
+	-webkit-animation-fill-mode: forwards;		
 }
 
 @-webkit-keyframes fadein-2 {
@@ -1163,6 +1179,18 @@ header:after{
 @-moz-keyframes fadein-2 {
   0%   { @include opacity(0); }
   75%   { @include opacity(0); } 
+  100% { @include opacity(1); }
+}
+
+@-webkit-keyframes fadein-fast {
+  0%   { @include opacity(0); }
+  75%   { @include opacity(0.5); } 
+  100% { @include opacity(1); }
+}
+
+@-moz-keyframes fadein-fast {
+  0%   { @include opacity(0); }
+  75%   { @include opacity(0.5); } 
   100% { @include opacity(1); }
 }
 
@@ -1198,7 +1226,8 @@ header:after{
 	    left: 50%;
     	bottom: 8%;  
     	animation: fadein-2 4.5s;	
-		-webkit-animation:fadein-2 4.5s;	  
+		-webkit-animation:fadein-2 4.5s;
+		-webkit-animation-fill-mode: forwards;  
   	}//mq
 }  
 

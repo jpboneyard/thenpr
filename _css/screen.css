@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* 
   HTML5 ✰ Boilerplate 
   
@@ -607,8 +608,23 @@ h4 {
 
 #nav-side-mod {
   position: relative;
-  animation: fadein-2 4.5s;
-  -webkit-animation: fadein-2 4.5s;
+  opacity: 0;
+}
+
+.fadein-nav {
+  animation: fadein-2 2.5s;
+  -webkit-animation: fadein-2 2.5s;
+  -webkit-animation-fill-mode: forwards;
+}
+
+.show-nav-immediately {
+  animation: fadein-fast 0.1s;
+  -webkit-animation: fadein-fast 0.1s;
+  -webkit-animation-fill-mode: forwards;
+}
+
+.nav-side-item {
+  position: relative;
 }
 
 .nav-side-item {
@@ -1707,6 +1723,7 @@ header:after {
   margin-top: 15px;
   animation: fadein-2 4.5s;
   -webkit-animation: fadein-2 4.5s;
+  -webkit-animation-fill-mode: forwards;
 }
 
 @-webkit-keyframes fadein-2 {
@@ -1735,6 +1752,40 @@ header:after {
   75% {
     filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
     opacity: 0;
+  }
+
+  100% {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadein-fast {
+  0% {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+    opacity: 0;
+  }
+
+  75% {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
+    opacity: 0.5;
+  }
+
+  100% {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes fadein-fast {
+  0% {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+    opacity: 0;
+  }
+
+  75% {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
+    opacity: 0.5;
   }
 
   100% {
@@ -1778,6 +1829,7 @@ header:after {
     bottom: 8%;
     animation: fadein-2 4.5s;
     -webkit-animation: fadein-2 4.5s;
+    -webkit-animation-fill-mode: forwards;
   }
 }
 

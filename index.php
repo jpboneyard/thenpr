@@ -5,7 +5,7 @@
     <div id="main" role="main">
     	<section class="nav-side">
     		<ul id="nav-side-mod">
-    			<li class="nav-side-item nav-intro"><a class="anchorlink nav-hit-area" href="#intro"></a></li>
+    			<li class="nav-side-item nav-intro active"><a class="anchorlink nav-hit-area" href="#intro"></a></li>
     			<li class="nav-side-item nav-about"><a class="anchorlink nav-hit-area" href="#about"></a></li>
     			<li class="nav-side-item nav-shows"><a class="anchorlink nav-hit-area" href="#shows"></a></li>
     			<li class="nav-side-item nav-praise"><a class="anchorlink nav-hit-area" href="#praise"></a></li>
