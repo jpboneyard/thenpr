@@ -563,8 +563,6 @@ h4 {
   right: 25px;
   z-index: 2000;
   display: none;
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
-  opacity: 0.8;
 }
 @media (min-width: 800px) {
   .nav-side {
@@ -1663,22 +1661,31 @@ header:after {
 
 .alert-txt {
   max-width: 250px;
-  padding: 8px;
-  background-color: #000;
   margin: 0 auto;
   font-size: 12px;
   color: #b4b558;
+  margin-top: 10px;
+  margin-bottom: 12px;
+  -webkit-animation: fadein-2 4.5s;
+}
+
+.alert-txt a {
+  padding: 11px 14px;
+  display: block;
+  background-color: #000;
+}
+.alert-txt a:hover {
+  -webkit-transition: ease-in 0.2s all;
+  -moz-transition: ease-in 0.2s all;
+  -o-transition: ease-in 0.2s all;
+  transition: ease-in 0.2s all;
+  background-color: #514F23;
 }
 
 .social-mod {
   margin-top: 15px;
   animation: fadein-2 4.5s;
   -webkit-animation: fadein-2 4.5s;
-}
-@media (min-width: 600px) {
-  .social-mod {
-    float: right;
-  }
 }
 
 @-webkit-keyframes fadein-2 {

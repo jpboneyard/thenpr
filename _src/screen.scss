@@ -219,7 +219,6 @@ h4 {
 	right: 25px;
 	z-index: 2000;
 	display: none;
-	@include opacity(.8);
 	// -webkit-animation:fadein-4 6s;			
 
 	@media (min-width: 800px) {
@@ -1114,21 +1113,29 @@ header:after{
 
 .alert-txt {
 	max-width: 250px;
-	padding: 8px;
-	background-color: #000;
 	margin: 0 auto;
 	font-size: 12px;
 	color: #b4b558;
+	margin-top: 10px;
+	margin-bottom: 12px;
+	-webkit-animation:fadein-2 4.5s;			
+}
+
+.alert-txt a {
+	padding: 11px 14px;
+	display: block;
+	background-color: #000;
+
+	&:hover {
+		@include trans;
+		background-color: #514F23;
+	}//hover
 }
 
 .social-mod {
 	margin-top: 15px;
 	animation: fadein-2 4.5s;	
 	-webkit-animation:fadein-2 4.5s;		
-
-	@media (min-width: 600px) {
-		float: right;
-	}//mq
 }
 
 @-webkit-keyframes fadein-2 {

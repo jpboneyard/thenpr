@@ -31,17 +31,17 @@
     	</section> <!-- /nav -->	
          <section id="intro">
 	    	<div class="home-hdr">
-		    	<div class="show-alert">
-	         		<p class="alert-txt">Next Show: Philly Sept 14-15 2013</p>
-	         	</div><!-- /show-alert -->
 		    	<img class="home-hdr-img" src="_img/npr-hdr-logo-2.png" alt="The National Poster Retrospecticus"/>
 				<h1 class="hdr-logo">The National Poster Retrospecticus</h1>
+				<div class="show-alert">
+	         		<p class="alert-txt"><a href="http://localhost/2k13-philly.php">Next Show: Philly Sept 14-15 2013</a></p>
+	         	</div><!-- /show-alert -->	
 				<ul class="social-mod">
 					<li><a href="https://www.facebook.com/nationalposterretrospecticus" target="_blank"><img src="/_img/social-facebook.png" /></a></li> 
 					<li><a href="https://twitter.com/thenpr" target="_blank"><img src="/_img/social-twitter.png" /></a></li> 
 					<li><a href="http://instagram.com/jpboneyard" target="_blank"><img src="/_img/social-instagram.png" /></a></li> 
 					<li><a href="http://npr.supermarkethq.com" target="_blank"><img src="/_img/social-supermarket.png" /></a></li> 
-				</ul> <!-- /social-mod -->		
+				</ul> <!-- /social-mod -->	
 			</div> <!-- /home-hdr -->
 			<div class="intro-img-container"><img class="intro-img" src="_img/npr-hdr-btm-2k14.gif" alt="national poster retrospecticus btm"></div>   	
 			<div class="scroll-arrow-mod">
