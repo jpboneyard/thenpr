@@ -27,6 +27,7 @@
 			<li class="player-list-item"> <a href="http://www.jamesflames.com/" target="_blank" alt="James Flames">James Flames</a> </li>
 	 		<li class="player-list-item"> <a href="http://www.javiergd.com/" target="_blank" alt="Javier Garcia">Javier Garcia</a> </li>
 			<li class="player-list-item"> <a href="http://www.timgough.org/" target="_blank" alt="Tim Gough">Tim Gough</a> </li>
+			<li class="player-list-item"> <a href="http://cargocollective.com/dougharry" target="_blank" alt="Doug Harry">Doug Harry</a> </li>				 				 												 						 		
 			<li class="player-list-item"> <a href="http://grayhood.com/" target="_blank" alt="Gray Hood">Gray Hood</a> </li>				 				 												 						 		
 	 	</ul>
 	</div>
