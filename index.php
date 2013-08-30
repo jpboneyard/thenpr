@@ -13,22 +13,6 @@
     			<li class="nav-side-item nav-players"><a class="anchorlink nav-hit-area" href="#players"></a></li>
     		</ul> <!-- /nav-side-mod -->	
     	</section> <!-- /nav-side -->	
-
-  <!--   	<section class="nav" style="width:45px">
-    		<ul class="nav-mod">
-    			<li class="nav-item"><img src="_img/nav-burger.png" /></li> -->
-<!--     			<li class="nav-item">About</li>
-    			<li class="nav-item">Shows</li>
-    			<li class="nav-item">Praise</li>
-    			<li class="nav-item">Posters</li>
-    			<li class="nav-item">Artists</li>
-    			<li class="nav-item">|</li>
-    			<li class="nav-item"><a href="https://www.facebook.com/nationalposterretrospecticus" target="_blank"><img src="/_img/social-facebook-wt.png" /></a></li> 
-				<li class="nav-item"><a href="https://twitter.com/thenpr" target="_blank"><img src="/_img/social-twitter-wt.png" /></a></li> 
-				<li class="nav-item"><a href="http://instagram.com/jpboneyard" target="_blank"><img src="/_img/social-instagram-wt.png" /></a></li> 
-				<li class="nav-item"><a href="http://npr.supermarkethq.com" target="_blank"><img src="/_img/social-supermarket-wt.png" /></a></li> --> 
-    		</ul> <!-- /nav-mod -->	
-    	</section> <!-- /nav -->	
          <section id="intro">
 	    	<div class="home-hdr">
 		    	<img class="home-hdr-img" src="_img/npr-hdr-logo-2.png" alt="The National Poster Retrospecticus"/>
@@ -97,7 +81,7 @@
     				<div class="praise-item media-block">
     					<img class="praise-img" src="/_img/doe-eyed-mug.png" />
     					<div class="praise-name">Eric Nyffeler</div>
-    					<div class="praise-studio">Doe Eyed Design</div>
+    					<div class="praise-studio">Doe Eyed</div>
     					<p class="praise-txt">"The NPR stands as the most well organized, most well laid out, and most communicative show I've ever worked with. It's beautifully branded and incredibly curated."</p>
     				</div> <!-- /praise-item -->
     				<div class="praise-item media-block">
