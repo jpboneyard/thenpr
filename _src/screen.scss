@@ -219,24 +219,11 @@ h4 {
 	right: 25px;
 	z-index: 2000;
 	display: none;
-	// -webkit-animation:fadein-4 6s;			
 
 	@media (min-width: 800px) {
 		display: block;
 		right: 35px;
 	}//mq
-}
-
-@-webkit-keyframes fadein-4 {
-  0%   { @include opacity(0); }
-  50%   { @include opacity(0); } 
-  100% { @include opacity(.8); }
-}
-
-@-moz-keyframes fadein-4 {
-  0%   { @include opacity(0); }
-  50%   { @include opacity(0); } 
-  100% { @include opacity(.8); }
 }
 
 #nav-side-mod {
