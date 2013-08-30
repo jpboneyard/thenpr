@@ -54,7 +54,7 @@
 ;(function( $ ){
 	
 	var $scrollTo = $.scrollTo = function( target, duration, settings ){
-		$(#nav-side-mod).scrollTo( target, duration, settings );
+		$('#nav-side-mod').scrollTo( target, duration, settings );
 	};
 
 	$scrollTo.defaults = {

@@ -33,15 +33,17 @@ $(document).ready(function(){
 
 	$(".sponsor-main-item img[title]").tooltip();
 
-	// $(window).stellar();
-
-	// $.localScroll.hash({
-	// 	target: '#nav-side-mod', // Could be a selector or a jQuery object too.
-	// 	queue:true,
-	// 	duration:1500
-	// });
-
 	$("a.anchorlink").anchorAnimate();
+
+	setTimeout(function() {
+
+		if($(window).scrollTop() == 0) {
+			$('#nav-side-mod').addClass('fadein-nav');
+		} else {
+			$('#nav-side-mod').addClass('show-nav-immediately');
+		}
+
+	}, 250);
 
 	$(window).on('scroll', function() {
 		$('#main > section').each(function() {

@@ -13,7 +13,7 @@
     			<li class="nav-side-item nav-players"><a class="anchorlink nav-hit-area" href="#players"></a></li>
     		</ul> <!-- /nav-side-mod -->	
     	</section> <!-- /nav-side -->	
-        
+
          <section id="intro">
 	    	<div class="home-hdr">
 		    	<img class="home-hdr-img" src="_img/npr-hdr-logo-2.png" alt="The National Poster Retrospecticus"/>
@@ -82,7 +82,7 @@
     				<div class="praise-item media-block">
     					<img class="praise-img" src="/_img/doe-eyed-mug.png" />
     					<div class="praise-name">Eric Nyffeler</div>
-    					<div class="praise-studio">Doe Eyed Design</div>
+    					<div class="praise-studio">Doe Eyed</div>
     					<p class="praise-txt">"The NPR stands as the most well organized, most well laid out, and most communicative show I've ever worked with. It's beautifully branded and incredibly curated."</p>
     				</div> <!-- /praise-item -->
     				<div class="praise-item media-block">
