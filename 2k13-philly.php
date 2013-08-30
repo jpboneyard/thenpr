@@ -15,8 +15,7 @@
 							<div class="city-name">Philadelphia, PA</div>
 							<p>9/14/13 - 9/15/13</br>
 							<a href="http://mastheadprintstudio.com/" target="_blank">Masthead Print Studio</a></p>							
-							<p>Saturday 7pm</br> 
-							<p>Sunday 1pm</br>														 
+							<p>Sat 7pm / Sun 1pm</br> 
 						</div> <!-- /event-info-main -->
 						<div class="event-info-deets">
 							<div class="event-details-title">Address</div>
@@ -25,6 +24,8 @@
 								<p><a href="https://www.facebook.com/events/586668578023035" target="_blank">facebook.com/events/...</a></p>
 								<div class="event-details-title">w/ Featured Artist</div>
 								<p><a href="http://www.houseind.com/" target="_blank">House Industries</a></p>
+								<div class="event-details-title">Partners</div>
+								<p><a href="http://philadelphia.aiga.org/" target="_blank">AIGA Philly</a></p>
 					</div> <!-- /event-info-deets -->			
 					</div><!-- /event-details-cont -->
 					<img class="ticket" src="/_img/admit-one-5.png"/>
