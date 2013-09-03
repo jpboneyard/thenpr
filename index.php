@@ -19,7 +19,7 @@
 		    	<img class="home-hdr-img" src="_img/npr-hdr-logo-2.png" alt="The National Poster Retrospecticus"/>
 				<h1 class="hdr-logo">The National Poster Retrospecticus</h1>
 				<div class="show-alert">
-	         		<p class="alert-txt"><a href="http://localhost/2k13-philly.php">Next Show: Philly Sept 14-15 2013</a></p>
+	         		<p class="alert-txt"><a href="2k13-philly.php">Next Show: Philly Sept 14-15 2013</a></p>
 	         	</div><!-- /show-alert -->	
 				<ul class="social-mod">
 					<li><a href="https://www.facebook.com/nationalposterretrospecticus" target="_blank"><img src="/_img/social-facebook.png" /></a></li> 
