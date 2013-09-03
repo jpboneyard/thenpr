@@ -16,6 +16,7 @@
 			<li class="player-list-item"> <a href="http://www.secretdoorprojects.org/" target="_blank" alt="Ian Cozzens">Ian Cozzens</a> </li>			
 			<li class="player-list-item"> <a href="http://tinymediaempire.com/" target="_blank" alt="Daniel Danger">Daniel Danger</a> </li>
 			<li class="player-list-item"> <a href="http://thedecoderring.com/" target="_blank" alt="Decoder Ring">Decoder Ring</a> </li>
+			<li class="player-list-item"> <a href="http://www.chrisdelorenzo.com/" target="_blank" alt="Chris DeLorenzo">Chris DeLorenzo</a> </li>
 			<li class="player-list-item"> <a href="http://dkngstudios.com/" target="_blank" alt="DKNG">DKNG</a> </li>
 			<li class="player-list-item"> <a href="http://www.doe-eyed.com/" target="_blank" alt="Doe Eyed">Doe Eyed</a> </li>			
 			<li class="player-list-item"> <a href="http://www.doublenaut.com/" target="_blank" alt="Doublenaut">Doublenaut</a> </li>						
@@ -26,14 +27,14 @@
 			<li class="player-list-item"> <a href="http://www.firecrackerpress.com/" target="_blank" alt="Firecracker Press">Firecracker Press</a> </li>
 			<li class="player-list-item"> <a href="http://www.jamesflames.com/" target="_blank" alt="James Flames">James Flames</a> </li>
 	 		<li class="player-list-item"> <a href="http://www.javiergd.com/" target="_blank" alt="Javier Garcia">Javier Garcia</a> </li>
-			<li class="player-list-item"> <a href="http://www.timgough.org/" target="_blank" alt="Tim Gough">Tim Gough</a> </li>
-			<li class="player-list-item"> <a href="http://cargocollective.com/dougharry" target="_blank" alt="Doug Harry">Doug Harry</a> </li>				 				 												 						 		
-			<li class="player-list-item"> <a href="http://grayhood.com/" target="_blank" alt="Gray Hood">Gray Hood</a> </li>				 				 												 						 		
+			<li class="player-list-item"> <a href="http://www.timgough.org/" target="_blank" alt="Tim Gough">Tim Gough</a> </li>				 				 												 						 		
 	 	</ul>
 	</div>
 
 	<div class="link-list">
 	 	<ul>
+	 		<li class="player-list-item"> <a href="http://cargocollective.com/dougharry" target="_blank" alt="Doug Harry">Doug Harry</a> </li>				 				 												 						 		
+			<li class="player-list-item"> <a href="http://grayhood.com/" target="_blank" alt="Gray Hood">Gray Hood</a> </li>
 			<li class="player-list-item"> <a href="https://www.thehalfandhalf.com/" target="_blank" alt="The Half and Half">The Half and Half</a> </li>
 			<li class="player-list-item"> <a href="http://www.halftonedef.com/" target="_blank" alt="Halftone Def Studios">Halftone Def Studios</a> </li>
 			<li class="player-list-item"> <a href="http://cargocollective.com/adamhanson" target="_blank" alt="Adam Hanson">Adam Hanson</a> </li>
@@ -60,21 +61,19 @@
 			<li class="player-list-item"> <a href="http://www.magnificodesign.com/" target="_blank" alt="Magnifico Design">Magnifico Design</a> </li>
 			<li class="player-list-item"> <a href="http://www.madpixel.net/" target="_blank" alt="Madpixel">Madpixel</a> </li>	
 			<li class="player-list-item"> <a href="http://danmccarthy.org/" target="_blank" alt="Dan McCarthy">Dan McCarthy</a> </li>	
-			<li class="player-list-item"> <a href="http://www.taramcpherson.com/" target="_blank" alt="Tara McPherson">Tara McPherson</a> </li>	
-			<li class="player-list-item"> <a href="http://methanestudios.com/" target="_blank" alt="Methane Studios">Methane Studios</a> </li>								 					 						 					 											 													
 	 	</ul>
 
 	</div>				
 
 	<div class="link-list last">
 	 	<ul>
+	 		<li class="player-list-item"> <a href="http://www.taramcpherson.com/" target="_blank" alt="Tara McPherson">Tara McPherson</a> </li>	
+	 		<li class="player-list-item"> <a href="http://methanestudios.com/" target="_blank" alt="Methane Studios">Methane Studios</a> </li>								 					 						 					 											 													
 			<li class="player-list-item"> <a href="http://meghanminior.com/" target="_blank" alt="Meghan Minior">Meghan Minior</a> </li>						
 			<li class="player-list-item"> <a href="http://ericrmortensen.com/" target="_blank" alt="Eric R. Mortensen">Eric R. Mortensen</a> </li>
 			<li class="player-list-item"> <a href="http://nerlsaysdesign.com/" target="_blank" alt="Nerl Says Design">Nerl Says Design</a> </li>
 			<li class="player-list-item"> <a href="http://www.patentpendingindustries.com/posters/posters.php" target="_blank" alt="Patent Pending Industries">Patent Pending Industries</a> </li>
-			<li class="player-list-item"> <a href="https://twitter.com/#!/roseredrosered" target="_blank" alt="Rosie Ranauro">Rosie Ranauro</a> </li>												
 			<li class="player-list-item"> <a href="http://joshrickun.com/" target="_blank" alt="Josh Rickun">Josh Rickun</a> </li>
-			<li class="player-list-item"> <a href="http://www.lisarosowsky.com/" target="_blank" alt="Lisa Rosowsky">Lisa Rosowsky</a> </li>						
 			<li class="player-list-item"> <a href="http://shedlabs.com/" target="_blank" alt="Shed Labs">Shed Labs</a> </li>																		
 			<li class="player-list-item"> <a href="http://thesilentgiants.com/" target="_blank" alt="Silent Giants">Silent Giants</a> </li>
 			<li class="player-list-item"> <a href="http://amicahsmith.com/" target="_blank" alt="A. Micah Smith">A. Micah Smith</a> </li>													
