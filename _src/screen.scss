@@ -306,17 +306,6 @@ h4 {
 	display: block;
 }
 
-nav.menu { position: fixed; z-index: 10; right: 30px; top: 240px; }
-nav.menu ul.navigation li:last-child:after { border: none !important; }
-nav.menu ul.navigation li { list-style: none; margin: 24px 0; position: relative; }
-@media (max-width: 768px) { nav.menu ul.navigation li { text-indent: -9999px; } }
-nav.menu ul.navigation li:after { border-right: 2px solid #d1b271; content: ''; height: 24px; position: absolute; left: 7px; }
-nav.menu ul.navigation li a { color: #d1b271; display: block; padding: 5px; border: 2px solid #d1b271; border-top-left-radius: 100px; border-top-right-radius: 100px; border-bottom-left-radius: 100px; border-bottom-right-radius: 100px; border-top-left-radius: 100px; border-bottom-left-radius: 100px; border-top-right-radius: 100px; border-bottom-right-radius: 100px; -webkit-transition: all 0.15s ease-in-out; -moz-transition: all 0.15s ease-in-out; transition: all 0.15s ease-in-out; }
-nav.menu ul.navigation li.active a, nav.menu ul.navigation li:hover a { border-color: #ed8d6c; background: #ed8d6c; border-top-left-radius: 100px; border-top-right-radius: 100px; border-bottom-left-radius: 100px; border-bottom-right-radius: 100px; border-top-left-radius: 100px; border-bottom-left-radius: 100px; border-top-right-radius: 100px; border-bottom-right-radius: 100px; }
-nav.menu ul.navigation li.active span, nav.menu ul.navigation li:hover span { color: #ed8d6c; }
-nav.menu ul.navigation li span { display: block; left: -100px; top: 1px; position: absolute; font-family: "proxima-nova-alt"; font-weight: 600; text-transform: uppercase; letter-spacing: .2em; font-size: 0.625em; }
-
-
 
 /* ============================================= */
 
