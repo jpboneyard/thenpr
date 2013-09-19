@@ -3,7 +3,6 @@
 	 	<ul class="players-list list-horiz horiz-list">
 			<li class="player-list-item horiz-list list-horiz"> <a href="http://aestheticapparatus.com/" target="_blank" alt="Aesthetic Apparatus">Aesthetic Apparatus</a> </li>
 			<li class="player-list-item"> <a href="http://www.alphabetarm.com/" target="_blank" alt="Alphabet Arm Design">Alphabet Arm Design</a> </li>
-			<li class="player-list-item"> <a href="http://badcomradeprint.com/home.html" target="_blank" alt="Bad Comrade">Bad Comrade</a> </li>
 			<li class="player-list-item"> <a href="http://www.thisisthenewyear.com/" target="_blank" alt="Sasha Barr">Sasha Barr</a> </li>				
 			<li class="player-list-item"> <a href="http://beeteeth.com/" target="_blank" alt="Bee Teeth">Bee Teeth</a> </li>		
 			<li class="player-list-item"> <a href="http://www.danblakeslee.com/" target="_blank" alt="Dan Blakeslee">Dan Blakeslee</a> </li>			
@@ -24,15 +23,16 @@
 			<li class="player-list-item"> <a href="http://jakedugard.com/" target="_blank" alt="Jake Dugard">Jake Dugard</a> </li>
 			<li class="player-list-item"> <a href="http://www.ryanduggan.com/" target="_blank" alt="Ryan Duggan">Ryan Duggan</a> </li>																				
 			<li class="player-list-item"> <a href="http://nateduval.com/" target="_blank" alt="Nate Duval">Nate Duval</a> </li>
+			<li class="player-list-item"> <a href="http://www.aaroneiland.com/" target="_blank" alt="Aaron Eiland">Aaron Eiland</a> </li>
 			<li class="player-list-item"> <a href="http://www.firecrackerpress.com/" target="_blank" alt="Firecracker Press">Firecracker Press</a> </li>
 			<li class="player-list-item"> <a href="http://www.jamesflames.com/" target="_blank" alt="James Flames">James Flames</a> </li>
+			<li class="player-list-item"> <a href="http://jpflexnercreative.blogspot.com/" target="_blank" alt="JP Flexner">JP Flexner</a> </li>				 				 												 						 		
 	 		<li class="player-list-item"> <a href="http://www.javiergd.com/" target="_blank" alt="Javier Garcia">Javier Garcia</a> </li>
-			<li class="player-list-item"> <a href="http://www.timgough.org/" target="_blank" alt="Tim Gough">Tim Gough</a> </li>				 				 												 						 		
 	 	</ul>
 	</div>
-
 	<div class="link-list">
 	 	<ul>
+	 		<li class="player-list-item"> <a href="http://www.timgough.org/" target="_blank" alt="Tim Gough">Tim Gough</a> </li>				 				 												 						 		
 	 		<li class="player-list-item"> <a href="http://cargocollective.com/dougharry" target="_blank" alt="Doug Harry">Doug Harry</a> </li>				 				 												 						 		
 			<li class="player-list-item"> <a href="http://grayhood.com/" target="_blank" alt="Gray Hood">Gray Hood</a> </li>
 			<li class="player-list-item"> <a href="https://www.thehalfandhalf.com/" target="_blank" alt="The Half and Half">The Half and Half</a> </li>
