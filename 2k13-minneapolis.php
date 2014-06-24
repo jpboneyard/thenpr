@@ -1,5 +1,5 @@
 <?php 
-    $title = "The National Poster Retrospecticus -- Boston, MA";
+    $title = "The National Poster Retrospecticus — Minneapolis, MN";
     include($_SERVER["DOCUMENT_ROOT"]."/_includes/head.php"); ?>   
 	<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/header.php"); ?> 
 
@@ -19,7 +19,7 @@
 						</div> <!-- /event-info-main -->
 						<div class="event-info-deets">
 							<div class="event-details-title">Address</div>
-								<p><a href="https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=co+exhibitions&aq=&sll=44.999711,-93.226268&sspn=0.009696,0.012574&g=1101+Stinson+Blvd+NE+%232,+minneapolis,+minnesota&ie=UTF8&t=h&z=16&iwloc=A" target="_blank"> 1101 Stinson Blvd #2, Minneapolis, MN</a></p>
+								<p><a href="https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=co+exhibitions&aq=&sll=44.999711,-93.226268&sspn=0.009696,0.012574&g=1101+Stinson+Blvd+NE+%232,+minneapolis,+minnesota&ie=UTF8&t=h&z=16&iwloc=A" target="_blank"> 1101 Stinson Blvd #2, Minneapolis</a></p>
 								<div class="event-details-title">Facebook</div>
 								<p><a href="https://www.facebook.com/events/218768004928791/?fref=ts" target="blank">facebook.com/events/...</a></p>
 								<div class="event-details-title">w/ Featured Artist</div>

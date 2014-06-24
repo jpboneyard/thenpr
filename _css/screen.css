@@ -2951,13 +2951,13 @@ a.gallery-show-wrap {
   max-height: 100%;
   margin-bottom: 50px;
 }
-@media (max-width: 760px) {
+@media (max-width: 800px) {
   .note-card-cont {
     max-height: 540px;
     overflow: hidden;
   }
 }
-@media (min-width: 760px) {
+@media (min-width: 800px) {
   .note-card-cont {
     -webkit-transform: rotate(-1deg);
     -moz-transform: rotate(-1deg);
@@ -2970,7 +2970,7 @@ a.gallery-show-wrap {
 .ticket {
   display: none;
 }
-@media (min-width: 760px) {
+@media (min-width: 800px) {
   .ticket {
     display: block;
     float: left;
@@ -3020,7 +3020,7 @@ a.gallery-show-wrap {
     padding: 75px;
   }
 }
-@media (min-width: 760px) {
+@media (min-width: 780px) {
   .event-info-cont {
     padding: 45px 44px 45px 55px;
   }
@@ -3077,7 +3077,7 @@ a.gallery-show-wrap {
 .note-card {
   display: none;
 }
-@media (min-width: 760px) {
+@media (min-width: 800px) {
   .note-card {
     max-width: 700px;
     width: 100%;
@@ -3091,7 +3091,7 @@ a.gallery-show-wrap {
 }
 
 .note-card-m {
-  max-width: 760px;
+  max-width: 800px;
   width: 100%;
   -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 9px;
   -moz-box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 9px;
@@ -3100,7 +3100,7 @@ a.gallery-show-wrap {
   z-index: 2;
   display: block;
 }
-@media (min-width: 760px) {
+@media (min-width: 800px) {
   .note-card-m {
     display: none;
   }
@@ -3169,7 +3169,7 @@ a.gallery-show-wrap {
 }
 
 .show-poster {
-  max-width: 800px;
+  max-width: 750px;
   width: 100%;
   -webkit-box-shadow: 0px 3px 9px rgba(0, 0, 0, 0.2);
   -moz-box-shadow: 0px 3px 9px rgba(0, 0, 0, 0.2);
