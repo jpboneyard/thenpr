@@ -753,6 +753,13 @@ header:after{
 	}//mq
 }
 
+.show-grid-last-row {
+
+	@media (min-width: 701px) {
+		margin-left: 25%;
+	}//mq
+}
+
 .show-item {
 	max-width: 360px;
 	margin: 0 auto;
