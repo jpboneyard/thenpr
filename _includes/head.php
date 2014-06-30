@@ -21,7 +21,7 @@
   <script src="_js/libs/modernizr-2.0.6.min.js"></script>
 
   <!-- type-kit jams -->
-  <script type="text/javascript" src="//use.typekit.net/meh6jub.js"></script>
+  <script type="text/javascript" src="//use.typekit.net/ozl5wra.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
   <link rel="image_src" href="http://nationalposterretrospecticus.com/_img/npr-hdr-btm.gif">
 </head>
