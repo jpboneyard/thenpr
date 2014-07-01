@@ -2,6 +2,34 @@
 
 			<div class="image-container">
 				<div class="gallery-show-cont">
+					<a class="gallery-show-wrap" href="2k14-boston.php">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">Boston, MA</span></br> 8/1/14</br>BU Art Gallery</br></p>
+								<div class="gallery-more-info">View more info</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-boston-2k14.jpg"/>
+					</a><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->	
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
+					<a class="gallery-show-wrap" href="2k14-rock-and-roll-hall-of-fame.php">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">Cleveland, OH</span></br> 8/9/14</br>Rock & Roll Hall of Fame</br></p>
+								<div class="gallery-more-info">View more info</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+					</a><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
 					<a class="gallery-show-wrap" href="2k14-weapons-of-mass-creation-fest.php">
 						<div class="gallery-info-cont">
 							<div class="gallery-info">
@@ -16,18 +44,33 @@
 
 			<div class="image-container">
 				<div class="gallery-show-cont">
-					<a class="gallery-show-wrap" href="2k14-boston.php">
+					<a class="gallery-show-wrap" href="2k14-brooklyn.php">
 						<div class="gallery-info-cont">
 							<div class="gallery-info">
-								<p><span class="city-name">Boston, MA</span></br> 8/1/14</br>BU Art Gallery</br></p>
+								<p><span class="city-name">Brooklyn, NY</span></br> 8/23/14</br>Cotton Candy Machine</br></p>
 								<div class="gallery-more-info">View more info</div>
 							</div> <!-- /gallery-info -->	
 						</div> <!-- /gallery-info-cont -->					
-						<img class="gallery-show-img" src="_img/gallery-show-boston-2k14.jpg"/>
+						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+					</a><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
+					<a class="gallery-show-wrap" href="2k14-pawtucket.php">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">Pawtucket, RI</span></br> 9/6/14</br>Machines with Magnets</br></p>
+								<div class="gallery-more-info">View more info</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
 					</a><!-- /.gallery-show-wrap -->
 				</div><!-- /gallery-show-cont -->	
 			</div> <!-- /.image-container -->		
-				
+
+			
 			
 		<!-- Starts SM-Show-Grid -->
 
