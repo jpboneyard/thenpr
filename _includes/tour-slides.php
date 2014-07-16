@@ -23,7 +23,7 @@
 								<div class="gallery-more-info">View more info</div>
 							</div> <!-- /gallery-info -->	
 						</div> <!-- /gallery-info-cont -->					
-						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+						<img class="gallery-show-img" src="_img/gallery-show-rock-and-roll-hall-of-fame-2k14.jpg"/>
 					</a><!-- /.gallery-show-wrap -->
 				</div><!-- /gallery-show-cont -->	
 			</div> <!-- /.image-container -->
