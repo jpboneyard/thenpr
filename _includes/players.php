@@ -87,6 +87,7 @@
 			<li class="player-list-item"> <a href="http://ericrmortensen.com/" target="_blank" alt="Eric R. Mortensen">Eric R. Mortensen</a> </li>
 			<li class="player-list-item"> <a href="http://jasonmunn.com/posters.php" target="_blank" alt="Jason Munn">Jason Munn</a> </li>
 			<li class="player-list-item"> <a href="http://nerlsaysdesign.com/" target="_blank" alt="Nerl Says Design">Nerl Says Design</a> </li>
+			<li class="player-list-item"> <a href="http://www.lydianichols.com/" target="_blank" alt="Lydia Nichols">Lydia Nichols</a> </li>
 			<li class="player-list-item"> <a href="http://www.patentpendingindustries.com/posters/posters.php" target="_blank" alt="Patent Pending Industries">Patent Pending Industries</a> </li>
 			<li class="player-list-item"> <a href="http://afirebirdsurrounded.com/" target="_blank" alt="Cecily Perez">Cecily Perez</a> </li>
 			<li class="player-list-item"> <a href="http://redtablepress.com/" target="_blank" alt="Red Table Press">Red Table Press</a> </li>
