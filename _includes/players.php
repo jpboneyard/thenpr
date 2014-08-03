@@ -77,13 +77,14 @@
 			<li class="player-list-item"> <a href="http://www.taramcpherson.com/" target="_blank" alt="Tara McPherson">Tara McPherson</a> </li>	
 			<li class="player-list-item"> <a href="http://methanestudios.com/" target="_blank" alt="Methane Studios">Methane Studios</a> </li>								 					 						 					 											 													
 			<li class="player-list-item"> <a href="http://meghanminior.com/" target="_blank" alt="Meghan Minior">Meghan Minior</a> </li>
+			<li class="player-list-item"> <a href="http://moderndog.com/MD-16/posters/" target="_blank" alt="Modern Dog">Modern Dog</a> </li>					
 	 	</ul>
 
 	</div>				
 
 	<div class="link-list last">
 	 	<ul>
-			<li class="player-list-item"> <a href="http://moderndog.com/MD-16/posters/" target="_blank" alt="Modern Dog">Modern Dog</a> </li>					
+	 	
 			<li class="player-list-item"> <a href="http://ericrmortensen.com/" target="_blank" alt="Eric R. Mortensen">Eric R. Mortensen</a> </li>
 			<li class="player-list-item"> <a href="http://jasonmunn.com/posters.php" target="_blank" alt="Jason Munn">Jason Munn</a> </li>
 			<li class="player-list-item"> <a href="http://nerlsaysdesign.com/" target="_blank" alt="Nerl Says Design">Nerl Says Design</a> </li>
@@ -91,6 +92,7 @@
 			<li class="player-list-item"> <a href="http://www.patentpendingindustries.com/posters/posters.php" target="_blank" alt="Patent Pending Industries">Patent Pending Industries</a> </li>
 			<li class="player-list-item"> <a href="http://afirebirdsurrounded.com/" target="_blank" alt="Cecily Perez">Cecily Perez</a> </li>
 			<li class="player-list-item"> <a href="http://redtablepress.com/" target="_blank" alt="Red Table Press">Red Table Press</a> </li>
+			<li class="player-list-item"> <a href="http://www.repeatpress.com/" target="_blank" alt="Repeat Press">Repeat Press</a> </li>					
 			<li class="player-list-item"> <a href="http://joshrickun.com/" target="_blank" alt="Josh Rickun">Josh Rickun</a> </li>
 			<li class="player-list-item"> <a href="http://shedlabs.com/" target="_blank" alt="Shed Labs">Shed Labs</a> </li>
 			<li class="player-list-item"> <a href="http://benjamink.com/portfolio/" target="_blank" alt="Ben K. Shown">Ben K. Shown</a> </li>																			
