@@ -30,9 +30,9 @@
 				</div><!-- /note-card-cont -->	
 
 				<img  class="show-poster" src="/_img/2k14-pawtucket-national-poster-retrospecticus.jpg">
-				<!-- <div class="show-meta">
-		    		Poster by <a href="http://thebirdmachine.com/" target="_blank">Jay Ryan</a> and printed by <a href="https://www.thehalfandhalf.com/" target="blank">The Half and Half</a> on <a href="http://www.frenchpaper.com/" target="blank">French Paper</a>
-		    	</div>  --><!-- /show-meta -->	
+				<div class="show-meta">
+		    		Poster by <a href="http://www.secretdoorprojects.org/" target="_blank">Ian Cozzens</a> and printed by <a href="https://www.thehalfandhalf.com/" target="blank">The Half and Half</a> on <a href="http://www.frenchpaper.com/" target="blank">French Paper</a>
+		    	</div> <!-- /show-meta -->
 
 	    	</div> <!-- /wrapper -->	
 	    </section> <!-- /event-details -->	
