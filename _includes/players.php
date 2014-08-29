@@ -77,15 +77,15 @@
 			<li class="player-list-item"> <a href="http://www.taramcpherson.com/" target="_blank" alt="Tara McPherson">Tara McPherson</a> </li>	
 			<li class="player-list-item"> <a href="http://methanestudios.com/" target="_blank" alt="Methane Studios">Methane Studios</a> </li>								 					 						 					 											 													
 			<li class="player-list-item"> <a href="http://meghanminior.com/" target="_blank" alt="Meghan Minior">Meghan Minior</a> </li>
-			<li class="player-list-item"> <a href="http://moderndog.com/MD-16/posters/" target="_blank" alt="Modern Dog">Modern Dog</a> </li>					
+			<li class="player-list-item"> <a href="http://moderndog.com/MD-16/posters/" target="_blank" alt="Modern Dog">Modern Dog</a> </li>
+			<li class="player-list-item"> <a href="http://ericrmortensen.com/" target="_blank" alt="Eric R. Mortensen">Eric R. Mortensen</a> </li>
+					
 	 	</ul>
 
 	</div>				
 
 	<div class="link-list last">
 	 	<ul>
-	 	
-			<li class="player-list-item"> <a href="http://ericrmortensen.com/" target="_blank" alt="Eric R. Mortensen">Eric R. Mortensen</a> </li>
 			<li class="player-list-item"> <a href="http://jasonmunn.com/posters.php" target="_blank" alt="Jason Munn">Jason Munn</a> </li>
 			<li class="player-list-item"> <a href="http://nerlsaysdesign.com/" target="_blank" alt="Nerl Says Design">Nerl Says Design</a> </li>
 			<li class="player-list-item"> <a href="http://www.lydianichols.com/" target="_blank" alt="Lydia Nichols">Lydia Nichols</a> </li>
@@ -100,6 +100,7 @@
 			<li class="player-list-item"> <a href="http://sleepykittyarts.com/" target="_blank" alt="Sleepy Kitty">Sleepy Kitty</a> </li>
 			<li class="player-list-item"> <a href="http://amicahsmith.com/" target="_blank" alt="A. Micah Smith">A. Micah Smith</a> </li>													
 			<li class="player-list-item"> <a href="http://mikesmith187.com/" target="_blank" alt="Mike Smith">Mike Smith</a> </li>	
+			<li class="player-list-item"> <a href="http://www.sonnenzimmer.com/" target="_blank" alt="Sonnenzimmer">Sonnenzimmer</a> </li>	
 			<li class="player-list-item"> <a href="http://www.statusserigraph.com/" target="_blank" alt="Status Serigrpah">Status Serigraph</a> </li>	
 			<li class="player-list-item"> <a href="http://www.danstiles.com/" target="_blank" alt="Dan Stiles">Dan Stiles</a> </li>	
 			<li class="player-list-item"> <a href="http://www.steadyprintshop.com/" target="_blank" alt="Steady Co.">Steady Co.</a> </li>
