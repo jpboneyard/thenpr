@@ -2,45 +2,17 @@
 
 			<div class="image-container">
 				<div class="gallery-show-cont">
-					<a class="gallery-show-wrap" href="2k14-boston.php">
+					<a class="gallery-show-wrap" href="2k15-noise-pop.php">
 						<div class="gallery-info-cont">
 							<div class="gallery-info">
-								<p><span class="city-name">Boston, MA</span></br> 8/1/14</br>BU Art Gallery</br></p>
+								<p><span class="city-name">San Francisco, CA</span></br> 2/27/15</br>Noise Pop</br></p>
 								<div class="gallery-more-info">View more info</div>
 							</div> <!-- /gallery-info -->	
 						</div> <!-- /gallery-info-cont -->					
-						<img class="gallery-show-img" src="_img/gallery-show-boston-2k14.jpg"/>
+						<img class="gallery-show-img" src="_img/gallery-noise-pop-2k15.jpg"/>
 					</a><!-- /.gallery-show-wrap -->
 				</div><!-- /gallery-show-cont -->	
 			</div> <!-- /.image-container -->	
-
-			<div class="image-container">
-				<div class="gallery-show-cont">
-					<a class="gallery-show-wrap" href="2k14-rock-and-roll-hall-of-fame.php">
-						<div class="gallery-info-cont">
-							<div class="gallery-info">
-								<p><span class="city-name">Cleveland, OH</span></br> 8/9/14</br>Rock & Roll Hall of Fame</br></p>
-								<div class="gallery-more-info">View more info</div>
-							</div> <!-- /gallery-info -->	
-						</div> <!-- /gallery-info-cont -->					
-						<img class="gallery-show-img" src="_img/gallery-show-rock-and-roll-hall-of-fame-2k14.jpg"/>
-					</a><!-- /.gallery-show-wrap -->
-				</div><!-- /gallery-show-cont -->	
-			</div> <!-- /.image-container -->
-
-			<div class="image-container">
-				<div class="gallery-show-cont">
-					<a class="gallery-show-wrap" href="2k14-weapons-of-mass-creation-fest.php">
-						<div class="gallery-info-cont">
-							<div class="gallery-info">
-								<p><span class="city-name">Cleveland, OH</span></br> 8/15/14</br>Weapons of Mass Creation Fest 2014</br></p>
-								<div class="gallery-more-info">View more info</div>
-							</div> <!-- /gallery-info -->	
-						</div> <!-- /gallery-info-cont -->					
-						<img class="gallery-show-img" src="_img/gallery-show-cleveland-2k14.jpg"/>
-					</a><!-- /.gallery-show-wrap -->
-				</div><!-- /gallery-show-cont -->	
-			</div> <!-- /.image-container -->
 
 			<div class="image-container">
 				<div class="gallery-show-cont">
@@ -58,23 +30,54 @@
 
 			<div class="image-container">
 				<div class="gallery-show-cont">
-					<a class="gallery-show-wrap" href="2k14-pawtucket.php">
+					<a class="gallery-show-wrap" href="2k14-rock-and-roll-hall-of-fame.php">
 						<div class="gallery-info-cont">
 							<div class="gallery-info">
-								<p><span class="city-name">Pawtucket, RI</span></br> 9/6/14</br>Machines with Magnets</br></p>
+								<p><span class="city-name">Cleveland, OH</span></br> 8/9/14</br>Rock & Roll Hall of Fame</br></p>
 								<div class="gallery-more-info">View more info</div>
 							</div> <!-- /gallery-info -->	
 						</div> <!-- /gallery-info-cont -->					
-						<img class="gallery-show-img" src="_img/gallery-show-pawtucket-2k14.jpg"/>
+						<img class="gallery-show-img" src="_img/gallery-show-rock-and-roll-hall-of-fame-2k14.jpg"/>
 					</a><!-- /.gallery-show-wrap -->
 				</div><!-- /gallery-show-cont -->	
-			</div> <!-- /.image-container -->		
+			</div> <!-- /.image-container -->
 
+			<div class="image-container">
+				<div class="gallery-show-cont">
+					<a class="gallery-show-wrap" href="2k14-boston.php">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">Boston, MA</span></br> 8/1/14</br>BU Art Gallery</br></p>
+								<div class="gallery-more-info">View more info</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-boston-2k14.jpg"/>
+					</a><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->	
 			
 			
 		<!-- Starts SM-Show-Grid -->
 
 			<section class="show-grid-list"> 
+
+				<div class="show-grid-mod media-block">
+					<a class="gallery-show-wrap" href="2k14-pawtucket.php">
+						<div class="show-item">
+							<img class="show-img-sm" src="_img/tz-npr-pawtucket.jpg" />
+							<div class="show-caption">Pawtucket</div>
+						</div><!-- /show-item -->	
+					</a>	
+				</div> <!-- /show-grid-mod -->
+
+				<div class="show-grid-mod media-block">
+					<a class="gallery-show-wrap" href="2k14-weapons-of-mass-creation-fest.php">
+						<div class="show-item">
+							<img class="show-img-sm" src="_img/tz-npr-weapons-of-mass-creation-fest.jpg" />
+							<div class="show-caption">Cleveland</div>
+						</div><!-- /show-item -->	
+					</a>	
+				</div> <!-- /show-grid-mod -->
 
 				<div class="show-grid-mod media-block">
 					<a class="gallery-show-wrap" href="2k14-northampton.php">
@@ -184,7 +187,7 @@
 					</div> <!-- /show-item -->	
 				</div> <!-- /show-grid-mod -->	
 
-				<div class="show-grid-mod media-block show-grid-last-row">
+				<div class="show-grid-mod media-block">
 					<div class="show-item">
 						<a class="gallery-show-wrap" href="2k13-rochester.php">
 							<img class="show-img-sm" src="_img/tz-npr-rochester.jpg" />
@@ -203,6 +206,8 @@
 				</div> <!-- /show-grid-mod -->								
 		</section> <!-- /show-grid-list -->	
 	</div> <!-- /.wrapper -->
+
+	<!-- 	<div class="show-grid-mod media-block show-grid-last-row"> -->
 
 
 		
