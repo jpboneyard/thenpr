@@ -14,9 +14,9 @@
 				<li class="logo-grid-item"><a href="http://jpboneyard.com" target="_blank" alt="JP Boneyard Design"><img class="logo-icon" src="_img/jpb-logo.png"></a></li>
 				<li class="logo-grid-item"><a href="http://www.frenchpaper.com/" alt="French Paper" target="_blank"><img class="logo-icon" src="_img/sponsor-french-paper-w.png"></a></li>
 				<li class="logo-grid-item"><a href="http://gigposters.com/" target="_blank" alt="GigPosters.com"><img class="logo-icon" src="_img/sponsor-gig-posters-w.png"></a></li>			
-				<li class="logo-grid-item"><a href="https://www.thehalfandhalf.com/" target="_blank" alt="The Half and Half"><img class="logo-icon" src="_img/sponsor-the-half-and-half-w-2.png"></a></li>	
 				<li class="logo-grid-item"><a href="http://www.shopify.com" target="_blank" alt="Shopify"><img class="logo-icon" src="_img/sponsor-shopify-w.png"></a></li>			
-				<li class="logo-grid-item"><a href="https://www.dribbble.com" target="_blank" alt="Dribbble"><img class="logo-icon" src="_img/sponsor-dribbble-w.png"></a></li>			
+				<li class="logo-grid-item"><a href="https://www.dribbble.com" target="_blank" alt="Dribbble"><img class="logo-icon" src="_img/sponsor-dribbble-w.png"></a></li>		
+				<li class="logo-grid-item"><a href="http://www.monolithpress.net/" target="_blank" alt="Monolith Press"><img class="logo-icon" src="_img/sponsor-monolith-w.png"></a></li>			
 			</ul><!-- /.logo-grid-->
 			<br>
 			<br>
