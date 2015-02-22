@@ -2,6 +2,20 @@
 
 			<div class="image-container">
 				<div class="gallery-show-cont">
+					<a class="gallery-show-wrap" href="2k15-flatstock-48.php">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">Austin, TX</span></br> 3/19/15</br>Flatstock 48</br></p>
+								<div class="gallery-more-info">View more info</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-flatstock-48-2k15.jpg"/>
+					</a><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->	
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
 					<a class="gallery-show-wrap" href="2k15-noise-pop.php">
 						<div class="gallery-info-cont">
 							<div class="gallery-info">
