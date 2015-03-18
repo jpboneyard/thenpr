@@ -16,8 +16,8 @@
 				<li class="logo-grid-item"><a href="http://gigposters.com/" target="_blank" alt="GigPosters.com"><img class="logo-icon" src="_img/sponsor-gig-posters-w.png"></a></li>			
 				<li class="logo-grid-item"><a href="http://www.shopify.com" target="_blank" alt="Shopify"><img class="logo-icon" src="_img/sponsor-shopify-w.png"></a></li>			
 				<li class="logo-grid-item"><a href="https://www.dribbble.com" target="_blank" alt="Dribbble"><img class="logo-icon" src="_img/sponsor-dribbble-w.png"></a></li>		
-				<li class="logo-grid-item"><a href="http://www.monolithpress.net/" target="_blank" alt="Monolith Press"><img class="logo-icon" src="_img/sponsor-monolith-w.png"></a></li>			
 			</ul><!-- /.logo-grid-->
+				<a href="http://www.industryprintshop.com/splash.html" target="_blank" alt="Industry Print Shop"><img class="logo-icon-lg" src="_img/sponsor-industry-w.png"></a>		
 			<br>
 			<br>
 			<p>Looking for the 2012 site? Check it out <u><a href="http://2012.nationalposterretrospecticus.com/">here.</u>

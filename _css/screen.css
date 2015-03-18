@@ -2675,6 +2675,11 @@ footer {
   max-width: 55px;
 }
 
+.logo-icon-lg {
+  width: 98%;
+  max-width: 110px;
+}
+
 .gallery-show-cont {
   width: 100%;
   display: block;
