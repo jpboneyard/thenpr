@@ -64,12 +64,16 @@
 			<li class="player-list-item"> <a href="http://interrobangletterpress.com/" target="_blank" alt="interrobang">Interrobang</a> </li>		
 			<li class="player-list-item"> <a href="http://www.invisiblecreature.com/" target="_blank" alt="Invisible Creature">Invisible Creature</a> </li>	
 			<li class="player-list-item"> <a href="http://valeriejar.com/" target="_blank" alt="Valerie Jar">Valerie Jar</a> </li>	
+			<li class="player-list-item"> <a href="http://jetpacksandrollerskates.com/" target="_blank" alt="Jetpacks & Rollerskates">Jetpacks & Rollerskates</a> </li>	
+
+
 			<li class="player-list-item"> <a href="http://www.neighborhood-studio.com/" target="_blank" alt="Curtis Jinkins">Curtis Jinkins</a> </li>	
 			<li class="player-list-item"> <a href="http://www.missamyjo.com/" target="_blank" alt="Amy Jo">Amy Jo</a> </li>	
 			<li class="player-list-item"> <a href="http://www.animalrummy.com/" target="_blank" alt="Rob Jones">Rob Jones</a> </li>	
 			<li class="player-list-item"> <a href="http://justajar.com/" target="_blank" alt="JustAJar">JustAJar</a> </li>	
 			<li class="player-list-item"> <a href="http://shawnkknight.com/" target="_blank" alt="Shawn K. Knight">Shawn K. Knight</a> </li>						
 			<li class="player-list-item"> <a href="https://twitter.com/#!/AndyMarkKoko" target="_blank" alt="Andrew Kokoszka">Andrew Kokoszka</a> </li>
+			<li class="player-list-item"> <a href="http://www.kolbisneat.com/" target="_blank" alt="Andrew Kolb">Andrew Kolb</a> </li>
 			<li class="player-list-item"> <a href="http://lp-sf.com/" target="_blank" alt="Lab Partners">Lab Partners</a> </li>					
 			<li class="player-list-item"> <a href="http://landland.net/" target="_blank" alt="Landland">Landland</a> </li>					
 			<li class="player-list-item"> <a href="http://thelargemammal.com/" target="_blank" alt="The Large Mammal">The Large Mammal</a> </li>

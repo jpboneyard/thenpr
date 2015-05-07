@@ -2,6 +2,34 @@
 
 			<div class="image-container">
 				<div class="gallery-show-cont">
+					<a class="gallery-show-wrap" href="2k15-massart.php">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">Boston, MA</span></br> 6/11/15</br>MassArt</br></p>
+								<div class="gallery-more-info">View more info</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+					</a><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->	
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
+					<a class="gallery-show-wrap" href="2k15-nxne.php">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">Toronto, ON</span></br> 6/17/15</br>NXNE</br></p>
+								<div class="gallery-more-info">View more info</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+					</a><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->	
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
 					<a class="gallery-show-wrap" href="2k15-flatstock-48.php">
 						<div class="gallery-info-cont">
 							<div class="gallery-info">
@@ -13,34 +41,6 @@
 					</a><!-- /.gallery-show-wrap -->
 				</div><!-- /gallery-show-cont -->	
 			</div> <!-- /.image-container -->	
-
-			<div class="image-container">
-				<div class="gallery-show-cont">
-					<a class="gallery-show-wrap" href="2k15-noise-pop.php">
-						<div class="gallery-info-cont">
-							<div class="gallery-info">
-								<p><span class="city-name">San Francisco, CA</span></br> 2/27/15</br>Noise Pop</br></p>
-								<div class="gallery-more-info">View more info</div>
-							</div> <!-- /gallery-info -->	
-						</div> <!-- /gallery-info-cont -->					
-						<img class="gallery-show-img" src="_img/gallery-noise-pop-2k15.jpg"/>
-					</a><!-- /.gallery-show-wrap -->
-				</div><!-- /gallery-show-cont -->	
-			</div> <!-- /.image-container -->	
-
-			<div class="image-container">
-				<div class="gallery-show-cont">
-					<a class="gallery-show-wrap" href="2k14-brooklyn.php">
-						<div class="gallery-info-cont">
-							<div class="gallery-info">
-								<p><span class="city-name">Brooklyn, NY</span></br> 8/23/14</br>Cotton Candy Machine</br></p>
-								<div class="gallery-more-info">View more info</div>
-							</div> <!-- /gallery-info -->	
-						</div> <!-- /gallery-info-cont -->					
-						<img class="gallery-show-img" src="_img/gallery-show-brooklyn-2k14.jpg"/>
-					</a><!-- /.gallery-show-wrap -->
-				</div><!-- /gallery-show-cont -->	
-			</div> <!-- /.image-container -->
 
 			<div class="image-container">
 				<div class="gallery-show-cont">
@@ -56,24 +56,19 @@
 				</div><!-- /gallery-show-cont -->	
 			</div> <!-- /.image-container -->
 
-			<div class="image-container">
-				<div class="gallery-show-cont">
-					<a class="gallery-show-wrap" href="2k14-boston.php">
-						<div class="gallery-info-cont">
-							<div class="gallery-info">
-								<p><span class="city-name">Boston, MA</span></br> 8/1/14</br>BU Art Gallery</br></p>
-								<div class="gallery-more-info">View more info</div>
-							</div> <!-- /gallery-info -->	
-						</div> <!-- /gallery-info-cont -->					
-						<img class="gallery-show-img" src="_img/gallery-show-boston-2k14.jpg"/>
-					</a><!-- /.gallery-show-wrap -->
-				</div><!-- /gallery-show-cont -->	
-			</div> <!-- /.image-container -->	
-			
-			
+
 		<!-- Starts SM-Show-Grid -->
 
 			<section class="show-grid-list"> 
+
+				<div class="show-grid-mod media-block">
+					<a class="gallery-show-wrap" href="2k15-noise-pop.php">
+						<div class="show-item">
+							<img class="show-img-sm" src="_img/tz-npr-san-francisco.jpg" />
+							<div class="show-caption">San Francisco</div>
+						</div><!-- /show-item -->	
+					</a>	
+				</div> <!-- /show-grid-mod -->
 
 				<div class="show-grid-mod media-block">
 					<a class="gallery-show-wrap" href="2k14-pawtucket.php">
@@ -82,7 +77,16 @@
 							<div class="show-caption">Pawtucket</div>
 						</div><!-- /show-item -->	
 					</a>	
-				</div> <!-- /show-grid-mod -->
+				</div> <!-- /show-grid-mod -->			
+
+				<div class="show-grid-mod media-block">
+					<a class="gallery-show-wrap" href="2k14-brooklyn.php">
+						<div class="show-item">
+							<img class="show-img-sm" src="_img/tz-npr-brooklyn.jpg" />
+							<div class="show-caption">Brooklyn</div>
+						</div><!-- /show-item -->	
+					</a>	
+				</div> <!-- /show-grid-mod -->	
 
 				<div class="show-grid-mod media-block">
 					<a class="gallery-show-wrap" href="2k14-weapons-of-mass-creation-fest.php">
@@ -92,6 +96,15 @@
 						</div><!-- /show-item -->	
 					</a>	
 				</div> <!-- /show-grid-mod -->
+
+				<div class="show-grid-mod media-block">
+					<a class="gallery-show-wrap" href="2k14-boston.php">
+						<div class="show-item">
+							<img class="show-img-sm" src="_img/tz-npr-boston-2014.jpg" />
+							<div class="show-caption">Boston</div>
+						</div><!-- /show-item -->	
+					</a>	
+				</div> <!-- /show-grid-mod -->	
 
 				<div class="show-grid-mod media-block">
 					<a class="gallery-show-wrap" href="2k14-northampton.php">
