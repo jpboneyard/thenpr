@@ -14,7 +14,7 @@
 						<div class="event-info-main">
 							<div class="city-name">Toronto, ON</div>
 							<p>6/17/15</br>
-							<a href="http://www.massart.edu/" target="_blank">NXNE</a></p>							
+							<a href="http://nxne.com/" target="_blank">NXNE</a></p>							
 							<p>6pm</br> 															 
 						</div> <!-- /event-info-main -->
 						<div class="event-info-deets">
