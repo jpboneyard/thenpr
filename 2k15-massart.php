@@ -29,7 +29,7 @@
 					<img class="ticket" src="/_img/admit-one-5.png"/>
 				</div><!-- /note-card-cont -->	
 
-				<img  class="show-poster" src="/_img/2k15-massart-national-poster-retrospecticus.jpg">
+				<img  class="show-poster" src="/_img/2k15-dan-mccarthy-boston-massart-national-poster-retrospecticus.jpg">
 				<div class="show-meta">
 		    		Poster and printing by <a href="http://danmccarthy.org/" target="_blank">Dan McCarthy</a> on <a href="http://www.frenchpaper.com/" target="blank">French Paper</a>
 		    	</div> <!-- /show-meta -->	

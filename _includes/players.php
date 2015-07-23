@@ -13,7 +13,8 @@
 			<li class="player-list-item"> <a href="http://theblksmith.com/" target="_blank" alt="BlkSmith">BlkSmith</a> </li>
 			<li class="player-list-item"> <a href="http://jpboneyard.com" target="_blank" alt="JP Boneyard">JP Boneyard</a> </li>
 			<li class="player-list-item"> <a href="http://bravethewoods.com/" target="_blank" alt="Brave the Woods">Brave the Woods</a> </li>
-			<li class="player-list-item"> <a href="http://thebubbleprocess.com/" target="_blank" alt="The Bubble Process">The Bubble Process</a> </li>					
+			<li class="player-list-item"> <a href="http://thebubbleprocess.com/" target="_blank" alt="The Bubble Process">The Bubble Process</a> </li>	
+			<li class="player-list-item"> <a href="http://www.thebungaloo.com/" target="_blank" alt="The Bungaloo">The Bungaloo</a> </li>	
 			<li class="player-list-item"> <a href="http://mikeyburton.com/" target="_blank" alt="Mikey Burton">Mikey Burton</a> </li>
 			<li class="player-list-item"> <a href="http://www.theupperhandart.com/" target="_blank" alt="Brian Butler">Brian Butler</a> </li>
 			<li class="player-list-item"> <a href="http://pressonboston.com/" target="_blank" alt="B.Impressed">B.Impressed</a> </li>	
@@ -32,6 +33,7 @@
 			<li class="player-list-item"> <a href="http://www.ryanduggan.com/" target="_blank" alt="Ryan Duggan">Ryan Duggan</a> </li>																				
 			<li class="player-list-item"> <a href="http://nateduval.com/" target="_blank" alt="Nate Duval">Nate Duval</a> </li>
 			<li class="player-list-item"> <a href="http://www.aaroneiland.com/" target="_blank" alt="Aaron Eiland">Aaron Eiland</a> </li>
+			<li class="player-list-item"> <a href="http://shop.factory43.com/" target="_blank" alt="Factory 43">Factory 43</a> </li>	
 			<li class="player-list-item"> <a href="http://www.firecrackerpress.com/" target="_blank" alt="Firecracker Press">Firecracker Press</a> </li>
 			<li class="player-list-item"> <a href="http://www.jamesflames.com/" target="_blank" alt="James Flames">James Flames</a> </li>
 			<li class="player-list-item"> <a href="http://jpflexnercreative.blogspot.com/" target="_blank" alt="JP Flexner">JP Flexner</a> </li>	
@@ -65,9 +67,6 @@
 			<li class="player-list-item"> <a href="http://www.invisiblecreature.com/" target="_blank" alt="Invisible Creature">Invisible Creature</a> </li>	
 			<li class="player-list-item"> <a href="http://valeriejar.com/" target="_blank" alt="Valerie Jar">Valerie Jar</a> </li>	
 			<li class="player-list-item"> <a href="http://jetpacksandrollerskates.com/" target="_blank" alt="Jetpacks & Rollerskates">Jetpacks & Rollerskates</a> </li>	
-
-
-			<li class="player-list-item"> <a href="http://www.neighborhood-studio.com/" target="_blank" alt="Curtis Jinkins">Curtis Jinkins</a> </li>	
 			<li class="player-list-item"> <a href="http://www.missamyjo.com/" target="_blank" alt="Amy Jo">Amy Jo</a> </li>	
 			<li class="player-list-item"> <a href="http://www.animalrummy.com/" target="_blank" alt="Rob Jones">Rob Jones</a> </li>	
 			<li class="player-list-item"> <a href="http://justajar.com/" target="_blank" alt="JustAJar">JustAJar</a> </li>	
@@ -95,6 +94,7 @@
 	<div class="link-list last">
 	 	<ul>
 			<li class="player-list-item"> <a href="http://jasonmunn.com/posters.php" target="_blank" alt="Jason Munn">Jason Munn</a> </li>
+			<li class="player-list-item"> <a href="http://www.neighborhood-studio.com/" target="_blank" alt="Neighborhood Studio">Neighborhood Studio</a> </li>	
 			<li class="player-list-item"> <a href="http://nerlsaysdesign.com/" target="_blank" alt="Nerl Says Design">Nerl Says Design</a> </li>
 			<li class="player-list-item"> <a href="http://www.lydianichols.com/" target="_blank" alt="Lydia Nichols">Lydia Nichols</a> </li>
 			<li class="player-list-item"> <a href="http://www.patentpendingindustries.com/posters/posters.php" target="_blank" alt="Patent Pending Industries">Patent Pending Industries</a> </li>
@@ -113,6 +113,7 @@
 			<li class="player-list-item"> <a href="http://www.danstiles.com/" target="_blank" alt="Dan Stiles">Dan Stiles</a> </li>	
 			<li class="player-list-item"> <a href="http://www.steadyprintshop.com/" target="_blank" alt="Steady Co.">Steady Co.</a> </li>
 			<li class="player-list-item"> <a href="http://hellomattstevens.com/" target="_blank" alt="Matt Stevens">Matt Stevens</a> </li>
+			<li class="player-list-item"> <a href="http://www.tstout.com/" target="_blank" alt="Tyler Stout">Tyler Stout</a> </li>		
 			<li class="player-list-item"> <a href="http://www.subjectmatterstudio.com/" target="_blank" alt="Subject Matter Studio">Subject Matter Studio</a> </li>	
 			<li class="player-list-item"> <a href="http://dianasudyka.com/" target="_blank" alt="Diana Sudyka">Diana Sudyka</a> </li>
 			<li class="player-list-item"> <a href="http://hoaxdevice.com/" target="_blank" alt="Mike Swartz">Mike Swartz</a> </li>										
@@ -130,6 +131,7 @@
 			<li class="player-list-item"> <a href="https://instagram.com/dentonwatts/" target="_blank" alt="Denton Watts">Denton Watts</a> </li>	
 			<li class="player-list-item"> <a href="http://strongstuff.net/" target="_blank" alt="Tom Whalen">Tom Whalen</a> </li>	
 			<li class="player-list-item"> <a href="http://cargocollective.com/wildingdavis" target="_blank" alt="Wilding Davis and Co.">Wilding Davis & Co.</a> </li>
+			<li class="player-list-item"> <a href="http://ericawilliamsillustration.com/" target="_blank" alt="Erica Williams">Erica Williams</a> </li>
 			<li class="player-list-item"> <a href="http://www.scottwilliamsdesign.com/" target="_blank" alt="Scott Williams">Scott Wiliams</a> </li>
 			<li class="player-list-item"> <a href="http://theyoungmensdangerclub.com/" target="_blank" alt="Young Mens Danger Club">Young Men's Danger Club</a> </li>						
 	 	</ul>

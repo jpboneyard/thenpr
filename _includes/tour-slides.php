@@ -2,10 +2,24 @@
 
 			<div class="image-container">
 				<div class="gallery-show-cont">
-					<a class="gallery-show-wrap" href="2k15-massart.php">
+					<a class="gallery-show-wrap" href="2k15-weapons-of-mass-creation.php">
 						<div class="gallery-info-cont">
 							<div class="gallery-info">
-								<p><span class="city-name">Boston, MA</span></br> 6/11/15</br>MassArt</br></p>
+								<p><span class="city-name">Cleveland, OH</span></br> 8/7/15</br>WMCF 6</br></p>
+								<div class="gallery-more-info">View more info</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+					</a><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->	
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
+					<a class="gallery-show-wrap" href="2k15-adobe.php">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">San Francisco, CA</span></br> 8/18/15</br>Adobe</br></p>
 								<div class="gallery-more-info">View more info</div>
 							</div> <!-- /gallery-info -->	
 						</div> <!-- /gallery-info-cont -->					
@@ -23,7 +37,7 @@
 								<div class="gallery-more-info">View more info</div>
 							</div> <!-- /gallery-info -->	
 						</div> <!-- /gallery-info-cont -->					
-						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+						<img class="gallery-show-img" src="_img/gallery-show-toronto-nxne-2k15.jpg"/>
 					</a><!-- /.gallery-show-wrap -->
 				</div><!-- /gallery-show-cont -->	
 			</div> <!-- /.image-container -->	
@@ -60,6 +74,15 @@
 		<!-- Starts SM-Show-Grid -->
 
 			<section class="show-grid-list"> 
+
+				<div class="show-grid-mod media-block">
+					<a class="gallery-show-wrap" href="2k15-massart.php">
+						<div class="show-item">
+							<img class="show-img-sm" src="_img/tz-npr-mass-art.jpg" />
+							<div class="show-caption">Mass Art</div>
+						</div><!-- /show-item -->	
+					</a>	
+				</div> <!-- /show-grid-mod -->
 
 				<div class="show-grid-mod media-block">
 					<a class="gallery-show-wrap" href="2k15-noise-pop.php">
