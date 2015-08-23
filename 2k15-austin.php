@@ -26,7 +26,7 @@
 								<p><a href="http://strongstuff.net/" target="_blank">Tom Whalen</a></p>
 					</div> <!-- /event-info-deets -->			
 					</div><!-- /event-details-cont -->	
-					<img class="ticket" src="/_img/admit-one-2.png"/>
+					<img class="ticket" src="/_img/admit-one.png"/>
 				</div><!-- /note-card-cont -->	
 
 				<img  class="show-poster" src="/_img/2k15-austin-mondo-gallery-national-poster-retrospecticus.jpg">

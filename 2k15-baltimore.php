@@ -26,7 +26,7 @@
 								<p><a href="http://tinymediaempire.tumblr.com/" target="_blank">Daniel Danger</a></p>
 					</div> <!-- /event-info-deets -->			
 					</div><!-- /event-details-cont -->	
-					<img class="ticket" src="/_img/admit-one-2.png"/>
+					<img class="ticket" src="/_img/admit-one-4.png"/>
 				</div><!-- /note-card-cont -->	
 
 				<img  class="show-poster" src="/_img/2k15-baltimore-national-poster-retrospecticus.jpg">

@@ -18,7 +18,7 @@
 
 			<div class="image-container">
 				<div class="gallery-show-cont">
-					<a class="gallery-show-wrap" href="2k15-adobe.php">
+					<a class="gallery-show-wrap" href="2k15-baltimore.php">
 						<div class="gallery-info-cont">
 							<div class="gallery-info">
 								<p><span class="city-name">Owings Mills, MD</span></br> 10/16/15</br>Stevenson University</br></p>
@@ -32,7 +32,7 @@
 
 			<div class="image-container">
 				<div class="gallery-show-cont">
-					<a class="gallery-show-wrap" href="2k15-adobe.php">
+					<a class="gallery-show-wrap" href="2k15-austin.php">
 						<div class="gallery-info-cont">
 							<div class="gallery-info">
 								<p><span class="city-name">Austin, TX</span></br> 9/12/15</br>Mondo Gallery</br></p>

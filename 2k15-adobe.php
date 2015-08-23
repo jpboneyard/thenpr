@@ -28,7 +28,7 @@
 								</p>
 						</div> <!-- /event-info-deets -->			
 					</div><!-- /event-details-cont -->	
-					<img class="ticket" src="/_img/admit-one-3.png"/>
+					<img class="ticket" src="/_img/admit-one-2.png"/>
 				</div><!-- /note-card-cont -->	
 
 				<img  class="show-poster" src="/_img/NPR-SF-Adobe.jpg">
