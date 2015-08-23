@@ -79,7 +79,8 @@
 			<li class="player-list-item"> <a href="http://amicahsmith.com/" target="_blank" alt="A. Micah Smith">A. Micah Smith</a> </li>													
 			<li class="player-list-item"> <a href="http://mikesmith187.com/" target="_blank" alt="Mike Smith">Mike Smith</a> </li>	
 			<li class="player-list-item"> <a href="http://www.statusserigraph.com/" target="_blank" alt="Status Serigrpah">Status Serigraph</a> </li>								
-			<li class="player-list-item"> <a href="http://www.danstiles.com/" target="_blank" alt="Dan Stiles">Dan Stiles</a> </li>		
+			<li class="player-list-item"> <a href="http://www.danstiles.com/" target="_blank" alt="Dan Stiles">Dan Stiles</a> </li>	
+			<li class="player-list-item"> <a href="https://instagram.com/kolfacekilla/?hl=en" target="_blank" alt="Tyler Stout">Tyler Stout</a> </li>
 			<li class="player-list-item"> <a href="http://www.subjectmatterstudio.com/" target="_blank" alt="Subject Matter Studio">Subject Matter Studio</a> </li>		
 			<li class="player-list-item"> <a href="http://hoaxdevice.com/" target="_blank" alt="Mike Swartz">Mike Swartz</a> </li>										
 			<li class="player-list-item"> <a href="http://www.theoldstore.org" target="_blank" alt="Michael Swiatlowski">Michael Swiatlowski</a> </li>

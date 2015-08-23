@@ -36,12 +36,12 @@
     	<section id="about" data-stellar-ratio="2">
     		<div class="about-topper">
     			<div class="title-mod">
-    				<h2 class="topper-h2">Hello!</h2>
+    				<h2 class="topper-h2">The NPR</h2>
     			</div> <!-- /title-mod -->	
     		</div> <!-- /hits-topper -->
     			<div class="wrapper about-intro">
-    				<h3 class="topper-h3">The National Poster Retrospecticus is a traveling show of more than 350 hand-printed event posters from over 100 of the most prominent poster designers in the USA.</h2>
-    				<p class="p-txt">While some form of The NPR goes back as far as 2006, the current format took shape in the Spring of 2012. Our mission is to celebrate posters, the made-by-hand aesthetic and help spread that enthusiasm around the world. We wanna travel everywhere! The NPR is produced by <a href="http://www.jpboneyard.com" target="_blank">JP Boneyard</a>; a poster designer and enthusiast who has been setting up art and music events since 1998. </p>
+    				<h3 class="topper-h3">The National Poster Retrospecticus is an internationally traveling poster show. The NPR features more than 400 hand-printed posters made by over 100 of the most prominent poster designers in the USA.</h2>
+    				<p class="p-txt">We've traveled all over North America visiting bombed out basements, rad community spaces and fancy art galleries. We've shown in venues like The Rock and Roll Hall of Fame, Adobe HQ and at events like SXSW and NXNE. Our mission is to celebrate posters, the made-by-hand aesthetic and help spread that enthusiasm around the world. We wanna travel everywhere! The NPR is produced by <a href="http://www.jpboneyard.com" target="_blank">JP Boneyard.</a> </p>
     			</div>
     			<div class="btn-txt">
     				<btn class="btn-submit"><a href="mailto:john@jpboneyard.com" subject="We'd Like to Host The NPR">Host The NPR</a></btn>	

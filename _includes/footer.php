@@ -17,9 +17,9 @@
 				<li class="logo-grid-item"><a href="http://www.shopify.com" target="_blank" alt="Shopify"><img class="logo-icon" src="_img/sponsor-shopify-w.png"></a></li>			
 				<li class="logo-grid-item"><a href="https://www.dribbble.com" target="_blank" alt="Dribbble"><img class="logo-icon" src="_img/sponsor-dribbble-w.png"></a></li>		
 			</ul><!-- /.logo-grid-->
-<!-- 				<a href="http://www.industryprintshop.com/splash.html" target="_blank" alt="Industry Print Shop"><img class="logo-icon-lg" src="_img/sponsor-industry-w.png"></a>		
- -->				<a href="http://burlesquedesign.com/" target="_blank" alt="Burlesque of North America"><img class="logo-icon-lg" src="_img/sponsor-brlsq-w.png"></a>		
-			<br>
+				<a href="http://www.industryprintshop.com/splash.html" target="_blank" alt="Industry Print Shop"><img class="logo-icon-lg" src="_img/sponsor-industry-w.png"></a>		
+<!-- 				<a href="http://burlesquedesign.com/" target="_blank" alt="Burlesque of North America"><img class="logo-icon-lg" src="_img/sponsor-brlsq-w.png"></a>		
+ -->			<br>
 			<br>
 			<p>Looking for the 2012 site? Check it out <u><a href="http://2012.nationalposterretrospecticus.com/">here.</u>
 		</div> <!-- /.wrapper -->

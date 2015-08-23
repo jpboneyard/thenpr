@@ -51,6 +51,7 @@
 			<li class="player-list-item"> <a href="http://grayhood.com/" target="_blank" alt="Gray Hood">Gray Hood</a> </li>
 			<li class="player-list-item"> <a href="https://www.thehalfandhalf.com/" target="_blank" alt="The Half and Half">The Half and Half</a> </li>
 			<li class="player-list-item"> <a href="http://www.halftonedef.com/" target="_blank" alt="Halftone Def Studios">Halftone Def Studios</a> </li>
+			<li class="player-list-item"> <a href="http://www.halfhazardpress.com/" target="_blank" alt="Half Hazard Press">Half Hazard Press</a> </li>
 			<li class="player-list-item"> <a href="http://cargocollective.com/adamhanson" target="_blank" alt="Adam Hanson">Adam Hanson</a> </li>
 			<li class="player-list-item"> <a href="http://countrymusichalloffame.org/our-work/" target="_blank" alt="Hatch Show Print">Hatch Show Print</a> </li>
 			<li class="player-list-item"> <a href="http://heroandsound.com/" target="_blank" alt="Hero Design">Hero Design</a> </li>	

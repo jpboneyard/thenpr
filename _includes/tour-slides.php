@@ -1,15 +1,45 @@
 		<div class="wrapper shows-mod">
 
 			<div class="image-container">
+
+			<div class="image-container">
 				<div class="gallery-show-cont">
-					<a class="gallery-show-wrap" href="2k15-weapons-of-mass-creation.php">
+					<a class="gallery-show-wrap" href="2k15-phoenix.php">
 						<div class="gallery-info-cont">
 							<div class="gallery-info">
-								<p><span class="city-name">Cleveland, OH</span></br> 8/7/15</br>WMCF 6</br></p>
+								<p><span class="city-name">Phoenix, AZ</span></br> 10/23/15</br>Phoenix Design Week</br></p>
 								<div class="gallery-more-info">View more info</div>
 							</div> <!-- /gallery-info -->	
 						</div> <!-- /gallery-info-cont -->					
-						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+						<img class="gallery-show-img" src="_img/gallery-show-phoenix-2k15.jpg"/>
+					</a><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->	
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
+					<a class="gallery-show-wrap" href="2k15-adobe.php">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">Owings Mills, MD</span></br> 10/16/15</br>Stevenson University</br></p>
+								<div class="gallery-more-info">View more info</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-baltimore-2k15.jpg"/>
+					</a><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->	
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
+					<a class="gallery-show-wrap" href="2k15-adobe.php">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">Austin, TX</span></br> 9/12/15</br>Mondo Gallery</br></p>
+								<div class="gallery-more-info">View more info</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-Austin-TX-Mondo-Gallery-2k15.jpg"/>
 					</a><!-- /.gallery-show-wrap -->
 				</div><!-- /gallery-show-cont -->	
 			</div> <!-- /.image-container -->	
@@ -42,44 +72,33 @@
 				</div><!-- /gallery-show-cont -->	
 			</div> <!-- /.image-container -->	
 
-			<div class="image-container">
-				<div class="gallery-show-cont">
-					<a class="gallery-show-wrap" href="2k15-flatstock-48.php">
-						<div class="gallery-info-cont">
-							<div class="gallery-info">
-								<p><span class="city-name">Austin, TX</span></br> 3/19/15</br>Flatstock 48</br></p>
-								<div class="gallery-more-info">View more info</div>
-							</div> <!-- /gallery-info -->	
-						</div> <!-- /gallery-info-cont -->					
-						<img class="gallery-show-img" src="_img/gallery-flatstock-48-2k15.jpg"/>
-					</a><!-- /.gallery-show-wrap -->
-				</div><!-- /gallery-show-cont -->	
-			</div> <!-- /.image-container -->	
-
-			<div class="image-container">
-				<div class="gallery-show-cont">
-					<a class="gallery-show-wrap" href="2k14-rock-and-roll-hall-of-fame.php">
-						<div class="gallery-info-cont">
-							<div class="gallery-info">
-								<p><span class="city-name">Cleveland, OH</span></br> 8/9/14</br>Rock & Roll Hall of Fame</br></p>
-								<div class="gallery-more-info">View more info</div>
-							</div> <!-- /gallery-info -->	
-						</div> <!-- /gallery-info-cont -->					
-						<img class="gallery-show-img" src="_img/gallery-show-rock-and-roll-hall-of-fame-2k14.jpg"/>
-					</a><!-- /.gallery-show-wrap -->
-				</div><!-- /gallery-show-cont -->	
-			</div> <!-- /.image-container -->
-
-
 		<!-- Starts SM-Show-Grid -->
 
 			<section class="show-grid-list"> 
+
+				<div class="show-grid-mod media-block">
+					<a class="gallery-show-wrap" href="2k15-weapons-of-mass-creation.php">
+						<div class="show-item">
+							<img class="show-img-sm" src="_img/tz-npr-weapons-of-mass-creation-6.jpg" />
+							<div class="show-caption">WMCF 6</div>
+						</div><!-- /show-item -->	
+					</a>	
+				</div> <!-- /show-grid-mod -->
 
 				<div class="show-grid-mod media-block">
 					<a class="gallery-show-wrap" href="2k15-massart.php">
 						<div class="show-item">
 							<img class="show-img-sm" src="_img/tz-npr-mass-art.jpg" />
 							<div class="show-caption">Mass Art</div>
+						</div><!-- /show-item -->	
+					</a>	
+				</div> <!-- /show-grid-mod -->
+
+				<div class="show-grid-mod media-block">
+					<a class="gallery-show-wrap" href="2k15-flatstock-48.php">
+						<div class="show-item">
+							<img class="show-img-sm" src="_img/tz-npr-flatstock-48.jpg" />
+							<div class="show-caption">Flatstock 48</div>
 						</div><!-- /show-item -->	
 					</a>	
 				</div> <!-- /show-grid-mod -->
@@ -119,6 +138,15 @@
 						</div><!-- /show-item -->	
 					</a>	
 				</div> <!-- /show-grid-mod -->
+
+				<div class="show-grid-mod media-block">
+					<a class="gallery-show-wrap" href="2k14-rock-and-roll-hall-of-fame.php">
+						<div class="show-item">
+							<img class="show-img-sm" src="_img/tz-npr-rock-and-roll-hall-of-fame.jpg" />
+							<div class="show-caption">Rock Hall of Fame</div>
+						</div><!-- /show-item -->	
+					</a>	
+				</div> <!-- /show-grid-mod -->	
 
 				<div class="show-grid-mod media-block">
 					<a class="gallery-show-wrap" href="2k14-boston.php">
