@@ -9,8 +9,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
   <title>The National Poster Retrospecticus</title>
-  <meta name="description" content="National Poster Retrospecticus, 75+ Artists, 300+ Posters, all hand printed in the USA. Produced and curated by JP Boneyard.">
-  <meta name="author" content="John Boilard, JP Boneyard Design, JPB">
+  <meta name="description" content="The National Poster Retrospecticus is an internationally traveling poster show. The NPR features more than 400 hand-printed posters made by over 100 of the most prominent poster designers in the USA. This joint is produced and curated by JP Boneyard.">
+  <meta name="author" content="John Boilard, JP Boneyard, JP Boneyard Design, JPB">
   <meta name="keywords" content="The National Poster Retrospecticus, Hand Printed Posters, USA, DIY, Show Posters, Punk, Letterpress, Screen Print, Stencil, Fun, JP Boneyard, JPB, John Boilard">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">

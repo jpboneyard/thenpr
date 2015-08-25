@@ -98,6 +98,7 @@
 			<li class="player-list-item"> <a href="http://www.neighborhood-studio.com/" target="_blank" alt="Neighborhood Studio">Neighborhood Studio</a> </li>	
 			<li class="player-list-item"> <a href="http://nerlsaysdesign.com/" target="_blank" alt="Nerl Says Design">Nerl Says Design</a> </li>
 			<li class="player-list-item"> <a href="http://www.lydianichols.com/" target="_blank" alt="Lydia Nichols">Lydia Nichols</a> </li>
+			<li class="player-list-item"> <a href="http://www.okpants.com/" target="_blank" alt="OKPants">OKPants</a> </li>
 			<li class="player-list-item"> <a href="http://www.patentpendingindustries.com/posters/posters.php" target="_blank" alt="Patent Pending Industries">Patent Pending Industries</a> </li>
 			<li class="player-list-item"> <a href="http://afirebirdsurrounded.com/" target="_blank" alt="Cecily Perez">Cecily Perez</a> </li>
 			<li class="player-list-item"> <a href="http://redtablepress.com/" target="_blank" alt="Red Table Press">Red Table Press</a> </li>
@@ -114,7 +115,8 @@
 			<li class="player-list-item"> <a href="http://www.danstiles.com/" target="_blank" alt="Dan Stiles">Dan Stiles</a> </li>	
 			<li class="player-list-item"> <a href="http://www.steadyprintshop.com/" target="_blank" alt="Steady Co.">Steady Co.</a> </li>
 			<li class="player-list-item"> <a href="http://hellomattstevens.com/" target="_blank" alt="Matt Stevens">Matt Stevens</a> </li>
-			<li class="player-list-item"> <a href="http://www.tstout.com/" target="_blank" alt="Tyler Stout">Tyler Stout</a> </li>		
+			<li class="player-list-item"> <a href="http://www.tstout.com/" target="_blank" alt="Tyler Stout">Tyler Stout</a> </li>	
+			<li class="player-list-item"> <a href="http://strawcastle.com/" target="_blank" alt="Straw Castle">Straw Castle</a> </li>
 			<li class="player-list-item"> <a href="http://www.subjectmatterstudio.com/" target="_blank" alt="Subject Matter Studio">Subject Matter Studio</a> </li>	
 			<li class="player-list-item"> <a href="http://dianasudyka.com/" target="_blank" alt="Diana Sudyka">Diana Sudyka</a> </li>
 			<li class="player-list-item"> <a href="http://hoaxdevice.com/" target="_blank" alt="Mike Swartz">Mike Swartz</a> </li>										
