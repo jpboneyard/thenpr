@@ -19,12 +19,14 @@
 			<li class="player-list-item"> <a href="http://www.theupperhandart.com/" target="_blank" alt="Brian Butler">Brian Butler</a> </li>
 			<li class="player-list-item"> <a href="http://pressonboston.com/" target="_blank" alt="B.Impressed">B.Impressed</a> </li>	
 			<li class="player-list-item"> <a href="http://scttcmpbll.com/" target="_blank" alt="Scott Campbell">Scott Campbell</a> </li>
-			<li class="player-list-item"> <a href="http://www.secretdoorprojects.org/" target="_blank" alt="Ian Cozzens">Ian Cozzens</a> </li>			
+			<li class="player-list-item"> <a href="http://www.beckycloonan.net" target="_blank" alt="Becky Cloonan">Becky Cloonan</a> </li>
+			<li class="player-list-item"> <a href="http://www.secretdoorprojects.org/" target="_blank" alt="Ian Cozzens">Ian Cozzens</a> </li>	
+			<li class="player-list-item"> <a href="http://www.crosshairchicago.com/" target="_blank" alt="Crosshair">Crosshair</a> </li>
 			<li class="player-list-item"> <a href="http://tinymediaempire.com/" target="_blank" alt="Daniel Danger">Daniel Danger</a> </li>
 			<li class="player-list-item"> <a href="http://thedecoderring.com/" target="_blank" alt="Decoder Ring">Decoder Ring</a> </li>
 			<li class="player-list-item"> <a href="http://www.chrisdelorenzo.com/" target="_blank" alt="Chris DeLorenzo">Chris DeLorenzo</a> </li>
-			<li class="player-list-item"> <a href="http://www.crosshairchicago.com/" target="_blank" alt="Crosshair">Crosshair</a> </li>
 			<li class="player-list-item"> <a href="http://www.deliciousdesignleague.com/" target="_blank" alt="Delicious Design League">Delicious Design League</a> </li>
+			<li class="player-list-item"> <a href="http://klctve.com/" target="_blank" alt="Bobby Dixon">Bobby Dixon</a> </li>
 			<li class="player-list-item"> <a href="http://dkngstudios.com/" target="_blank" alt="DKNG">DKNG</a> </li>
 			<li class="player-list-item"> <a href="http://www.doe-eyed.com/" target="_blank" alt="Doe Eyed">Doe Eyed</a> </li>			
 			<li class="player-list-item"> <a href="http://www.doublenaut.com/" target="_blank" alt="Doublenaut">Doublenaut</a> </li>						
@@ -33,8 +35,10 @@
 			<li class="player-list-item"> <a href="http://www.ryanduggan.com/" target="_blank" alt="Ryan Duggan">Ryan Duggan</a> </li>																				
 			<li class="player-list-item"> <a href="http://nateduval.com/" target="_blank" alt="Nate Duval">Nate Duval</a> </li>
 			<li class="player-list-item"> <a href="http://www.aaroneiland.com/" target="_blank" alt="Aaron Eiland">Aaron Eiland</a> </li>
+			<li class="player-list-item"> <a href="http://www.brianewing.com/" target="_blank" alt="Brian Ewing">Brian Ewing</a> </li>
 			<li class="player-list-item"> <a href="http://shop.factory43.com/" target="_blank" alt="Factory 43">Factory 43</a> </li>	
 			<li class="player-list-item"> <a href="http://www.firecrackerpress.com/" target="_blank" alt="Firecracker Press">Firecracker Press</a> </li>
+			<li class="player-list-item"> <a href="http://sillypinkbunnies.com/" target="_blank" alt="Jeremy Fish">Jeremy Fish</a> </li>
 			<li class="player-list-item"> <a href="http://www.jamesflames.com/" target="_blank" alt="James Flames">James Flames</a> </li>
 			<li class="player-list-item"> <a href="http://jpflexnercreative.blogspot.com/" target="_blank" alt="JP Flexner">JP Flexner</a> </li>	
 	 		<li class="player-list-item"> <a href="https://www.etsy.com/shop/freedrugs" target="_blank" alt="Free Drugs">Free Drugs</a> </li>
