@@ -22,7 +22,7 @@
 					<li><a href="https://www.facebook.com/nationalposterretrospecticus" target="_blank"><img src="/_img/social-facebook.png" /></a></li> 
 					<li><a href="https://twitter.com/thenpr" target="_blank"><img src="/_img/social-twitter.png" /></a></li> 
 					<li><a href="http://instagram.com/jpboneyard" target="_blank"><img src="/_img/social-instagram.png" /></a></li> 
-					<li><a href="http://npr.supermarkethq.com" target="_blank"><img src="/_img/social-supermarket.png" /></a></li> 
+					<li><a href="http://www.supermarkethq.com/collections/npr" target="_blank"><img src="/_img/social-supermarket.png" /></a></li> 
 				</ul> <!-- /social-mod -->	
 			</div> <!-- /home-hdr -->
 			<div class="intro-img-container"><img class="intro-img" src="_img/npr-hdr-btm-2k14.gif" alt="national poster retrospecticus btm"></div>   	
@@ -40,7 +40,7 @@
     			</div> <!-- /title-mod -->	
     		</div> <!-- /hits-topper -->
     			<div class="wrapper about-intro">
-    				<h3 class="topper-h3">The National Poster Retrospecticus is an internationally traveling poster show. The NPR features more than 400 hand-printed posters made by over 100 of the most prominent poster designers in the USA.</h2>
+    				<h3 class="topper-h3">The National Poster Retrospecticus is an internationally traveling poster show. The NPR features more than 400 hand-printed posters made by over 125 of the most prominent poster designers in the USA.</h2>
     				<p class="p-txt">We've traveled all over North America visiting bombed out basements, rad community spaces and fancy art galleries. We've shown in venues like The Rock and Roll Hall of Fame, Adobe HQ and at events like SXSW and NXNE. Our mission is to celebrate posters, the made-by-hand aesthetic and help spread that enthusiasm around the world. We wanna travel everywhere! The NPR is produced by <a href="http://www.jpboneyard.com" target="_blank">JP Boneyard.</a> </p>
     			</div>
     			<div class="btn-txt">
