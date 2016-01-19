@@ -18,7 +18,8 @@
 			<li class="player-list-item"> <a href="http://mikeyburton.com/" target="_blank" alt="Mikey Burton">Mikey Burton</a> </li>
 			<li class="player-list-item"> <a href="http://www.theupperhandart.com/" target="_blank" alt="Brian Butler">Brian Butler</a> </li>
 			<li class="player-list-item"> <a href="http://pressonboston.com/" target="_blank" alt="B.Impressed">B.Impressed</a> </li>	
-			<li class="player-list-item"> <a href="http://scttcmpbll.com/" target="_blank" alt="Scott Campbell">Scott Campbell</a> </li>
+			<li class="player-list-item"> <a href="http://scttcmpbll.com/" target="_blank" alt="Scott Campbell">Scott Campbell</a> </li>			
+			<li class="player-list-item"> <a href="http://www.meatand3printingco.com/" target="_blank" alt="Carl Carbonell">Carl Carbonell</a> </li>
 			<li class="player-list-item"> <a href="http://www.beckycloonan.net" target="_blank" alt="Becky Cloonan">Becky Cloonan</a> </li>
 			<li class="player-list-item"> <a href="http://www.secretdoorprojects.org/" target="_blank" alt="Ian Cozzens">Ian Cozzens</a> </li>	
 			<li class="player-list-item"> <a href="http://www.crosshairchicago.com/" target="_blank" alt="Crosshair">Crosshair</a> </li>
