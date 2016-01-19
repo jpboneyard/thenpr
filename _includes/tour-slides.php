@@ -4,17 +4,17 @@
 
 			<div class="image-container">
 				<div class="gallery-show-cont">
-					<a class="gallery-show-wrap" href="2k15-somerville.php">
+					<a class="gallery-show-wrap" href="2k15-lego.php">
 						<div class="gallery-info-cont">
 							<div class="gallery-info">
-								<p><span class="city-name">Somerville, MA</span></br> 12/20/15</br>Warehouse XI</br></p>
+								<p><span class="city-name">Enfield, CT</span></br> 11/18/15</br>Lego</br></p>
 								<div class="gallery-more-info">View more info</div>
 							</div> <!-- /gallery-info -->	
 						</div> <!-- /gallery-info-cont -->					
-						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+						<img class="gallery-show-img" src="_img/gallery-show-enfield-lego-2k15.jpg"/>
 					</a><!-- /.gallery-show-wrap -->
 				</div><!-- /gallery-show-cont -->	
-			</div> <!-- /.image-container -->	
+			</div> <!-- /.image-container -->				
 
 			<div class="image-container">
 				<div class="gallery-show-cont">
@@ -26,20 +26,6 @@
 							</div> <!-- /gallery-info -->	
 						</div> <!-- /gallery-info-cont -->					
 						<img class="gallery-show-img" src="_img/gallery-show-phoenix-2k15.jpg"/>
-					</a><!-- /.gallery-show-wrap -->
-				</div><!-- /gallery-show-cont -->	
-			</div> <!-- /.image-container -->	
-
-			<div class="image-container">
-				<div class="gallery-show-cont">
-					<a class="gallery-show-wrap" href="2k15-baltimore.php">
-						<div class="gallery-info-cont">
-							<div class="gallery-info">
-								<p><span class="city-name">Owings Mills, MD</span></br> 10/16/15</br>Stevenson University</br></p>
-								<div class="gallery-more-info">View more info</div>
-							</div> <!-- /gallery-info -->	
-						</div> <!-- /gallery-info-cont -->					
-						<img class="gallery-show-img" src="_img/gallery-show-baltimore-2k15.jpg"/>
 					</a><!-- /.gallery-show-wrap -->
 				</div><!-- /gallery-show-cont -->	
 			</div> <!-- /.image-container -->	
@@ -89,6 +75,33 @@
 		<!-- Starts SM-Show-Grid -->
 
 			<section class="show-grid-list"> 
+
+				<div class="show-grid-mod media-block">
+					<a class="gallery-show-wrap" href="2k15-somerville.php">
+						<div class="show-item">
+							<img class="show-img-sm" src="_img/tz-somerville.jpg" />
+							<div class="show-caption">Somerville</div>
+						</div><!-- /show-item -->	
+					</a>	
+				</div> <!-- /show-grid-mod -->
+
+				<div class="show-grid-mod media-block">
+					<a class="gallery-show-wrap" href="2k15-mondocon.php">
+						<div class="show-item">
+							<img class="show-img-sm" src="_img/tz-mondocon.jpg" />
+							<div class="show-caption">MondoCon</div>
+						</div><!-- /show-item -->	
+					</a>	
+				</div> <!-- /show-grid-mod -->
+
+				<div class="show-grid-mod media-block">
+					<a class="gallery-show-wrap" href="2k15-baltimore.php">
+						<div class="show-item">
+							<img class="show-img-sm" src="_img/tz-npr-baltimore.jpg" />
+							<div class="show-caption">Baltimore</div>
+						</div><!-- /show-item -->	
+					</a>	
+				</div> <!-- /show-grid-mod -->
 
 				<div class="show-grid-mod media-block">
 					<a class="gallery-show-wrap" href="2k15-weapons-of-mass-creation.php">
