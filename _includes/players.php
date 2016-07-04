@@ -37,12 +37,12 @@
 			<li class="player-list-item"> <a href="http://nateduval.com/" target="_blank" alt="Nate Duval">Nate Duval</a> </li>
 			<li class="player-list-item"> <a href="http://www.aaroneiland.com/" target="_blank" alt="Aaron Eiland">Aaron Eiland</a> </li>
 			<li class="player-list-item"> <a href="http://www.brianewing.com/" target="_blank" alt="Brian Ewing">Brian Ewing</a> </li>
-			<li class="player-list-item"> <a href="http://shop.factory43.com/" target="_blank" alt="Factory 43">Factory 43</a> </li>	
+			<li class="player-list-item"> <a href="http://shop.factory43.com/" target="_blank" alt="Factory 43">Factory 43</a> </li>
+			<li class="player-list-item"> <a href="http://www.familytreedesign.net/" target="_blank" alt="Family Tree">Family Tree</a> </li>
 			<li class="player-list-item"> <a href="http://www.firecrackerpress.com/" target="_blank" alt="Firecracker Press">Firecracker Press</a> </li>
 			<li class="player-list-item"> <a href="http://sillypinkbunnies.com/" target="_blank" alt="Jeremy Fish">Jeremy Fish</a> </li>
 			<li class="player-list-item"> <a href="http://www.jamesflames.com/" target="_blank" alt="James Flames">James Flames</a> </li>
 			<li class="player-list-item"> <a href="http://jpflexnercreative.blogspot.com/" target="_blank" alt="JP Flexner">JP Flexner</a> </li>	
-	 		<li class="player-list-item"> <a href="https://www.etsy.com/shop/freedrugs" target="_blank" alt="Free Drugs">Free Drugs</a> </li>
 	 		<li class="player-list-item"> <a href="http://www.javiergd.com/" target="_blank" alt="Javier Garcia">Javier Garcia</a> </li>
 	 		<li class="player-list-item"> <a href="http://www.timgough.org/" target="_blank" alt="Tim Gough">Tim Gough</a> </li>	
 	 		<li class="player-list-item"> <a href="http://www.dangrzeca.com/" target="_blank" alt="Dan Grzeca">Dan Grzeca</a> </li>	
@@ -110,12 +110,13 @@
 			<li class="player-list-item"> <a href="http://www.repeatpress.com/" target="_blank" alt="Repeat Press">Repeat Press</a> </li>					
 			<li class="player-list-item"> <a href="http://joshrickun.com/" target="_blank" alt="Josh Rickun">Josh Rickun</a> </li>
 			<li class="player-list-item"> <a href="http://shedlabs.com/" target="_blank" alt="Shed Labs">Shed Labs</a> </li>
-			<li class="player-list-item"> <a href="http://benjamink.com/portfolio/" target="_blank" alt="Ben K. Shown">Ben K. Shown</a> </li>																			
+			<li class="player-list-item"> <a href="http://benjamink.com/portfolio/" target="_blank" alt="Ben K. Shown">Ben K. Shown</a> </li>
 			<li class="player-list-item"> <a href="http://thesilentgiants.com/" target="_blank" alt="Silent Giants">Silent Giants</a> </li>
 			<li class="player-list-item"> <a href="http://sleepykittyarts.com/" target="_blank" alt="Sleepy Kitty">Sleepy Kitty</a> </li>
 			<li class="player-list-item"> <a href="http://amicahsmith.com/" target="_blank" alt="A. Micah Smith">A. Micah Smith</a> </li>													
 			<li class="player-list-item"> <a href="http://mikesmith187.com/" target="_blank" alt="Mike Smith">Mike Smith</a> </li>	
 			<li class="player-list-item"> <a href="http://www.sonnenzimmer.com/" target="_blank" alt="Sonnenzimmer">Sonnenzimmer</a> </li>	
+			<li class="player-list-item"> <a href="https://www.etsy.com/shop/StarmanPress" target="_blank" alt="StarmanPress">StarmanPress</a> </li>	
 			<li class="player-list-item"> <a href="http://www.statusserigraph.com/" target="_blank" alt="Status Serigrpah">Status Serigraph</a> </li>	
 			<li class="player-list-item"> <a href="http://www.danstiles.com/" target="_blank" alt="Dan Stiles">Dan Stiles</a> </li>	
 			<li class="player-list-item"> <a href="http://www.steadyprintshop.com/" target="_blank" alt="Steady Co.">Steady Co.</a> </li>

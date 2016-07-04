@@ -1,5 +1,48 @@
 		<div class="wrapper shows-mod">
 
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
+					<a class="gallery-show-wrap" href="2k16-weapons-of-mass-creation.php">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">Cleveland, OH</span></br> 08/05/16</br>WMC 7</br></p>
+								<div class="gallery-more-info">View more info</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+					</a><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->	
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
+					<a class="gallery-show-wrap" href="2k16-westfield.php">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">Westfield, MA</span></br> 07/15/16</br>Rinnova Building</br></p>
+								<div class="gallery-more-info">View more info</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+					</a><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->	
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
+					<a class="gallery-show-wrap" href="2k16-austin.php">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">Austin, TX</span></br> 06/08/16</br>Lewis Carnegie</br></p>
+								<div class="gallery-more-info">View more info</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+					</a><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->	
+
 			<div class="image-container">
 				<div class="gallery-show-cont">
 					<a class="gallery-show-wrap" href="2k16-flatstock-53.php">
@@ -61,7 +104,7 @@
 					<a class="gallery-show-wrap" href="2k15-adobe.php">
 						<div class="gallery-info-cont">
 							<div class="gallery-info">
-								<p><span class="city-name">San Francisco, CA</span></br> 8/18/15</br>Adobe</br></p>
+								<p><span class="city-name">San Francisco, CA</span></br> 8/18/15</br>Adobe Studios</br></p>
 								<div class="gallery-more-info">View more info</div>
 							</div> <!-- /gallery-info -->	
 						</div> <!-- /gallery-info-cont -->					
