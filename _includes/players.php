@@ -128,6 +128,8 @@
 			<li class="player-list-item"> <a href="http://hoaxdevice.com/" target="_blank" alt="Mike Swartz">Mike Swartz</a> </li>										
 			<li class="player-list-item"> <a href="http://www.theoldstore.org" target="_blank" alt="Michael Swiatlowski">Michael Swiatlowski</a> </li>
 			<li class="player-list-item"> <a href="http://jasontaylordesign.com/" target="_blank" alt="Jason Taylor">Jason Taylor</a> </li>
+			<li class="player-list-item"> <a href="http://www.matttaylor.co.uk/" target="_blank" alt="Matt Taylor">Matt Taylor</a> </li>
+			<li class="player-list-item"> <a href="http://telegramme.co.uk/" target="_blank" alt="Telegram Paper co.">Telegram Paper co.</a> </li>
 			<li class="player-list-item"> <a href="http://tragicsunshine.com/" target="_blank" alt="Kevin Tong">Kevin Tong</a> </li>	
 			<li class="player-list-item"> <a href="http://www.ramenroyale.com/" target="_blank" alt="Tooth">Tooth</a> </li>	
 			<li class="player-list-item"> <a href="http://www.milestsang.com/" target="_blank" alt="Miles Tsang">Miles Tsang</a> </li>									
@@ -142,6 +144,7 @@
 			<li class="player-list-item"> <a href="http://cargocollective.com/wildingdavis" target="_blank" alt="Wilding Davis and Co.">Wilding Davis & Co.</a> </li>
 			<li class="player-list-item"> <a href="http://ericawilliamsillustration.com/" target="_blank" alt="Erica Williams">Erica Williams</a> </li>
 			<li class="player-list-item"> <a href="http://www.scottwilliamsdesign.com/" target="_blank" alt="Scott Williams">Scott Wiliams</a> </li>
+			<li class="player-list-item"> <a href="http://www.ghostco.org/" target="_blank" alt="Matthew Woodson">Matthew Woodson</a> </li>
 			<li class="player-list-item"> <a href="http://theyoungmensdangerclub.com/" target="_blank" alt="Young Mens Danger Club">Young Men's Danger Club</a> </li>						
 	 	</ul>
 	</div>
