@@ -1,5 +1,6 @@
+
 <?php 
-    $title = "The National Poster Retrospecticus — Westfield, MA";
+    $title = "The National Poster Retrospecticus at MondoCon 2016 — Austin, TX";
     include($_SERVER["DOCUMENT_ROOT"]."/_includes/head.php"); ?>   
 	<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/header.php"); ?> 
 
@@ -12,25 +13,25 @@
 	    			<img class="note-card-m" src="/_img/note-card-m.jpg">    			
 					<div class="event-info-cont">
 						<div class="event-info-main">
-							<div class="city-name">Westfield, MA</div>
-							<p>7/15/16</br>
-							<a href="http://www.westfieldcreativearts.com/" target="_blank">Rinnova Building</a></p>							
-							<p>6:00pm - 10:00pm</br> 															 
+							<div class="city-name">Austin, TX</div>
+							<p>10/22/16</br>
+							<a href="http://mondo-con.com/" target="_blank">MondoCon</a></p>							
+							<p>11am</br> 															 
 						</div> <!-- /event-info-main -->
 						<div class="event-info-deets">
 							<div class="event-details-title">Address</div>
-								<p><a href="https://www.google.com/maps/place/105+Elm+St,+Westfield,+MA+01085/data=!4m2!3m1!1s0x89e71e5057a21dab:0x25d4e0831fe84929?sa=X&ved=0ahUKEwikrfjOq8vNAhUI7oMKHbjxDCUQ8gEIHTAA" target="_blank">105 Elm Street</a></p>
-								<div class="event-details-title">Facebook</div>
-								<p><a href="https://www.facebook.com/events/259697384402658/" target="_blank">facebook.com/events/...</a></p>
+								<p><a href="https://www.google.com/maps/place/6226+Middle+Fiskville+Rd,+Austin,+TX+78752/data=!4m2!3m1!1s0x8644ca3d5058eb47:0xa49888432b1089be?sa=X&ved=0ahUKEwj8vs_frunJAhWCwiYKHV3zAPYQ8gEIIzAB" target="_blank">6226 Middle Fiskville Rd</a></p>
+									<!-- <div class="event-details-title">Facebook</div>
+									<p><a href="https://www.facebook.com/events/1648761922056075/" target="_blank">facebook.com/events/...</a></p> -->
 								<div class="event-details-title">w/ Featured Artist</div>
-								<p>	<a href="https://www.59parks.net/" target="_blank">Fifty-Nine Parks Print Series</a> </br>
-								</p>
-						</div> <!-- /event-info-deets -->			
+								<p><a href="http://59parks.net" target="_blank">Fifty-Nine Parks Print Series</a></p>
+					</div> <!-- /event-info-deets -->			
 					</div><!-- /event-details-cont -->	
-					<img class="ticket" src="/_img/admit-one-4.png"/>
+					<img class="ticket" src="/_img/admit-one.png"/>
 				</div><!-- /note-card-cont -->	
 
-				<img  class="show-poster" src="/_img/2k16-westfield-rinnova-building-national-poster-retrospecticus.jpg">
+				<img  class="show-poster" src="/_img/2k16-austin-tx-mondocon-national-poster-retrospecticus.jpg">
+
 	    	</div> <!-- /wrapper -->	
 	    </section> <!-- /event-details -->	
 

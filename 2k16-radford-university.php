@@ -1,5 +1,5 @@
 <?php 
-    $title = "The National Poster Retrospecticus — Westfield, MA";
+    $title = "The National Poster Retrospecticus at Radford University";
     include($_SERVER["DOCUMENT_ROOT"]."/_includes/head.php"); ?>   
 	<?php include($_SERVER["DOCUMENT_ROOT"]."/_includes/header.php"); ?> 
 
@@ -12,25 +12,27 @@
 	    			<img class="note-card-m" src="/_img/note-card-m.jpg">    			
 					<div class="event-info-cont">
 						<div class="event-info-main">
-							<div class="city-name">Westfield, MA</div>
-							<p>7/15/16</br>
-							<a href="http://www.westfieldcreativearts.com/" target="_blank">Rinnova Building</a></p>							
-							<p>6:00pm - 10:00pm</br> 															 
+							<div class="city-name">Radford, VA</div>
+							<p>9/08/16</br>
+							<a href="https://www.radford.edu/content/radfordcore/home.html" target="_blank">Radford University</a></p>							
+							<p>5pm - 9pm</br> 															 
 						</div> <!-- /event-info-main -->
 						<div class="event-info-deets">
 							<div class="event-details-title">Address</div>
-								<p><a href="https://www.google.com/maps/place/105+Elm+St,+Westfield,+MA+01085/data=!4m2!3m1!1s0x89e71e5057a21dab:0x25d4e0831fe84929?sa=X&ved=0ahUKEwikrfjOq8vNAhUI7oMKHbjxDCUQ8gEIHTAA" target="_blank">105 Elm Street</a></p>
-								<div class="event-details-title">Facebook</div>
-								<p><a href="https://www.facebook.com/events/259697384402658/" target="_blank">facebook.com/events/...</a></p>
+								<p><a href="https://www.google.com/maps/place/Radford+University/@37.1383079,-80.5512433,15z/data=!4m2!3m1!1s0x0:0x2590a42e47a76a5?sa=X&ved=0ahUKEwim-ObHwc7OAhVMRSYKHdwyDnEQ_BIIfDAK" target="_blank">801 E Main St</a></p>
 								<div class="event-details-title">w/ Featured Artist</div>
-								<p>	<a href="https://www.59parks.net/" target="_blank">Fifty-Nine Parks Print Series</a> </br>
+								<p>	<a href="http://bravethewoods.com/" target="_blank">Brave the Woods</a> </br>
 								</p>
 						</div> <!-- /event-info-deets -->			
 					</div><!-- /event-details-cont -->	
-					<img class="ticket" src="/_img/admit-one-4.png"/>
+					<img class="ticket" src="/_img/admit-one-2.png"/>
 				</div><!-- /note-card-cont -->	
 
-				<img  class="show-poster" src="/_img/2k16-westfield-rinnova-building-national-poster-retrospecticus.jpg">
+				<img  class="show-poster" src="/_img/2k16-radford-university-national-poster-retrospecticus.jpg">
+				<div class="show-meta">
+		    		Poster by <a href="http://bravethewoods.com/" target="_blank">Brave the Woods</a> and printed by <a href="http://burlesquedesign.com/" target="blank">BRLSQ of N. America</a> 
+		    	</div> <!-- /show-meta	-->
+
 	    	</div> <!-- /wrapper -->	
 	    </section> <!-- /event-details -->	
 

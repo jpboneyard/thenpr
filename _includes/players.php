@@ -141,6 +141,7 @@
 			<li class="player-list-item"> <a href="http://www.joeywathendesign.com/" target="_blank" alt="Joey Wathen">Joey Wathen</a> </li>
 			<li class="player-list-item"> <a href="https://instagram.com/dentonwatts/" target="_blank" alt="Denton Watts">Denton Watts</a> </li>	
 			<li class="player-list-item"> <a href="http://strongstuff.net/" target="_blank" alt="Tom Whalen">Tom Whalen</a> </li>	
+			<li class="player-list-item"> <a href="http://www.teaganwhite.com/" target="_blank" alt="Teagan White">Teagan White</a> </li>
 			<li class="player-list-item"> <a href="http://cargocollective.com/wildingdavis" target="_blank" alt="Wilding Davis and Co.">Wilding Davis & Co.</a> </li>
 			<li class="player-list-item"> <a href="http://ericawilliamsillustration.com/" target="_blank" alt="Erica Williams">Erica Williams</a> </li>
 			<li class="player-list-item"> <a href="http://www.scottwilliamsdesign.com/" target="_blank" alt="Scott Williams">Scott Wiliams</a> </li>
