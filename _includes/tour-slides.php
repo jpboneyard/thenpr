@@ -16,6 +16,20 @@
 
 			<div class="image-container">
 				<div class="gallery-show-cont">
+					<a class="gallery-show-wrap" href="2k16-huntsville.php">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">Huntsville, AL</span></br> 09/10/16</br>Lowe Mill A&E</br></p>
+								<div class="gallery-more-info">View more info</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+					</a><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->	
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
 					<a class="gallery-show-wrap" href="2k16-mondo-gallery.php">
 						<div class="gallery-info-cont">
 							<div class="gallery-info">
