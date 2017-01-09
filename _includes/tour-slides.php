@@ -6,7 +6,7 @@
 						<div class="gallery-info-cont">
 							<div class="gallery-info">
 								<p><span class="city-name">Baton Rouge, LA</span></br> 01/22/17</br>Bricks & Bombs</br></p>
-								<div class="gallery-more-info">12pm-5pm</div>
+								<div class="gallery-more-info">12pm-5pm - <a href="https://www.facebook.com/events/1065345813594223/">Event Page</a></div>
 							</div> <!-- /gallery-info -->	
 						</div> <!-- /gallery-info-cont -->					
 						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
@@ -21,7 +21,7 @@
 						<div class="gallery-info-cont">
 							<div class="gallery-info">
 								<p><span class="city-name">St. Augustine, FL</span></br> 01/20/17</br>M.C. Pressure</br></p>
-								<div class="gallery-more-info">6pm-10pm</div>
+								<div class="gallery-more-info">6pm-10pm - <a href="https://www.facebook.com/events/1626125704362652/">Event Page</a></div>
 							</div> <!-- /gallery-info -->	
 						</div> <!-- /gallery-info-cont -->					
 						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
@@ -36,7 +36,7 @@
 						<div class="gallery-info-cont">
 							<div class="gallery-info">
 								<p><span class="city-name">Miami, FL</span></br> 01/14/17</br>Studio Invnsbl</br></p>
-								<div class="gallery-more-info">6pm-11pm</div>
+								<div class="gallery-more-info">6pm-11pm - <a href="https://www.facebook.com/events/1824092084513623">Event Page</a></div>
 							</div> <!-- /gallery-info -->	
 						</div> <!-- /gallery-info-cont -->					
 						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
@@ -50,7 +50,7 @@
 						<div class="gallery-info-cont">
 							<div class="gallery-info">
 								<p><span class="city-name">Orlando, FL</span></br> 01/12/17</br>Redefine Gallery</br></p>
-								<div class="gallery-more-info">6pm-10pm</div>
+								<div class="gallery-more-info">6pm-10pm - <a href="https://www.facebook.com/events/1287209631300511/">Event Page</a></div>
 							</div> <!-- /gallery-info -->	
 						</div> <!-- /gallery-info-cont -->					
 						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
