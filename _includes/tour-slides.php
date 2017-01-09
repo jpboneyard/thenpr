@@ -2,10 +2,153 @@
 
 			<div class="image-container">
 				<div class="gallery-show-cont">
+					<div class="gallery-show-wrap">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">Baton Rouge, LA</span></br> 01/22/17</br>Bricks & Bombs</br></p>
+								<div class="gallery-more-info">12pm-5pm</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+					</div><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->	
+
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
+					<div class="gallery-show-wrap">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">St. Augustine, FL</span></br> 01/20/17</br>M.C. Pressure</br></p>
+								<div class="gallery-more-info">6pm-10pm</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+					</div><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->	
+
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
+					<div class="gallery-show-wrap">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">Miami, FL</span></br> 01/14/17</br>Studio Invnsbl</br></p>
+								<div class="gallery-more-info">6pm-11pm</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+					</div><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->	
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
+					<div class="gallery-show-wrap">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">Orlando, FL</span></br> 01/12/17</br>Redefine Gallery</br></p>
+								<div class="gallery-more-info">6pm-10pm</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+					</div><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->	
+
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
+					<div class="gallery-show-wrap">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">Somerville, MA</span></br> 11/20/16</br>Union Press</br></p>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+					</div><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->	
+
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
+					<a class="gallery-show-wrap" href="2k16-lego.php">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">Enfield, CT</span></br> 11/15/16</br>Lego HQ</br></p>
+								<div class="gallery-more-info">View more info</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+					</a><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->		
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
+					<a class="gallery-show-wrap" href="2k16-adobe-max.php">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">San Diego, CA</span></br> 11/02/16</br>Adobe Max</br></p>
+								<div class="gallery-more-info">View more info</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+					</a><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->			
+
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
+					<a class="gallery-show-wrap" href="2k16-phoenix-design-week.php">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">Phoenix, AZ</span></br> 10/28/16</br>Phoenix Design Week</br></p>
+								<div class="gallery-more-info">View more info</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+					</a><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->	
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
+					<a class="gallery-show-wrap" href="2k16-mondocon.php">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">Austin, TX</span></br> 10/22/16</br>Mondocon</br></p>
+								<div class="gallery-more-info">View more info</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+					</a><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->	
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
+					<div class="gallery-show-wrap">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">Austin, TX</span></br> 10/12/16</br>SXSW Eco</br></p>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
+					</div><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->	
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
 					<a class="gallery-show-wrap" href="2k16-radford-university.php">
 						<div class="gallery-info-cont">
 							<div class="gallery-info">
-								<p><span class="city-name">Radford, VA</span></br> 09/08/16</br>Radford University</br></p>
+								<p><span class="city-name">Radford, VA</span></br> 10/07/16</br>Radford University</br></p>
 								<div class="gallery-more-info">View more info</div>
 							</div> <!-- /gallery-info -->	
 						</div> <!-- /gallery-info-cont -->					
@@ -13,6 +156,21 @@
 					</a><!-- /.gallery-show-wrap -->
 				</div><!-- /gallery-show-cont -->	
 			</div> <!-- /.image-container -->	
+
+			<div class="image-container">
+				<div class="gallery-show-cont">
+					<a class="gallery-show-wrap" href="2k16-montserrat.php">
+						<div class="gallery-info-cont">
+							<div class="gallery-info">
+								<p><span class="city-name">Beverly, MA</span></br> 09/30/16</br>Montserrat</br></p>
+								<div class="gallery-more-info">View more info</div>
+							</div> <!-- /gallery-info -->	
+						</div> <!-- /gallery-info-cont -->					
+						<img class="gallery-show-img" src="_img/gallery-show-montserrat-college-of-art-2k16.jpg"/>
+					</a><!-- /.gallery-show-wrap -->
+				</div><!-- /gallery-show-cont -->	
+			</div> <!-- /.image-container -->	
+
 
 			<div class="image-container">
 				<div class="gallery-show-cont">
@@ -40,77 +198,7 @@
 						<img class="gallery-show-img" src="_img/gallery-show-mondo-gallery-2k16.jpg"/>
 					</a><!-- /.gallery-show-wrap -->
 				</div><!-- /gallery-show-cont -->	
-			</div> <!-- /.image-container -->	
-
-			<div class="image-container">
-				<div class="gallery-show-cont">
-					<a class="gallery-show-wrap" href="2k16-montserrat.php">
-						<div class="gallery-info-cont">
-							<div class="gallery-info">
-								<p><span class="city-name">Beverly, MA</span></br> 09/30/16</br>Montserrat</br></p>
-								<div class="gallery-more-info">View more info</div>
-							</div> <!-- /gallery-info -->	
-						</div> <!-- /gallery-info-cont -->					
-						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
-					</a><!-- /.gallery-show-wrap -->
-				</div><!-- /gallery-show-cont -->	
-			</div> <!-- /.image-container -->	
-
-			<div class="image-container">
-				<div class="gallery-show-cont">
-					<a class="gallery-show-wrap" href="2k16-mondocon.php">
-						<div class="gallery-info-cont">
-							<div class="gallery-info">
-								<p><span class="city-name">Austin, TX</span></br> 10/22/16</br>Mondocon</br></p>
-								<div class="gallery-more-info">View more info</div>
-							</div> <!-- /gallery-info -->	
-						</div> <!-- /gallery-info-cont -->					
-						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
-					</a><!-- /.gallery-show-wrap -->
-				</div><!-- /gallery-show-cont -->	
-			</div> <!-- /.image-container -->	
-
-			<div class="image-container">
-				<div class="gallery-show-cont">
-					<a class="gallery-show-wrap" href="2k16-phoenix-design-week.php">
-						<div class="gallery-info-cont">
-							<div class="gallery-info">
-								<p><span class="city-name">Phoenix, AZ</span></br> 10/28/16</br>Phoenix Design Week</br></p>
-								<div class="gallery-more-info">View more info</div>
-							</div> <!-- /gallery-info -->	
-						</div> <!-- /gallery-info-cont -->					
-						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
-					</a><!-- /.gallery-show-wrap -->
-				</div><!-- /gallery-show-cont -->	
 			</div> <!-- /.image-container -->		
-
-			<div class="image-container">
-				<div class="gallery-show-cont">
-					<a class="gallery-show-wrap" href="2k16-adobe-max.php">
-						<div class="gallery-info-cont">
-							<div class="gallery-info">
-								<p><span class="city-name">San Diego, CA</span></br> 11/02/16</br>Adobe Max</br></p>
-								<div class="gallery-more-info">View more info</div>
-							</div> <!-- /gallery-info -->	
-						</div> <!-- /gallery-info-cont -->					
-						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
-					</a><!-- /.gallery-show-wrap -->
-				</div><!-- /gallery-show-cont -->	
-			</div> <!-- /.image-container -->		
-
-			<div class="image-container">
-				<div class="gallery-show-cont">
-					<a class="gallery-show-wrap" href="2k16-lego.php">
-						<div class="gallery-info-cont">
-							<div class="gallery-info">
-								<p><span class="city-name">Enfield, CT</span></br> 11/15/16</br>Lego HQ</br></p>
-								<div class="gallery-more-info">View more info</div>
-							</div> <!-- /gallery-info -->	
-						</div> <!-- /gallery-info-cont -->					
-						<img class="gallery-show-img" src="_img/gallery-show-temp.jpg"/>
-					</a><!-- /.gallery-show-wrap -->
-				</div><!-- /gallery-show-cont -->	
-			</div> <!-- /.image-container -->				
 
 			<div class="image-container">
 				<div class="gallery-show-cont">

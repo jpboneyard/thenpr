@@ -20,8 +20,8 @@
 						<div class="event-info-deets">
 							<div class="event-details-title">Address</div>
 								<p><a href="https://www.google.com/maps/place/Montserrat+College+of+Art/@42.5501402,-70.8760643,15z/data=!4m2!3m1!1s0x0:0xa732f87f1a807ae1?sa=X&ved=0ahUKEwib3tDNxM7OAhXHWSYKHcKDA3EQ_BIIlAEwEQ" target="_blank"> 23 Essex St</a></p>
-								<!-- <div class="event-details-title">Facebook</div>
-								<p><a href="https://www.facebook.com/events/980569058628160/" target="_blank">facebook.com/events/...</a></p> -->
+								<div class="event-details-title">Facebook</div>
+								<p><a href="https://www.facebook.com/events/166657623777253/" target="_blank">facebook.com/events/...</a></p>
 								<div class="event-details-title">w/ Featured Artist</div>
 								<p><a href="http://www.unionpressprints.com/" target="_blank">Union Press</a></p>
 					</div> <!-- /event-info-deets -->			
@@ -29,9 +29,9 @@
 					<img class="ticket" src="/_img/admit-one.png"/>
 				</div><!-- /note-card-cont -->	
 
-		<!-- 		<img  class="show-poster" src="/_img/2k15-austin-mondo-gallery-national-poster-retrospecticus.jpg">
+				<img  class="show-poster" src="/_img/2k16-beverly-montserrat-college-of-art-national-poster-retrospecticus.jpg">
 				<div class="show-meta">
-		    		Poster and printing by <a href="http://thelittlefriendsofprintmaking.com/" target="_blank">Union Press</a> -->
+		    		Poster and printing by <a href="http://www.unionpressprints.com/" target="_blank">Union Press</a>
 		    	</div> <!-- /show-meta -->	
 
 	    	</div> <!-- /wrapper -->	

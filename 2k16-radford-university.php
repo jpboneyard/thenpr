@@ -13,9 +13,9 @@
 					<div class="event-info-cont">
 						<div class="event-info-main">
 							<div class="city-name">Radford, VA</div>
-							<p>9/08/16</br>
+							<p>10/07/16</br>
 							<a href="https://www.radford.edu/content/radfordcore/home.html" target="_blank">Radford University</a></p>							
-							<p>5pm - 9pm</br> 															 
+							<p>6pm - 10pm</br> 															 
 						</div> <!-- /event-info-main -->
 						<div class="event-info-deets">
 							<div class="event-details-title">Address</div>
